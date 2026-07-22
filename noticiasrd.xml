@@ -5,196 +5,257 @@
     <link>https://lecodejedi.github.io/noticiasrd.xml</link>
     <description>Resumen diario de noticias dominicanas de las principales fuentes de prensa nacional.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 22 Jul 2026 12:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:04:28 +0000</lastBuildDate>
     <generator>Noticias.RD RSS Summarizer</generator>
     <item>
-      <title>República Dominicana sale del mapa mundial del hambre según la FAO</title>
-      <description>La Organización de las Naciones Unidas para la Alimentación y la Agricultura confirmó que la prevalencia de subalimentación en el país cayó por debajo del 2,5%, umbral internacional que define la condición de hambre. El director general del organismo, Qu Dongyu, atribuyó el logro a la articulación de políticas públicas con un firme respaldo político. El presidente Luis Abinader calificó el resultado como un triunfo del país entero, fruto del trabajo conjunto entre el Estado, los productores agropecuarios y la sociedad civil.</description>
+      <title>Escasez de lluvias obliga a racionar el agua en sectores de Santo Domingo</title>
+      <description>La Corporación del Acueducto y Alcantarillado de Santo Domingo anunció reducciones en el suministro de agua potable para varios municipios y sectores de la capital, como consecuencia de la sequía que ha mermado los caudales de los ríos Duey e Isa-Mana. El director de la entidad dispuso camiones cisterna para abastecer a las comunidades más afectadas, especialmente aquellas ubicadas en zonas de mayor elevación. Las autoridades llamaron a la población a hacer un uso responsable del recurso hídrico mientras persistan las condiciones climáticas adversas.</description>
       <category>Noticias</category>
-      <link>https://eldia.com.do/fao-saca-a-republica-dominicana-del-mapa-mundial-del-hambre/</link>
-      <guid isPermaLink="true">https://eldia.com.do/fao-saca-a-republica-dominicana-del-mapa-mundial-del-hambre/</guid>
-      <source url="https://eldia.com.do/fao-saca-a-republica-dominicana-del-mapa-mundial-del-hambre/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:20:00 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/sequia-reduce-caudales-de-rios-y-provoca-baja-presion-e-interrupciones-de-agua-potable-en-sd/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/sequia-reduce-caudales-de-rios-y-provoca-baja-presion-e-interrupciones-de-agua-potable-en-sd/</guid>
+      <source url="https://elnuevodiario.com.do/sequia-reduce-caudales-de-rios-y-provoca-baja-presion-e-interrupciones-de-agua-potable-en-sd/">El Nuevo Diario</source>
+      <comments>El Nuevo Diario: https://elnuevodiario.com.do/disminucion-de-caudales-por-efectos-sequia-provoca-bajas-presiones-e-interrupciones-servicio-agua-potable/</comments>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/La-CAASD-informo-que-varios-sectores-presentaran-bajas-presiones-e-interrupciones-temporales-en-el-servicio-de-agua-potable-Foto-Fuente-Externa-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 15:57:18 +0000</pubDate>
     </item>
     <item>
-      <title>Muerte bajo custodia policial genera dudas sobre las causas reales</title>
-      <description>Miguel Antonio Valenzuela falleció en un hospital de San Cristóbal dos días después de ser liberado del destacamento policial conocido como La 17, donde permaneció detenido cinco días por presunta posesión de un verifón. El Instituto Nacional de Ciencias Forenses atribuyó la muerte a una leptospirosis con trombocitopenia, pero sus familiares afirman que fue golpeado durante el encierro y exigen una investigación independiente. El caso reabre el debate sobre las condiciones de salubridad y el trato a los detenidos en los cuarteles policiales del país.</description>
+      <title>Productores de mango dominicano buscan recuperar el mercado estadounidense</title>
+      <description>El presidente del Clúster del Mango Dominicano convocó a las autoridades y cultivadores a una reunión de urgencia para evaluar los obstáculos sanitarios que motivaron la suspensión de las exportaciones hacia Estados Unidos. La prohibición fue dictada por el Departamento de Agricultura estadounidense tras detectarse la mosca caribeña de la fruta en niveles superiores a los permitidos. Los sectores involucrados temen que la demora en resolver el problema afecte la próxima cosecha y reste competitividad al rubro en el exterior.</description>
+      <category>Negocios</category>
+      <link>https://n.com.do/2026/07/22/cluster-del-mango-insta-a-evaluar-la-produccion-para-reanudar-exportaciones-a-ee-uu/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/cluster-del-mango-insta-a-evaluar-la-produccion-para-reanudar-exportaciones-a-ee-uu/</guid>
+      <source url="https://n.com.do/2026/07/22/cluster-del-mango-insta-a-evaluar-la-produccion-para-reanudar-exportaciones-a-ee-uu/">n.com.do</source>
+      <comments>Diario Libre: https://www.diariolibre.com/economia/agro/2026/07/22/esperan-reanudar-exportaciones-de-mango-a-ee-uu-en-4-meses/3606422</comments>
+      <enclosure url="https://resources.diariolibre.com/images/2026/07/21/esperan-reanudar-exportaciones-de-mango-a-ee-uu-en-4-meses-9e9ceed5-focus-0-0-400-300.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 15:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Discrepancia entre autopsia y testimonios familiares rodea la muerte de un detenido en San Cristóbal</title>
+      <description>Miguel Antonio Valenzuela falleció en un hospital de San Cristóbal dos días después de ser liberado del destacamento policial La 17, donde permaneció recluido durante cinco jornadas por una presunta infracción vinculada a la lotería ilegal. El Instituto Nacional de Ciencias Forenses atribuyó el deceso a una leptospirosis que provocó una caída drástica de plaquetas, pero los familiares aseguran que la víctima relató haber sufrido golpes y tortura durante su cautiverio. La contradicción entre el informe oficial y las denuncias de los allegados ha generado protestas y reclamos por una investigación independiente.</description>
       <category>Noticias</category>
       <link>https://www.diariolibre.com/actualidad/sucesos/2026/07/21/cronologia-caso-miguel-antonio-valenzuela/3606015</link>
       <guid isPermaLink="true">https://www.diariolibre.com/actualidad/sucesos/2026/07/21/cronologia-caso-miguel-antonio-valenzuela/3606015</guid>
       <source url="https://www.diariolibre.com/actualidad/sucesos/2026/07/21/cronologia-caso-miguel-antonio-valenzuela/3606015">Diario Libre</source>
       <comments>Diario Libre: https://www.diariolibre.com/actualidad/sucesos/2026/07/20/investigacion-sobre-la-muerte-de-miguel-antonio-valenzuela/3604918</comments>
+      <comments>Diario Libre: https://www.diariolibre.com/actualidad/sucesos/2026/07/20/procuradora-afirma-que-miguel-valenzuela-fue-llevado-al-medico/3605155</comments>
+      <comments>Diario Libre: https://www.diariolibre.com/actualidad/sucesos/2026/07/20/familiares-protestan-por-muerte-de-hombre-detenido-en-san-cristobal/3604852</comments>
       <enclosure url="https://resources.diariolibre.com/images/2026/07/19/habria-muerto-por-leptospirosis-hombre-que-duro-cinco-dias-detenido-68a99ea4-focus-0-0-400-300.jpg" type="image/jpeg" />
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Continúa este miércoles el juicio por difamación contra Ángel Martínez</title>
-      <description>La Cuarta Sala Penal del Distrito Nacional reanuda la audiencia por la querella de difamación e injuria interpuesta por el exministro de Educación Roberto Fulcar contra el comunicador Ángel Martínez. El tribunal conocerá las pruebas documentales y testimoniales antes de decidir la culpabilidad del acusado. Martínez enfrenta además otro proceso similar por injurias contra la ministra Faride Raful, programado para finales de julio, y ya acumula dos condenas previas por delitos semejantes.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/este-miercoles-continua-juicio-de-fondo-contra-angel-martinez-por-querella-de-roberto-fulcar/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/este-miercoles-continua-juicio-de-fondo-contra-angel-martinez-por-querella-de-roberto-fulcar/</guid>
-      <source url="https://n.com.do/2026/07/22/este-miercoles-continua-juicio-de-fondo-contra-angel-martinez-por-querella-de-roberto-fulcar/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 11:00:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Un mercado de 16 millones de dólares que jamás abrió sus puertas</title>
-      <description>El Mercado de Villas Agrícolas, construido en 2012 para modernizar el comercio de la avenida Duarte, permanece abandonado tras 14 años sin recibir a un solo comerciante. La infraestructura, dotada de 57 puestos y equipamiento de acero inoxidable, hoy muestra cristales rotos y escombros mientras el Mercado Nuevo de la Duarte sigue padeciendo el mismo desorden que el proyecto pretendía resolver. El caso ilustra cómo una inversión pública millonaria puede diluirse cuando falta continuidad y voluntad de gestión.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/el-mercado-fantasma-de-villas-agricolas-una-inversion-de-us16-millones-que-nunca-resolvio-el-caos-de-la-duarte/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/el-mercado-fantasma-de-villas-agricolas-una-inversion-de-us16-millones-que-nunca-resolvio-el-caos-de-la-duarte/</guid>
-      <source url="https://n.com.do/2026/07/22/el-mercado-fantasma-de-villas-agricolas-una-inversion-de-us16-millones-que-nunca-resolvio-el-caos-de-la-duarte/">n.com.do</source>
-      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/690c02c782803-300x169.jpeg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 10:30:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Debate divide al Congreso sobre el alcance de la reforma policial</title>
-      <description>El proyecto que modifica la Ley Orgánica de la Policía Nacional ha fracturado las posiciones entre quienes abogan por una reforma legal y quienes consideran necesaria una refundación desde cero. El senador Antonio Taveras sostiene que la institución arrastra una cultura de violencia desde su creación en la dictadura trujillista y propugna por un modelo civil y comunitario. En cambio, el exdirector Guzmán Fermín advierte que la propuesta podría debilitar el mando policial y afectar derechos adquiridos de los agentes.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/reforma-o-refundacion-el-congreso-recibe-propuestas-enfrentadas-sobre-el-futuro-de-la-pn/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/reforma-o-refundacion-el-congreso-recibe-propuestas-enfrentadas-sobre-el-futuro-de-la-pn/</guid>
-      <source url="https://n.com.do/2026/07/22/reforma-o-refundacion-el-congreso-recibe-propuestas-enfrentadas-sobre-el-futuro-de-la-pn/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 10:20:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arranca el juicio de fondo contra Jean Alain Rodríguez por presunta red de corrupción</title>
-      <description>El Segundo Tribunal Colegiado del Distrito Nacional inicia este miércoles el juicio contra el exprocurador Jean Alain Rodríguez y otros imputados, acusados de encabezar una presunta red de corrupción durante su gestión al frente de la Procuraduría General de la República. El Ministerio Público calcula un perjuicio superior a seis mil millones de pesos mediante contrataciones fraudulentas y pagos irregulares. El tribunal reiteró la prohibición de usar el apelativo del expediente, en cumplimiento del criterio del Tribunal Constitucional sobre los motes judiciales.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/inicia-juicio-de-fondo-contra-jean-alain-rodriguez-y-demas-imputados-en-caso-medusa/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/inicia-juicio-de-fondo-contra-jean-alain-rodriguez-y-demas-imputados-en-caso-medusa/</guid>
-      <source url="https://n.com.do/2026/07/22/inicia-juicio-de-fondo-contra-jean-alain-rodriguez-y-demas-imputados-en-caso-medusa/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 10:10:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nicolás Maduro comparece por tercera vez ante tribunal neoyorquino</title>
-      <description>El expresidente venezolano y su esposa, Cilia Flores, asisten a una nueva audiencia en la Corte Federal de Manhattan, seis meses después de su captura en Caracas. La vista se centrará en la preparación de pruebas y mociones previas al juicio, sin que se espere fijación de fecha para el inicio del proceso. La Fiscalía ha propuesto junio de 2027 para el comienzo del juicio, mientras la defensa intentará cuestionar la legalidad de la captura y la jurisdicción estadounidense sobre el caso.</description>
+      <title>Fallece el saxofonista que inmortalizó el tema musical de La Pantera Rosa</title>
+      <description>El músico estadounidense Plas Johnson, reconocido por interpretar el icónico solo de saxofón de la banda sonora de La Pantera Rosa, murió a los 94 años en Los Ángeles. A lo largo de su trayectoria acompañó a figuras de la talla de Frank Sinatra, Ella Fitzgerald y Barbra Streisand como integrante del célebre grupo de músicos de sesión The Wrecking Crew. Johnson denunció en ocasiones que su trabajo en grabaciones de éxito quedaba sin acreditar ni remunerar, una práctica común en la industria discográfica de la época.</description>
       <category>Mundo</category>
-      <link>https://n.com.do/2026/07/22/nicolas-maduro-seis-meses-detenido-y-hoy-comparece-por-tercera-vez-ante-la-justicia-estadounidense/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/nicolas-maduro-seis-meses-detenido-y-hoy-comparece-por-tercera-vez-ante-la-justicia-estadounidense/</guid>
-      <source url="https://n.com.do/2026/07/22/nicolas-maduro-seis-meses-detenido-y-hoy-comparece-por-tercera-vez-ante-la-justicia-estadounidense/">n.com.do</source>
-      <comments>n.com.do: https://n.com.do/2026/07/22/nueva-audiencia-caso-nicolas-maduro-nueva-york/</comments>
-      <comments>n.com.do: https://n.com.do/2026/07/21/fiscalia-de-ee-uu-propone-que-el-juicio-contra-nicolas-maduro-comience-en-junio-de-2027/</comments>
-      <enclosure url="https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/vivo/live/images/2026/3/26/9bffa325-cd40-4305-a6a5-a5f58ab3fb39.jpg.webp" type="image/webp" />
-      <pubDate>Wed, 22 Jul 2026 10:00:20 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/muere-a-los-94-anos-plas-johnson-saxofonista-del-tema-de-la-pantera-rosa/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/muere-a-los-94-anos-plas-johnson-saxofonista-del-tema-de-la-pantera-rosa/</guid>
+      <source url="https://elnuevodiario.com.do/muere-a-los-94-anos-plas-johnson-saxofonista-del-tema-de-la-pantera-rosa/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Plas-Johnson-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 16:00:39 +0000</pubDate>
     </item>
     <item>
-      <title>Las Reinas del Caribe buscan su séptima corona consecutiva</title>
-      <description>La selección dominicana de voleibol femenino arranca su participación en los Juegos Centroamericanos y del Caribe el 2 de agosto con el objetivo de conquistar su séptimo título seguido, hito que la igualaría con Cuba. El entrenador Marcos Kwiek confirmó las 12 jugadoras que defenderán el récord de 30 victorias sin derrota en la historia del torneo. El sexteto nacional es el único equipo de conjunto del país que ha hilado seis coronas de forma sucesiva.</description>
-      <category>Deportes</category>
-      <link>https://www.diariolibre.com/deportes/olimpismo/2026/07/22/santo-domingo-2026-reinas-del-caribe-defenderan-su-record-perfecto/3606617</link>
-      <guid isPermaLink="true">https://www.diariolibre.com/deportes/olimpismo/2026/07/22/santo-domingo-2026-reinas-del-caribe-defenderan-su-record-perfecto/3606617</guid>
-      <source url="https://www.diariolibre.com/deportes/olimpismo/2026/07/22/santo-domingo-2026-reinas-del-caribe-defenderan-su-record-perfecto/3606617">Diario Libre</source>
-      <enclosure url="https://resources.diariolibre.com/images/2026/07/22/santo-domingo-2026-reinas-del-caribe-defenderan-su-record-perfecto-67356d07-focus-0.14-0.38-400-300.jpg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Villa de los Juegos servirá más de 75 mil comidas a los atletas</title>
-      <description>El comedor de la Villa de Ciudad Juan Bosch atenderá hasta 4.500 deportistas durante los Juegos Centroamericanos y del Caribe, con capacidad para 1.800 comensales simultáneos y un equipo de 240 personas, incluidos 14 chefs. La empresa colombiana La Vianda diseñó un menú con áreas de cocina internacional, grill, platos típicos dominicanos y comida rápida. Los atletas podrán consultar los menús en pantallas digitales dentro del recinto.</description>
-      <category>Deportes</category>
-      <link>https://www.diariolibre.com/deportes/olimpismo/2026/07/22/santo-domingo-2026-serviran-mas-de-75-mil-platos-durante-los-juegos/3606625</link>
-      <guid isPermaLink="true">https://www.diariolibre.com/deportes/olimpismo/2026/07/22/santo-domingo-2026-serviran-mas-de-75-mil-platos-durante-los-juegos/3606625</guid>
-      <source url="https://www.diariolibre.com/deportes/olimpismo/2026/07/22/santo-domingo-2026-serviran-mas-de-75-mil-platos-durante-los-juegos/3606625">Diario Libre</source>
-      <enclosure url="https://resources.diariolibre.com/images/2026/07/22/alvaro-navarro-gerente-de-la-vianda2026-07-21-at-92701-pm-6e0c243b-focus-min0.29-0.47-400-300.jpg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 05:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pentágono admite casi un centenar de heridos en la guerra contra Irán</title>
-      <description>El líder demócrata del Senado, Chuck Schumer, denunció que el secretario de Defensa, Pete Hegseth, ocultó al público las cifras de bajas del conflicto con Irán, donde cerca de un centenar de tropas estadounidenses resultaron heridas en las últimas semanas. Hegseth compareció ante el Senado para solicitar un presupuesto total de 1,5 billones de dólares para el Pentágono y 70.000 millones adicionales para la guerra. El costo del conflicto asciende ya a 37.500 millones de dólares, un incremento de 8.500 millones en poco más de dos meses.</description>
-      <category>Mundo</category>
-      <link>https://eldia.com.do/trump-oculta-las-cifras-de-bajas-en-la-guerra-contra-iran/</link>
-      <guid isPermaLink="true">https://eldia.com.do/trump-oculta-las-cifras-de-bajas-en-la-guerra-contra-iran/</guid>
-      <source url="https://eldia.com.do/trump-oculta-las-cifras-de-bajas-en-la-guerra-contra-iran/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abinader recibe a jóvenes dominicanos destacados en el exterior</title>
-      <description>El presidente Luis Abinader recibió en el Palacio Nacional a 30 estudiantes de origen dominicano que sobresalen académicamente en el extranjero, en el marco de la cuarta edición del programa ODEX. Los jóvenes, provenientes de Estados Unidos, Puerto Rico, España, Italia y otros países, recorren museos e instituciones del país para fortalecer sus vínculos con la patria. El mandatario conversó con ellos sobre el desarrollo nacional, la educación y sus metas de bienestar para la población.</description>
+      <title>Un comunicador de Miches denuncia ante la Policía haber sido agredido por su pareja</title>
+      <description>El director del canal de televisión Latina TV, Ricardo Castellanos, compareció ante un destacamento policial en Miches con lesiones visibles para formalizar una denuncia por una presunta agresión atribuida a su pareja sentimental. Tras recibir atención médica en el Hospital Municipal de Miches, el afectado quedó bajo el resguardo de una persona de confianza mientras las autoridades continúan las indagatorias. La Policía Nacional aún no ha informado sobre posibles medidas legales vinculadas al caso.</description>
       <category>Noticias</category>
-      <link>https://eldia.com.do/estudiantes-de-origen-dominicano-visitan-palacio/</link>
-      <guid isPermaLink="true">https://eldia.com.do/estudiantes-de-origen-dominicano-visitan-palacio/</guid>
-      <source url="https://eldia.com.do/estudiantes-de-origen-dominicano-visitan-palacio/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:18:00 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/comunicador-de-miches-denuncia-presunta-agresion-por-parte-de-su-pareja/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/comunicador-de-miches-denuncia-presunta-agresion-por-parte-de-su-pareja/</guid>
+      <source url="https://elnuevodiario.com.do/comunicador-de-miches-denuncia-presunta-agresion-por-parte-de-su-pareja/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/omunicador-de-Miches-denuncia-presunta-agresion-por-parte-de-su-pareja-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 15:59:49 +0000</pubDate>
     </item>
     <item>
-      <title>Quiénes dirigen las redacciones de los noticiarios dominicanos</title>
-      <description>Los directores de prensa de los principales informativos de televisión coordinan la cobertura diaria y definen las prioridades editoriales que llegan a los hogares dominicanos. Entre ellos figuran Roberto Cavada en Telesistema, Manuel Quiroz en SIN, Yudelki Guerrero en Telecentro y José Ramón Suero en CERTV. Estos profesionales deben equilibrar la inmediatez de las plataformas digitales con la verificación y el rigor periodístico en un entorno mediático cada vez más dinámico.</description>
+      <title>El Ministerio Público acusa al exprocurador Jean Alain Rodríguez de retrasar su juicio</title>
+      <description>El director de Persecución del Ministerio Público, Wilson Camacho, sostuvo que el exprocurador general Jean Alain Rodríguez procura eludir el conocimiento del caso Operación Medusa al conocer que será confrontado con pruebas contundentes en el tribunal. El Segundo Tribunal Colegiado del Distrito Nacional aplazó hasta la tarde la decisión sobre recursos de oposición presentados por las defensas contra incidentes previamente rechazados. Camacho confió en que el juzgado mantenga su postura y permita que el juicio de fondo avance sin más dilaciones.</description>
       <category>Noticias</category>
-      <link>https://eldia.com.do/los-que-marcan-la-agenda-informativa-en-la-television-dominicana/</link>
-      <guid isPermaLink="true">https://eldia.com.do/los-que-marcan-la-agenda-informativa-en-la-television-dominicana/</guid>
-      <source url="https://eldia.com.do/los-que-marcan-la-agenda-informativa-en-la-television-dominicana/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:17:00 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/wilson-camacho-jean-alain-huye-del-proceso-porque-sabe-que-sera-asediado-por-pruebas/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/wilson-camacho-jean-alain-huye-del-proceso-porque-sabe-que-sera-asediado-por-pruebas/</guid>
+      <source url="https://elnuevodiario.com.do/wilson-camacho-jean-alain-huye-del-proceso-porque-sabe-que-sera-asediado-por-pruebas/">El Nuevo Diario</source>
+      <comments>n.com.do: https://n.com.do/2026/07/22/reenvian-para-esta-tarde-audiencia-del-juicio-a-jean-alain-rodriguez-por-recursos-pendientes/</comments>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2023/09/27052557/operacion-medusa.png" type="image/png" />
+      <pubDate>Wed, 22 Jul 2026 15:58:43 +0000</pubDate>
     </item>
     <item>
-      <title>Exposición fotográfica recorre la historia del río Ozama</title>
-      <description>La muestra 'El Río Ozama: un Viaje por la Memoria' reúne imágenes históricas y contemporáneas para narrar la evolución del principal afluente de la capital, desde la fundación de Santo Domingo en 1496 hasta los retos ambientales actuales. La exposición se inauguró en los Arcos de la Plaza de la Cultura y permanecerá abierta hasta finales de julio. La iniciativa forma parte de la plataforma Rescate Ozama, con apoyo de varios ministerios y organismos internacionales.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/el-rio-ozama-un-viaje-por-la-memoria-honra-evolucion-del-afluente/</link>
-      <guid isPermaLink="true">https://eldia.com.do/el-rio-ozama-un-viaje-por-la-memoria-honra-evolucion-del-afluente/</guid>
-      <source url="https://eldia.com.do/el-rio-ozama-un-viaje-por-la-memoria-honra-evolucion-del-afluente/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/36_Na_1p02.jpg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 04:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El Senado revisará las modificaciones de Diputados al Código Penal</title>
-      <description>El presidente del Senado, Ricardo de los Santos, anunció que la Cámara Alta examinará íntegramente los cambios aprobados por los diputados al Código Penal antes de la sesión convocada para este miércoles. De los Santos confió en que no sean necesarias nuevas modificaciones, dada la cercanía del cierre de la legislatura y la entrada en vigor prevista para los primeros días de agosto. Una de las reformas fortalece la persecución del autosecuestro, equiparando la sanción de los cómplices con la de quienes lo organicen.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/senado-evaluara-cambios-de-diputados-al-codigo-penal/</link>
-      <guid isPermaLink="true">https://eldia.com.do/senado-evaluara-cambios-de-diputados-al-codigo-penal/</guid>
-      <source url="https://eldia.com.do/senado-evaluara-cambios-de-diputados-al-codigo-penal/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>El crimen de Rosa Marte reaviva el debate sobre conductas violentas en las filas militares</title>
-      <description>El asesinato de la educadora Rosa Marte, presuntamente planificado por su nuera, una sargento de la Fuerza Aérea, ha conmovido al país y planteado interrogantes sobre los protocolos para detectar conductas violentas en los cuerpos castrenses. El caso evoca la perversidad descrita por Edgar Allan Poe en sus relatos, donde la violencia surge sin motivo aparente y desafía la moral. La opinión pública cuestiona cómo garantizar que quienes portan uniforme representen autoridad y disciplina sin caer en la brutalidad.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/perversidad-y-uniforme/</link>
-      <guid isPermaLink="true">https://eldia.com.do/perversidad-y-uniforme/</guid>
-      <source url="https://eldia.com.do/perversidad-y-uniforme/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fundación Los Arturitos convoca a la solidaridad con niños con anemia falciforme</title>
-      <description>La quinta edición de la Tarde de Té por los Niños con Falcemia reunió a empresas, instituciones y voluntarios comprometidos con la calidad de vida de menores que padecen enfermedad falciforme en República Dominicana. El evento se celebró en el salón Independencia del Ministerio de Defensa y contó con el respaldo de patrocinadores y colaboradores. La presidenta de la fundación, doctora Ircania García, agradeció el apoyo creciente de la sociedad a esta causa cada año más visible.</description>
-      <category>Ciencia</category>
-      <link>https://eldia.com.do/empresas-y-corazones-solidarios-se-unen-por-los-ninos-con-falcemia/</link>
-      <guid isPermaLink="true">https://eldia.com.do/empresas-y-corazones-solidarios-se-unen-por-los-ninos-con-falcemia/</guid>
-      <source url="https://eldia.com.do/empresas-y-corazones-solidarios-se-unen-por-los-ninos-con-falcemia/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aniversario del Tratado de Basilea entre España y Francia</title>
-      <description>Hace 230 años, el 22 de julio de 1795, España y Francia firmaron en la ciudad suiza de Basilea un tratado de paz que puso fin a la guerra entre ambas naciones. El acuerdo incluyó la cesión de la parte española de la isla de Santo Domingo a Francia, a cambio de la restitución de los territorios conquistados en la Península Ibérica. La efeméride recuerda un episodio clave que alteró la soberanía sobre el territorio que hoy ocupa la República Dominicana.</description>
-      <category>Mundo</category>
-      <link>https://eldia.com.do/basilea/</link>
-      <guid isPermaLink="true">https://eldia.com.do/basilea/</guid>
-      <source url="https://eldia.com.do/basilea/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incertidumbre vial tras la apertura de Plaza de la Bandera</title>
-      <description>La reciente intervención en las intersecciones de las avenidas 27 de Febrero, Luperón e Isabel Aguiar ha generado dudas sobre la funcionalidad del nuevo diseño, especialmente tras la eliminación de los semáforos. Los trabajadores de las instituciones cercanas —Ministerio de Defensa, Junta Central Electoral y Tribunal Constitucional— enfrentan dificultades de acceso al entorno. El verdadero examen llegará con el inicio del año escolar en agosto, cuando el flujo vehicular alcance su punto máximo.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/la-plaza-de-la-bandera/</link>
-      <guid isPermaLink="true">https://eldia.com.do/la-plaza-de-la-bandera/</guid>
-      <source url="https://eldia.com.do/la-plaza-de-la-bandera/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diputados buscan declarar a Azua capital del tomate</title>
-      <description>La legisladora Ángela Pérez impulsa un proyecto de ley para que Azua sea declarada capital nacional del tomate, iniciativa aprobada de urgencia en dos lecturas por la Cámara Baja. La propuesta contempla la inclusión de una partida presupuestaria para organizar un festival anual del tomate con la participación de los ministerios de Agricultura y Cultura. La distinción seguiría el precedente de Baní, que ya ostenta el título de capital del mango por ley.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/una-nueva-capital/</link>
-      <guid isPermaLink="true">https://eldia.com.do/una-nueva-capital/</guid>
-      <source url="https://eldia.com.do/una-nueva-capital/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 04:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Inauguran centro comercial Porto Town Center en Arroyo Hondo</title>
-      <description>El presidente Luis Abinader encabezó la apertura de esta plaza de 7.200 metros cuadrados con 71 locales comerciales, franquicias internacionales y propuestas gastronómicas en el sector de Arroyo Hondo. El ministro de Vivienda, Víctor Bisonó, destacó la confianza del sector privado en la estabilidad económica y la seguridad jurídica del país. Los responsables del proyecto subrayaron el respaldo institucional como factor clave para concretar obras que dinamizan la economía local.</description>
+      <title>Empresa azuana posiciona el aguacate Hass orgánico dominicano en el exterior</title>
+      <description>Una sociedad familiar asentada en Padre Las Casas, provincia Azua, cultiva y exporta aguacate Hass de producción orgánica hacia los mercados europeos y estadounidenses. El presidente de la firma destacó que las certificaciones internacionales y los estándares de calidad cumplidos abren las puertas a mercados más exigentes y selectivos. Ejecutivos de ProDominicana visitaron las instalaciones para orientar a los productores sobre estrategias de fortalecimiento en el comercio internacional.</description>
       <category>Negocios</category>
-      <link>https://n.com.do/2026/07/21/abinader-encabeza-inauguracion-del-centro-comercial-porto-town-center-by-la-marquesa-en-arroyo-hondo/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/21/abinader-encabeza-inauguracion-del-centro-comercial-porto-town-center-by-la-marquesa-en-arroyo-hondo/</guid>
-      <source url="https://n.com.do/2026/07/21/abinader-encabeza-inauguracion-del-centro-comercial-porto-town-center-by-la-marquesa-en-arroyo-hondo/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 01:46:05 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/republica-dominicana-exporta-aguacate-hass-organico-a-europa-y-estados-unidos/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/republica-dominicana-exporta-aguacate-hass-organico-a-europa-y-estados-unidos/</guid>
+      <source url="https://elnuevodiario.com.do/republica-dominicana-exporta-aguacate-hass-organico-a-europa-y-estados-unidos/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Aguacates-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 15:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>La iglesia católica advierte sobre las consecuencias de la crisis ecológica en el país</title>
+      <description>El arzobispo coadjutor de Santo Domingo, monseñor Carlos Tomás Morel Diplán, convocó a la población a reflexionar sobre el deterioro ambiental durante la misa de las Fiestas Patronales de Santiago Apóstol el Mayor. La jerarquía eclesiástica vinculó la contaminación de ríos, el exceso de ruido y la acumulación de basura en las calles a las acciones humanas que degradan el entorno natural. Morel Diplán enfatizó la responsabilidad compartida de proteger la casa común y frenar el desequilibrio de los ecosistemas que se manifiesta en las elevadas temperaturas.</description>
+      <category>Noticias</category>
+      <link>https://elnuevodiario.com.do/monsenor-carlos-tomas-morel-llama-a-frenar-crisis-ecologica-y-proteger-al-medio-ambiente/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/monsenor-carlos-tomas-morel-llama-a-frenar-crisis-ecologica-y-proteger-al-medio-ambiente/</guid>
+      <source url="https://elnuevodiario.com.do/monsenor-carlos-tomas-morel-llama-a-frenar-crisis-ecologica-y-proteger-al-medio-ambiente/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Monsenor-Carlos-Tomas-llama-a-frenar-la-crisis-ecologica-y-proteger-al-medio-ambiente-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 15:51:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un cantante urbano puertorriqueño recibe un impacto en el rostro durante un show en España</title>
+      <description>El artista Ángel Yamil Santiago Vázquez, conocido como Hades 66, sufrió una agresión en la discoteca Amok Mallorca cuando un asistente le arrojó un vaso que golpeó su cara en plena presentación. Videos difundidos en redes muestran el momento del impacto y las lesiones visibles en el rostro del intérprete, quien interrumpió brevemente su show tras el incidente. Ni la organización del evento ni el cantante han informado sobre la gravedad de las heridas o si el responsable fue identificado.</description>
+      <category>Mundo</category>
+      <link>https://elnuevodiario.com.do/agreden-al-artista-boricua-hades-66-durante-concierto-en-mallorca-lanzando-vaso-en-su-rostro/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/agreden-al-artista-boricua-hades-66-durante-concierto-en-mallorca-lanzando-vaso-en-su-rostro/</guid>
+      <source url="https://elnuevodiario.com.do/agreden-al-artista-boricua-hades-66-durante-concierto-en-mallorca-lanzando-vaso-en-su-rostro/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Angel-Yamil-Santiago-Vazquez-355x200.png" type="image/png" />
+      <pubDate>Wed, 22 Jul 2026 15:51:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>México presenta veinte denuncias en Estados Unidos por fallecimientos de connacionales bajo custodia migratoria</title>
+      <description>El Gobierno de México presentó veinte querellas ante fiscalías estatales y de condado estadounidenses por la muerte de diecisiete ciudadanos mexicanos ocurridas desde mayo durante operativos o bajo la custodia del Servicio de Inmigración y Control de Aduanas. La Cancillería mexicana precisó que las denuncias abarcan jurisdicciones de ocho estados y que también solicitó formalmente al Departamento de Justicia la apertura de investigaciones. La presidenta Claudia Sheinbaum anunció estas medidas como parte de una estrategia para esclarecer los decesos y mejorar las condiciones en los centros de detención.</description>
+      <category>Mundo</category>
+      <link>https://elnuevodiario.com.do/mexico-presenta-20-denuncias-en-ee-uu-por-muertes-de-connacionales-bajo-custodia-del-ice/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/mexico-presenta-20-denuncias-en-ee-uu-por-muertes-de-connacionales-bajo-custodia-del-ice/</guid>
+      <source url="https://elnuevodiario.com.do/mexico-presenta-20-denuncias-en-ee-uu-por-muertes-de-connacionales-bajo-custodia-del-ice/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/OBJ_20260527T200517S0012I_1_1_1_43_7_6-355x200.webp" type="image/webp" />
+      <pubDate>Wed, 22 Jul 2026 15:49:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Gobierno entregó las dieciséis sedes deportivas para los Juegos Centroamericanos 2026</title>
+      <description>El Ministerio de Vivienda, Hábitat y Edificaciones completó la entrega de las dieciséis instalaciones construidas y remodeladas para los Juegos Centroamericanos y del Caribe de Santo Domingo 2026. El titular de la cartera, Víctor Bisonó, aseguró que las intervenciones en el Centro Olímpico Juan Pablo Duarte y el Parque del Este continuarán más allá de la competencia para consolidarlos como espacios de recreación y práctica deportiva. El funcionario recorrió las instalaciones junto al presidente Luis Abinader para verificar la calidad de las obras entregadas.</description>
+      <category>Deportes</category>
+      <link>https://elnuevodiario.com.do/continuaran-intervenciones-para-consolidar-el-centro-olimpico-y-parque-del-este-como-legado/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/continuaran-intervenciones-para-consolidar-el-centro-olimpico-y-parque-del-este-como-legado/</guid>
+      <source url="https://elnuevodiario.com.do/continuaran-intervenciones-para-consolidar-el-centro-olimpico-y-parque-del-este-como-legado/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/En-el-centro-Ito-Bisono-y-Luis-Abinader-junto-a-personalidades-Foto-Fuente-externa-355x200.png" type="image/png" />
+      <pubDate>Wed, 22 Jul 2026 15:49:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pro Consumidor refuerza la vigilancia en los comercios ante la celebración del Día de los Padres</title>
+      <description>El Instituto Nacional de Protección de los Derechos del Consumidor desplegó inspectores en establecimientos del Gran Santo Domingo y otras ciudades para verificar que las ofertas y promociones del Día de los Padres cumplan con la normativa vigente. Las autoridades buscan prevenir prácticas engañosas en publicidad, exhibición de precios y garantías durante los periodos de alta actividad comercial. El organismo recordó a los ciudadanos conservar los comprobantes de pago y comparar precios antes de adquirir productos en temporada festiva.</description>
+      <category>Noticias</category>
+      <link>https://n.com.do/2026/07/22/pro-consumidor-intensifica-inspecciones-en-comercios-por-el-dia-de-los-padres/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/pro-consumidor-intensifica-inspecciones-en-comercios-por-el-dia-de-los-padres/</guid>
+      <source url="https://n.com.do/2026/07/22/pro-consumidor-intensifica-inspecciones-en-comercios-por-el-dia-de-los-padres/">n.com.do</source>
+      <pubDate>Wed, 22 Jul 2026 15:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Turismo inyecta 265 millones de pesos en la renovación del balneario Monte Río</title>
+      <description>El Ministerio de Turismo ejecuta la construcción de un frente marítimo en la playa Monte Río, provincia Azua, con una inversión cercana a los 265 millones de pesos. El proyecto incluye un puente de hormigón armado sobre el río y la ampliación de la vía de acceso al balneario para facilitar el tránsito durante la temporada de lluvias. Las autoridades prevén que la obra dinamice la actividad comercial y turística de la zona mediante el relanzamiento del atractivo costero.</description>
+      <category>Negocios</category>
+      <link>https://n.com.do/2026/07/22/mitur-reconstruccion-playa-monte-rio-azua-rd265-millones/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/mitur-reconstruccion-playa-monte-rio-azua-rd265-millones/</guid>
+      <source url="https://n.com.do/2026/07/22/mitur-reconstruccion-playa-monte-rio-azua-rd265-millones/">n.com.do</source>
+      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/remodelacion-de-playa-Monte-Rio-en-Azua-2-1024x768.jpeg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 15:30:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Las órdenes de protección desbordan la capacidad del sistema de justicia dominicano</title>
+      <description>El Ministerio Público recibió siete mil seiscientas cuarenta y cuatro solicitudes de órdenes de protección entre enero y marzo de 2026, de las que solo concedió alrededor de un tercio, en un trimestre con diecisiete mil quinientas cincuenta y dos denuncias por violencia de género, intrafamiliar y delitos sexuales. El nuevo Código Penal eleva las penas por incumplimiento de medidas de alejamiento hasta cuarenta años, pero apenas tres de los veintidós feminicidios registrados contaban con denuncias previas. La brecha entre las solicitudes y las medidas efectivas concedidas expone las limitaciones operativas del aparato judicial frente a la magnitud del fenómeno.</description>
+      <category>Noticias</category>
+      <link>https://n.com.do/2026/07/22/miles-de-solicitudes-de-proteccion-ponen-a-prueba-la-capacidad-de-resguardo-judicial-del-nuevo-codigo/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/miles-de-solicitudes-de-proteccion-ponen-a-prueba-la-capacidad-de-resguardo-judicial-del-nuevo-codigo/</guid>
+      <source url="https://n.com.do/2026/07/22/miles-de-solicitudes-de-proteccion-ponen-a-prueba-la-capacidad-de-resguardo-judicial-del-nuevo-codigo/">n.com.do</source>
+      <pubDate>Wed, 22 Jul 2026 15:30:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banreservas abre una sucursal dentro del Centro de Retención de Vehículos de Pedro Brand</title>
+      <description>El Banco de Reservas inauguró una nueva oficina en el Centro de Retención de Vehículos de Pedro Brand para que los usuarios realicen trámites financieros sin necesidad de desplazarse a otra sucursal. La instalación cuenta con cajas para pagos, cajeros automáticos y personal de asesoría, y operará de lunes a viernes en horario corrido y los sábados por la mañana. El presidente ejecutivo de la entidad destacó que la apertura responde a una estrategia de acercar los servicios bancarios a los ciudadanos que gestionan la liberación de sus vehículos.</description>
+      <category>Negocios</category>
+      <link>https://n.com.do/2026/07/22/banreservas-inaugura-oficina-en-el-centro-de-retencion-de-vehiculos-de-pedro-brand/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/banreservas-inaugura-oficina-en-el-centro-de-retencion-de-vehiculos-de-pedro-brand/</guid>
+      <source url="https://n.com.do/2026/07/22/banreservas-inaugura-oficina-en-el-centro-de-retencion-de-vehiculos-de-pedro-brand/">n.com.do</source>
+      <pubDate>Wed, 22 Jul 2026 15:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un pelotero dominicano relata su paso por un centro de detención migratoria en Estados Unidos</title>
+      <description>El beisbolista dominicano Johan Sandoval habló por primera vez sobre los casi quince días que permaneció bajo custodia del Servicio de Inmigración y Control de Aduanas en Estados Unidos, luego de ser arrestado cuando se dirigía a un gimnasio. El joven de veintidós años fue liberado tras pagar una fianza de veinte mil dólares y ahora porta un monitor electrónico en el tobillo mientras se resuelve su situación migratoria. Su abogado sostiene que la detención derivó de un problema administrativo con su estatus de estudiante internacional, pese a que la universidad había emitido la documentación correspondiente.</description>
+      <category>Deportes</category>
+      <link>https://n.com.do/2026/07/22/beisbolista-dominicano-rompe-el-silencio-tras-salir-de-un-centro-de-detencion-de-ice/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/beisbolista-dominicano-rompe-el-silencio-tras-salir-de-un-centro-de-detencion-de-ice/</guid>
+      <source url="https://n.com.do/2026/07/22/beisbolista-dominicano-rompe-el-silencio-tras-salir-de-un-centro-de-detencion-de-ice/">n.com.do</source>
+      <pubDate>Wed, 22 Jul 2026 14:58:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roberto Fulcar y Ángel Martínez evalúan un posible acuerdo en su litigio por difamación</title>
+      <description>Las partes involucradas en el juicio por presunta difamación entre el exministro de Educación Roberto Fulcar y el comunicador Ángel Martínez han expresado su disposición a alcanzar una conciliación. La defensa de Fulcar afirmó que no descarta un acuerdo si se presenta la oportunidad, mientras que Martínez aseguró que ambas partes buscan reducir las tensiones del proceso. La audiencia de conciliación fue aplazada al diecinueve de agosto a solicitud de la defensa del comunicador, quien solicitó tiempo para revisar la acusación.</description>
+      <category>Noticias</category>
+      <link>https://n.com.do/2026/07/22/defensa-de-fulcar-no-descarta-conciliacion-entre-las-partes-si-surge-la-posibilidad-la-analizariamos/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/defensa-de-fulcar-no-descarta-conciliacion-entre-las-partes-si-surge-la-posibilidad-la-analizariamos/</guid>
+      <source url="https://n.com.do/2026/07/22/defensa-de-fulcar-no-descarta-conciliacion-entre-las-partes-si-surge-la-posibilidad-la-analizariamos/">n.com.do</source>
+      <comments>n.com.do: https://n.com.do/2026/07/22/angel-martinez-dice-que-busca-llegar-a-un-acuerdo-con-roberto-fulcar-en-medio-del-juicio-por-difamacion/</comments>
+      <pubDate>Wed, 22 Jul 2026 14:51:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>El jefe de la Defensa Pública cuestiona el endurecimiento penal y el uso masivo de la prisión preventiva</title>
+      <description>El director de la Oficina Nacional de Defensa Pública, Rodolfo Valentín, advirtió que la entrada en vigor del nuevo Código Penal podría agravar el hacinamiento carcelario, que ya ronda un setecientos por ciento de sobrepoblación. Valentín criticó la incorporación de más de setenta nuevos tipos penales sin que el sistema de justicia cuente con la capacidad para procesar el incremento de causas, y sostuvo que el aumento de penas no disuade la criminalidad. El funcionario llamó al Ministerio Público a privilegiar medidas alternas a la prisión preventiva, que a su juicio debería aplicarse de manera excepcional.</description>
+      <category>Noticias</category>
+      <link>https://n.com.do/2026/07/22/defensor-publico-pide-al-mp-limitar-el-uso-de-la-prision-preventiva-y-cuestiona-el-nuevo-codigo-penal/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/defensor-publico-pide-al-mp-limitar-el-uso-de-la-prision-preventiva-y-cuestiona-el-nuevo-codigo-penal/</guid>
+      <source url="https://n.com.do/2026/07/22/defensor-publico-pide-al-mp-limitar-el-uso-de-la-prision-preventiva-y-cuestiona-el-nuevo-codigo-penal/">n.com.do</source>
+      <comments>El Día: https://eldia.com.do/director-de-la-defensa-publica-advierte-que-el-nuevo-codigo-penal-agravara-el-hacinamiento-en-las-carceles/</comments>
+      <enclosure url="https://eldia.com.do/wp-content/uploads/2025/07/Rodolfo-Valentin.webp" type="image/webp" />
+      <pubDate>Wed, 22 Jul 2026 14:44:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>La UASD nombra un nuevo director general de Comunicaciones</title>
+      <description>El rector de la Universidad Autónoma de Santo Domingo, Jorge Asjana David, designó al maestro Gerson Díaz Zabala al frente de la Dirección General de Comunicaciones de la academia estatal. Díaz Zabala asumió el compromiso de impulsar una política comunicacional estratégica sustentada en la transparencia y la innovación para proyectar los aportes académicos de la institución. La nueva gestión buscará estrechar los vínculos de la universidad con estudiantes, docentes, investigadores y la sociedad dominicana mediante una gestión integrada de sus plataformas informativas.</description>
+      <category>Noticias</category>
+      <link>https://eldia.com.do/designan-a-gerson-diaz-zabala-director-general-de-comunicaciones-de-la-uasd/</link>
+      <guid isPermaLink="true">https://eldia.com.do/designan-a-gerson-diaz-zabala-director-general-de-comunicaciones-de-la-uasd/</guid>
+      <source url="https://eldia.com.do/designan-a-gerson-diaz-zabala-director-general-de-comunicaciones-de-la-uasd/">El Día</source>
+      <pubDate>Wed, 22 Jul 2026 14:29:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Fuerza del Pueblo en Rhode Island reafirma su apuesta por Leonel Fernández rumbo a 2028</title>
+      <description>La dirigencia de la Fuerza del Pueblo en el estado de Rhode Island se reunió con el presidente del Distrito Nacional de la organización, Rafael Paz, para trazar estrategias de cedulación y empadronamiento orientadas a fortalecer la estructura partidaria. El encuentro abordó los avances alcanzados en la jornada de incorporación de nuevos miembros y los planes de trabajo que se ejecutarán en los próximos días. Los participantes ratificaron su compromiso de impulsar la candidatura presidencial de Leonel Fernández para las elecciones de 2028.</description>
+      <category>Noticias</category>
+      <link>https://eldia.com.do/fuerza-del-pueblo-en-rhode-island-reafirma-compromiso-de-hacer-presidente-a-leonel-fernandez/</link>
+      <guid isPermaLink="true">https://eldia.com.do/fuerza-del-pueblo-en-rhode-island-reafirma-compromiso-de-hacer-presidente-a-leonel-fernandez/</guid>
+      <source url="https://eldia.com.do/fuerza-del-pueblo-en-rhode-island-reafirma-compromiso-de-hacer-presidente-a-leonel-fernandez/">El Día</source>
+      <pubDate>Wed, 22 Jul 2026 14:24:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>La República Dominicana encabeza el lanzamiento de nuevos fármacos en Centroamérica y el Caribe</title>
+      <description>Un informe de la industria farmacéutica IQVIA situó al país a la cabeza de la subregión con doscientos dieciocho nuevos productos lanzados entre 2025 y 2026, equivalentes a la mitad de todos los presentados en Centroamérica y el Caribe. Los medicamentos para diabetes y cardiología concentraron más del cincuenta y cinco por ciento de las presentaciones, con movimientos monetarios que superaron los dieciocho millones de dólares. El fármaco contra la obesidad y la diabetes tipo dos Mounjaro lideró las ventas con diez millones de dólares en el período analizado.</description>
+      <category>Ciencia</category>
+      <link>https://eldia.com.do/rd-lidera-lanzamiento-nuevos-productos-farmaceuticos/</link>
+      <guid isPermaLink="true">https://eldia.com.do/rd-lidera-lanzamiento-nuevos-productos-farmaceuticos/</guid>
+      <source url="https://eldia.com.do/rd-lidera-lanzamiento-nuevos-productos-farmaceuticos/">El Día</source>
+      <pubDate>Wed, 22 Jul 2026 14:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Miami Heat publica accidentalmente un enlace de presentación de LeBron James</title>
+      <description>La franquicia del Miami Heat difundió por error en su canal de YouTube una transmisión en vivo titulada como rueda de prensa de presentación de LeBron James, fechada el veintisiete de julio, antes de eliminarla rápidamente. Un portavoz del equipo explicó que el departamento de redes sociales preparaba el material ante la eventualidad del fichaje y lo publicó por equivocación. James se encuentra como agente libre sin restricciones por primera vez desde 2018 y evalúa ofertas de varios conjuntos, incluidos los Cavaliers, los 76ers y los propios Heat.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/el-heat-publica-por-error-link-para-rueda-de-prensa-de-presentacion-de-lebron-james/</link>
+      <guid isPermaLink="true">https://eldia.com.do/el-heat-publica-por-error-link-para-rueda-de-prensa-de-presentacion-de-lebron-james/</guid>
+      <source url="https://eldia.com.do/el-heat-publica-por-error-link-para-rueda-de-prensa-de-presentacion-de-lebron-james/">El Día</source>
+      <pubDate>Wed, 22 Jul 2026 13:59:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>El sistema de triaje determina los tiempos de espera en las salas de emergencias</title>
+      <description>Los centros médicos del país aplican el Sistema de Triaje de Manchester para clasificar a los pacientes según la gravedad de su cuadro clínico y priorizar la atención de los casos críticos. Los usuarios con condiciones severas como cardiopatías o hemorragias profusas reciben atención inmediata, mientras que aquellos con síntomas sin riesgo vital pueden esperar hasta sesenta minutos. El protocolo busca racionalizar el flujo de pacientes en áreas de emergencia cada vez más saturadas, donde las demoras generan malestar entre los usuarios.</description>
+      <category>Ciencia</category>
+      <link>https://eldia.com.do/por-que-esperar-hasta-una-hora-en-una-sala-de-emergencias-para-ser-atendido-por-el-personal-de-salud/</link>
+      <guid isPermaLink="true">https://eldia.com.do/por-que-esperar-hasta-una-hora-en-una-sala-de-emergencias-para-ser-atendido-por-el-personal-de-salud/</guid>
+      <source url="https://eldia.com.do/por-que-esperar-hasta-una-hora-en-una-sala-de-emergencias-para-ser-atendido-por-el-personal-de-salud/">El Día</source>
+      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/sqwdqwd.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 13:59:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nicolás Maduro comparece por tercera vez ante un tribunal de Nueva York</title>
+      <description>El exmandatario venezolano debía presentarse este miércoles ante un juzgado neoyorquino en su tercera audiencia desde que fuerzas militares estadounidenses lo capturaron en Caracas el pasado mes de enero. Maduro y su esposa permanecen recluidos en una prisión de Brooklyn a la espera de juicio por cargos de narcotráfico, tras una operación que combinó fuerzas navales, aéreas y terrestres. La audiencia se centraría en asuntos de procedimiento, tras autorizar Washington que Venezuela costeara la defensa legal de los acusados.</description>
+      <category>Mundo</category>
+      <link>https://www.diariolibre.com/mundo/estados-unidos/2026/07/22/nicolas-maduro-vuelve-a-comparecer-ante-tribunal/3606894</link>
+      <guid isPermaLink="true">https://www.diariolibre.com/mundo/estados-unidos/2026/07/22/nicolas-maduro-vuelve-a-comparecer-ante-tribunal/3606894</guid>
+      <source url="https://www.diariolibre.com/mundo/estados-unidos/2026/07/22/nicolas-maduro-vuelve-a-comparecer-ante-tribunal/3606894">Diario Libre</source>
+      <enclosure url="https://resources.diariolibre.com/images/2026/07/22/centro-detencion-maduro-eeuu-efe-1e1bc573fd7fd19315178057d56aaf7a900fdbb4w-e91d2ebc-focus-0-0-400-300.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 08:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Los precios del crudo se disparan por el recrudecimiento del conflicto entre Estados Unidos e Irán</title>
+      <description>El barril de petróleo Brent superó los noventa y cinco dólares por primera vez en casi seis semanas, impulsado por la undécima noche consecutiva de ataques estadounidenses contra territorio iraní. El crudo de referencia en Estados Unidos registró una subida superior al tres por ciento hasta situarse cerca de los ochenta y siete dólares el barril. La escalada bélica en Medio Oriente reavivó las preocupaciones sobre el suministro energético y provocó alzas generalizadas en los mercados de futuros.</description>
+      <category>Negocios</category>
+      <link>https://eldia.com.do/el-petroleo-de-texas-sube-un-3-05-tras-la-nueva-ronda-de-ataques-de-ee-uu-contra-iran/</link>
+      <guid isPermaLink="true">https://eldia.com.do/el-petroleo-de-texas-sube-un-3-05-tras-la-nueva-ronda-de-ataques-de-ee-uu-contra-iran/</guid>
+      <source url="https://eldia.com.do/el-petroleo-de-texas-sube-un-3-05-tras-la-nueva-ronda-de-ataques-de-ee-uu-contra-iran/">El Día</source>
+      <comments>Diario Libre: https://www.diariolibre.com/economia/energia/2026/07/22/los-precios-del-petroleo-se-disparan-por-la-guerra-en-medio-oriente/3606859</comments>
+      <enclosure url="https://resources.diariolibre.com/images/2026/07/09/beautiful-sunset-oil-field-with-pump-jack-1-69978f48-focus-0-0-400-300.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 13:48:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
