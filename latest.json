@@ -1,260 +1,263 @@
 {
   "newsArticles": [
     {
-      "title": "Aerolíneas suspenden una decena de vuelos hacia Santo Domingo por humo de incendios canadienses",
-      "summary": "La operadora del aeropuerto de San Juan canceló doce vuelos debido al humo proveniente de los incendios forestales de Canadá que afecta la calidad del aire en la costa este de Estados Unidos. La medida impactó a más de mil quinientos pasajeros, incluyendo trayectos hacia y desde Santo Domingo. Las aerolíneas JetBlue y Frontier fueron las más afectadas por las cancelaciones.",
+      "title": "Congreso aprueba reforma del Código Penal tras tres décadas de debate",
+      "summary": "El Senado dio su aprobación final al proyecto que modifica la Ley 74-25, incorporando 32 enmiendas propuestas por la Cámara de Diputados. La reforma actualiza disposiciones sobre hostigamiento, violencia intrafamiliar, ciberacoso y malversación de fondos públicos, entre otros delitos. El texto pasa ahora al Poder Ejecutivo, donde el presidente Luis Abinader decidirá su promulgación u observación.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T10:30:21+00:00",
+      "imageUrls": [
+        "https://resources.diariolibre.com/images/2026/07/23/crop-w562-h375-estos-fueron-los-debates-de-los-senadores-para-aprobar-el-codigo-penal-0462c1b2-focus-0-0-400-300.jpg",
+        "https://resources.diariolibre.com/images/2026/07/22/senado-aprueba-con-modificaciones-al-codigo-penal-2647c005-focus-0-0-149-99.jpg",
+        "https://resources.diariolibre.com/images/2026/07/22/senado-aprueba-con-modificaciones-al-codigo-penal-2647c005-focus-0-0-400-300.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/senado-aprueba-en-dos-lecturas-el-codigo-penal-con-32-modificaciones/"},
+        {"feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/politica/congreso-nacional/2026/07/22/estos-fueron-los-debates-de-los-senadores-para-aprobar-el-codigo-penal/3607608"},
+        {"feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/politica/congreso-nacional/2026/07/22/senado-aprueba-de-urgencia-las-modificaciones-al-codigo-penal/3607569"},
+        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/modificaciones-nuevo-codigo-penal-superan-congreso-pasan-al-poder-ejecutivo-para-promulgacion/"}
+      ]
+    },
+    {
+      "title": "Prófugo de un año se entrega a la Policía en Puerto Plata",
+      "summary": "Jeuri Ortiz del Rosario, alias «Maco Toro», se presentó acompañado de su abogado en el cuartel de la Policía Nacional de Puerto Plata tras más de un año evadiendo la justicia. Se le atribuyen dos homicidios cometidos en esa provincia, el último de ellos ocurrido el pasado 20 de julio. Las autoridades aún no han confirmado oficialmente los detalles de la entrega.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T11:55:44+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Denuncian-profugo-por-homicidio-habria-cometido-otro-asesinato-en-Puerto-Plata-y-sigue-sin-ser-detenido-1-355x200.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/despues-de-mas-de-un-ano-se-entrega-maco-toro-acusado-de-homicidio-en-puerto-plata/"}
+      ]
+    },
+    {
+      "title": "Pekín inicia ejercicios con fuego real cerca de Taiwán",
+      "summary": "Las fuerzas armadas chinas comenzaron dos jornadas de maniobras militares con disparos reales en el estrecho de Taiwán, frente a la provincia de Fujian. El área restringida alrededor de la isla de Dongshan quedó vedada al tránsito marítimo durante el operativo. Hasta el momento ni Pekín ni Taipéi han emitido comunicados sobre los ejercicios.",
       "category": "Mundo",
-      "pubDate": "2026-07-22T20:19:38+00:00",
+      "pubDate": "2026-07-23T11:54:48+00:00",
       "imageUrls": [
-        "https://resources.diariolibre.com/images/2026/01/12/baja-estadias-prolongada-de-dominicanos-en-estados-unidos-128e366f-focus-0-0-400-300.jpg",
-        "https://resources.diariolibre.com/images/2026/02/02/imagen-aila-64193706-focus-0-0-149-99.jpg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/china_maniobras-355x200.webp"
       ],
       "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/cancelan-vuelos-entre-puerto-rico-y-republica-dominicana-por-condiciones-climatologicas/" },
-        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/usa/actualidad/2026/07/21/vuelos-desde-republica-dominicana-cancelados-por-tormenta-tropical/3606571" }
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/china-despliega-maniobras-militares-con-fuego-real-frente-a-taiwan/"}
       ]
     },
     {
-      "title": "Familiares cuestionan muerte de detenido que estuvo bajo custodia policial en San Cristóbal",
-      "summary": "Miguel Antonio Valenzuela falleció en un hospital de San Cristóbal apenas dos días después de ser liberado de un destacamento policial donde permaneció detenido por presunta posesión de material de lotería. El Instituto Nacional de Ciencias Forenses atribuyó la muerte a una leptospirosis, pero sus allegados denuncian que sufrió golpes y torturas durante su reclusión y exigen una investigación independiente. El caso ha generado interrogantes sobre las condiciones de salubridad en los centros de detención.",
-      "category": "Noticias",
-      "pubDate": "2026-07-21T12:00:00+00:00",
-      "imageUrls": [
-        "https://resources.diariolibre.com/images/2026/07/19/habria-muerto-por-leptospirosis-hombre-que-duro-cinco-dias-detenido-68a99ea4-focus-0-0-400-300.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/actualidad/sucesos/2026/07/21/cronologia-caso-miguel-antonio-valenzuela/3606015" },
-        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/actualidad/sucesos/2026/07/20/investigacion-sobre-la-muerte-de-miguel-antonio-valenzuela/3604918" }
-      ]
-    },
-    {
-      "title": "Especialista urge declarar emergencia nacional ante alarmante mortalidad vial",
-      "summary": "El ingeniero Aníbal Germoso advirtió que la siniestralidad vial cobra más de tres mil vidas cada año en el país y propuso declarar una emergencia nacional para enfrentar el problema. El creador de la plataforma Accidentes RD señaló que la mayoría de los siniestros son producto de imprudencias como exceso de velocidad y conducción bajo efectos del alcohol, no de accidentes inevitables. Las metas de reducción de mortalidad fijadas para 2030 se encuentran lejos de cumplirse.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T23:58:43+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-22-195528-355x200.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/experto-propone-declarar-emergencia-nacional-por-aumento-de-accidentes-de-transitos/" }
-      ]
-    },
-    {
-      "title": "Legislador defiende modernización del Código Penal para combatir ciberdelitos",
-      "summary": "El diputado Vicente Sánchez afirmó que el nuevo Código Penal incorpora figuras delictivas adaptadas a la era digital, permitiendo perseguir conductas como el fraude informático y la suplantación de identidad. El legislador subrayó que la normativa vigente tiene más de 140 años y no contempla las modalidades delictivas derivadas del avance tecnológico. Instó a respaldar la entrada en vigencia del nuevo marco legal como herramienta para proteger a los ciudadanos en el entorno digital.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T23:58:39+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Diputado-Vicente-Sanchez--355x200.jpeg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/diputado-vicente-sanchez-asegura-que-estafadores-electronicos-seran-castigados-en-el-nuevo-codigo-penal/" }
-      ]
-    },
-    {
-      "title": "Caminero calla críticas con temporada récord en las Grandes Ligas",
-      "summary": "El antesalista dominicano Junior Caminero ha superado con creces los cuestionamientos sobre su rendimiento del año anterior al elevar prácticamente todos sus números ofensivos en la temporada 2026. En cien partidos disputados, su promedio de bateo subió de .252 a .288 y sus jonrones pasaron de 21 a 29 respecto al mismo periodo del año previo. Su disciplina en el plato también mejoró notablemente, duplicando las bases por bolas negociadas.",
-      "category": "Deportes",
-      "pubDate": "2026-07-22T23:57:33+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/JUNIOR-CAMINERO-NO-ERA-EL-PLAY-355x200.png"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/el-debate-termino-junior-caminero-demuestra-que-no-era-el-estadio/" }
-      ]
-    },
-    {
-      "title": "Tribunal ordena proseguir juicio al exprocurador Jean Alain Rodríguez por presunto desfalco multimillonario",
-      "summary": "El Segundo Tribunal Colegiado del Distrito Nacional declaró inadmisible un recurso de oposición de la defensa y dispuso la continuación del juicio contra el exprocurador general y demás imputados por presunta corrupción. El Ministerio Público acusa a Rodríguez de encabezar un entramado de desfalco superior a seis mil millones de pesos entre 2016 y 2020. La próxima audiencia fue fijada para el lunes 27 de julio.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T23:56:10+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Tribunal-ordena-continuar-juicio-contra-Jean-Alain-Rodriguez-tras-rechazar-recurso-de-la-defensa-355x200.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/tribunal-ordena-continuar-juicio-contra-jean-alain-rodriguez-tras-rechazar-recurso-de-la-defensa/" }
-      ]
-    },
-    {
-      "title": "Evacuan supermercado Olé por conato de incendio sin reportar lesionados",
-      "summary": "La cadena de supermercados Olé activó sus protocolos de seguridad y evacuó de manera preventiva a todos los clientes y empleados de su sucursal en la avenida Jacobo Majluta tras registrarse un conato de incendio en un salón de belleza del establecimiento. La empresa confirmó que no hubo personas lesionadas y agradeció la rápida respuesta de los bomberos. Las labores de control del incidente continuaron bajo supervisión de las autoridades competentes.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T23:54:59+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Clientes-y-colaboradores-estan-fuera-de-peligro-tras-conato-de-incendio-en-supermercado-Ole-355x200.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/clientes-y-colaboradores-estan-fuera-de-peligro-tras-conato-de-incendio-en-supermercado-ole/" }
-      ]
-    },
-    {
-      "title": "Demanda judicial contra OpenAI por consejos de salud que casi cuestan la vida a un usuario",
-      "summary": "Un pastor de Florida presentó una demanda por negligencia contra OpenAI tras asegurar que el chatbot ChatGPT minimizó síntomas graves de una embolia pulmonar y lo disuadió de buscar atención médica. El demandante sufrió seis semanas después una embolia masiva que lo llevó al borde de la muerte y le provocó la pérdida de su empleo. El caso plantea interrogantes sobre las salvaguardas de las herramientas de inteligencia artificial en materia de salud.",
-      "category": "Tecnología",
-      "pubDate": "2026-07-22T23:50:32+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/04/070524_openai_chatgpt-355x200.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/demandan-a-chatgpt-por-desalentar-a-un-pastor-de-florida-a-buscar-atencion-medica/" }
-      ]
-    },
-    {
-      "title": "La MLS investiga al Inter Miami por presuntos contactos irregulares en el fichaje de Casemiro",
-      "summary": "La Major League Soccer abrió una investigación contra el Inter Miami por posibles contactos no autorizados con el mediocampista brasileño Casemiro, cuyos derechos en la liga pertenecían a Los Angeles Galaxy. El equipo angelino habría denunciado que el club florideño negoció con el jugador sin adquirir previamente los derechos de descubrimiento. El fichaje se anunciaba mientras la liga recopilaba información sobre la presunta manipulación.",
-      "category": "Deportes",
-      "pubDate": "2026-07-22T23:45:52+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/VQRU7ATUFVH3PPU6OIBMVUCJCQ-355x200.avif"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/la-mls-investiga-posible-negociacion-ilegal-en-fichaje-de-casemiro-por-el-inter-miami/" }
-      ]
-    },
-    {
-      "title": "Comunicadora Ivana Gavrilovic anuncia su compromiso matrimonial",
-      "summary": "La presentadora de radio y televisión Ivana Gavrilovic compartió en sus redes sociales el momento de su compromiso matrimonial, acompañado de imágenes del anillo y una velada romántica con violinista incluido. La conductora, de origen serbio y radicada en República Dominicana desde la adolescencia, conduce actualmente el programa Protagonistas con Ivana Gavrilovic. La publicación recibió numerosas felicitaciones de colegas y seguidores.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T23:45:34+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Ivana-Gavrilovic-anuncia-su-compromiso-matrimonial-355x200.webp"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/presentadora-de-tv-ivana-gavrilovic-anuncia-su-compromiso-matrimonial-con-emotiva-publicacion/" }
-      ]
-    },
-    {
-      "title": "Autoridades inauguran nuevo destacamento de seguridad portuaria en San Pedro de Macorís",
-      "summary": "El ministro de Defensa encabezó la inauguración de un destacamento del Cuerpo Especializado de Seguridad Portuaria en el puerto Gregorio Urbano Gilbert de San Pedro de Macorís. La nueva instalación busca ampliar las labores de vigilancia y protección en la terminal marítima. El acto contó con la presencia de autoridades civiles y militares de la provincia.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T23:44:22+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Ministro-de-Defensa-inaugura-destacamento-del-CESEP-para-reforzar-seguridad-en-puerto-de-SPM-6-355x200.jpeg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/video-ministro-de-defensa-inaugura-destacamento-del-cesep-para-reforzar-seguridad-en-puerto-de-spm/" }
-      ]
-    },
-    {
-      "title": "Senado aprueba modificaciones al Código Penal y rechaza propuestas sobre difamación y libertad de expresión",
-      "summary": "El Senado de la República declaró de urgencia y aprobó en dos lecturas consecutivas las modificaciones al nuevo Código Penal, con 25 votos a favor y tres en contra, remitiendo la pieza al Poder Ejecutivo. Durante la sesión fueron rechazadas múltiples propuestas, incluyendo la eliminación de la pena de prisión por difamación simple, tres iniciativas sobre libertad de expresión del senador Omar Fernández y una moción del senador Félix Bautista para aplazar 84 artículos hasta que el Tribunal Constitucional resuelva las acciones de inconstitucionalidad pendientes. La entrada en vigencia del nuevo marco legal está prevista para el 3 de agosto.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T23:43:46+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Senadores-declaran-de-urgencia-y-aprueban-en-dos-lecturas-consecutivas-modificaciones-al-nuevo-Codigo-Penal-355x200.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/senadores-declaran-de-urgencia-y-aprueban-en-dos-lecturas-consecutivas-modificaciones-al-nuevo-codigo-penal/" },
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/por-que-el-senado-rechazo-eliminar-la-carcel-por-difamacion-y-aprobar-las-tres-causales/" },
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/felix-bautista-pide-aplazar-84-articulos-del-codigo-penal-y-el-senado-rechaza-la-mocion/" },
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/senado-rechaza-propuestas-de-omar-fernandez-sobre-libertad-de-expresion/" }
-      ]
-    },
-    {
-      "title": "Gobierno crea comisión ciudadana para vigilar gestión de residuos sólidos",
-      "summary": "El presidente Luis Abinader emitió el decreto 498-26 que crea la Comisión de Veeduría Ciudadana del Fideicomiso para la Gestión Integral de Residuos Sólidos, conocida como DO Sostenible. El órgano consultivo tendrá como función dar seguimiento a la ejecución financiera y verificar que los recursos se destinen a los fines establecidos por la Ley 225-20. La comisión estará coordinada por Alliet Ortega e integrada por expertos seleccionados bajo criterios de independencia y solvencia moral.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T22:34:38+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/presidente-abinader-crea-comision-de-veeduria-para-fortalecer-manejo-de-residuos-solidos/" }
-      ]
-    },
-    {
-      "title": "Trump evalúa una acción militar contra grupos yihadistas en Mali",
-      "summary": "El presidente estadounidense Donald Trump consideró la posibilidad de ordenar un ataque contra un grupo yihadista afiliado a Al Qaeda en Mali, según informó el diario The Washington Post. La propuesta ha generado divisiones dentro del Gobierno y conlleva el riesgo de incidentes con las fuerzas rusas desplegadas en el país africano. De concretarse, sería el octavo país donde Trump ordena operaciones militares desde el inicio de su segundo mandato.",
+      "title": "Analistas advierten escalada de presión naval china en el Indopacífico",
+      "summary": "Expertos en seguridad señalan que China emplea barcos pesqueros y guardacostas para incrementar su presencia cerca de Taiwán, las islas Senkaku y el mar de China Meridional. La estrategia buscaría crear las condiciones para una eventual «cuarentena blanda» sobre la isla taiwanesa, dificultando el tránsito de suministros. Estos movimientos han fortalecido la cooperación entre Japón, Filipinas, Taiwán y Estados Unidos.",
       "category": "Mundo",
-      "pubDate": "2026-07-22T22:29:01+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/22/trump-considera-la-posibilidad-de-atacar-a-yihadistas-en-mali-segun-el-washington-post/" }
-      ]
-    },
-    {
-      "title": "Transporte público ofrecerá gratuidad a atletas durante Juegos Centroamericanos",
-      "summary": "La Empresa Metropolitana de Transporte presentó una tarjeta conmemorativa para los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026 que permitirá a atletas, voluntarios y colaboradores acreditados viajar gratuitamente en el Metro y el Teleférico del 24 de julio al 8 de agosto. También se lanzó una edición especial con catorce viajes por cien pesos y se habilitó el acceso gratuito en estaciones cercanas a las sedes deportivas. Las medidas buscan facilitar la movilidad durante el mayor evento deportivo de la región.",
-      "category": "Deportes",
-      "pubDate": "2026-07-22T22:23:18+00:00",
+      "pubDate": "2026-07-23T11:47:00+00:00",
       "imageUrls": [
-        "https://robertocavada.com/wp-content/uploads/2026/07/Metro-y-Teleferico-de-Santo-Domingo-1-683x1024.webp",
-        "https://robertocavada.com/wp-content/uploads/2026/07/Metro-y-Teleferico-de-Santo-Domingo-2-683x1024.webp"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/ILUSTRACION-TAIWAN-1-355x200.webp"
       ],
       "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/metro-y-teleferico-de-santo-domingo-ofreceran-acceso-gratuito-a-atletas/" }
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/china-intensifica-presion-maritima-sobre-taiwan-y-aliados-regionales/"}
       ]
     },
     {
-      "title": "Senador celebra la salida de República Dominicana del mapa del hambre según la FAO",
-      "summary": "El senador Daniel Rivera atribuyó el reconocimiento de la FAO que coloca a República Dominicana fuera del mapa del hambre a las políticas sociales y los programas de asistencia alimentaria del Gobierno. El legislador destacó que la prevalencia de subalimentación descendió por debajo del 2,5 por ciento, umbral internacional para superar esa condición. A su juicio, el logro refleja la articulación entre inversión social, apoyo agropecuario y ampliación de programas de asistencia.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T21:49:04+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/22/daniel-rivera-atribuye-salida-rd-del-mapa-del-hambre-a-politicas-sociales-del-gobierno/" }
-      ]
-    },
-    {
-      "title": "José Ramírez vuelve a la alineación de los Guardianes tras cinco semanas de ausencia",
-      "summary": "El jugador dominicano José Ramírez fue activado de la lista de lesionados y regresó a la alineación de los Guardianes de Cleveland tras perderse treinta partidos por una fractura en la mano. El antesalista se sometió a una cirugía el 14 de junio y volvió sin pasar por un periodo de rehabilitación en ligas menores. El equipo registró un récord de quince victorias y quince derrotas durante su ausencia y se mantiene empatado en el liderato de la División Central.",
-      "category": "Deportes",
-      "pubDate": "2026-07-22T21:48:50+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/jose-ramirez-regresa-a-los-guardianes-tras-perderse-30-partidos-y-cinco-semanas/" }
-      ]
-    },
-    {
-      "title": "Policía detiene en Bonao a sospechoso de múltiples robos y convoca a víctimas",
-      "summary": "Agentes de la Dirección Regional Cibao Sur arrestaron a un hombre de 44 años residente en el sector Ciudad de Dios de Bonao, señalado por la comunidad como presunto responsable de múltiples robos. Las autoridades llamaron a las personas afectadas a presentar denuncias formales en la Fiscalía de Monseñor Nouel para fortalecer el proceso judicial. La Policía reiteró su compromiso con la seguridad ciudadana en la zona.",
-      "category": "Noticias",
-      "pubDate": "2026-07-22T21:48:37+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/22/policia-nacional-arresta-en-bonao-a-presunto-autor-de-robos-exhortan-a-victimas-a-realizar-sus-denuncias/" }
-      ]
-    },
-    {
-      "title": "Alcalde mexicano de Temoac es asesinado a tiros en su oficina",
-      "summary": "El presidente municipal de Temoac, Valentín Lavín Romero, falleció tras ser atacado por sujetos armados en el interior de las instalaciones de la alcaldía en el estado de Morelos. La Fiscalía General del Estado inició las investigaciones y desplegó un operativo de seguridad en municipios aledaños para localizar a los responsables. Versiones de prensa local señalan que los atacantes irrumpieron en el recinto y abrieron fuego mientras el funcionario trabajaba.",
+      "title": "Rubio afirma que Teherán busca negociar con Washington a diario",
+      "summary": "El secretario de Estado estadounidense sostuvo en la cumbre de la ASEAN en Manila que Irán intenta reabrir el diálogo a través de terceros países, aunque acusó a Teherán de incumplir los acuerdos. Las declaraciones coinciden con la intensificación de operaciones militares estadounidenses contra objetivos iraníes tras el fin del alto el fuego firmado en junio. Rubio advirtió que el costo del conflicto aumenta para la República Islámica.",
       "category": "Mundo",
-      "pubDate": "2026-07-22T21:30:27+00:00",
+      "pubDate": "2026-07-23T11:36:57+00:00",
       "imageUrls": [
-        "https://n.com.do/wp-content/uploads/2026/07/ChatGPT-Image-22-jul-2026-17_21_17-1-229x300.png"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/RUBIO-ASEAN-355x200.webp"
       ],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/22/asesinan-en-un-ataque-armado-al-alcalde-del-municipio-mexicano-de-temoac/" }
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/rubio-asegura-iran-suplica-acuerdo-con-estados-unidos/"}
       ]
     },
     {
-      "title": "Ministerio de Deportes fija en US$120,000 el alquiler diario del Estadio Olímpico",
-      "summary": "El Ministerio de Deportes anunció un nuevo esquema de administración para el Estadio Olímpico Félix Sánchez que contempla un alquiler de 120 mil dólares diarios para eventos masivos, con el objetivo de generar cerca de un millón de dólares anuales para su mantenimiento. El ministro Kelvin Cruz justificó la medida señalando que muchas instalaciones deportivas se deterioran por falta de recursos para su conservación. El recinto forma parte de una inversión de nueve mil millones de pesos para los Juegos Centroamericanos y del Caribe.",
+      "title": "Bruselas consigue un nuevo paquete de sanciones contra Moscú",
+      "summary": "Los Estados miembros de la Unión Europea alcanzaron un acuerdo para aplicar el vigésimo primer conjunto de medidas restrictivas contra Rusia. El paquete prolonga el mecanismo que topa el precio del crudo ruso a 44 dólares el barril e incluye nuevas restricciones financieras y contra la flota fantasma de petroleros. Grecia obtuvo una excepción para continuar transportando gas natural licuado a clientes fuera de Europa.",
+      "category": "Mundo",
+      "pubDate": "2026-07-23T11:31:35+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/AFP__20260722__C2VE4G7__v2__HighRes__TopshotUkraineRussiaConflictWar-355x200.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/los-paises-de-la-ue-llegan-a-un-acuerdo-para-imponer-nuevas-sanciones-a-rusia/"}
+      ]
+    },
+    {
+      "title": "Colonos israelíes rezan en la Explanada de las Mezquitas bajo protección policial",
+      "summary": "Más de 3.200 fieles judíos ingresaron al recinto de Al Aqsa en Jerusalén con motivo de la festividad de Tisha B'Av, escoltados por un fuerte dispositivo de seguridad. El ministro Itamar Ben Gvir participó en los rezos e izó la bandera israelí dentro del complejo, en violación del statu quo vigente desde 1967. Jordania y varios países árabes condenaron la incursión.",
+      "category": "Mundo",
+      "pubDate": "2026-07-23T11:30:47+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/EXPLANADA-COLONOS-4-355x200.webp"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/miles-irrumpen-y-rezan-en-al-aqsa-bajo-fuerte-seguridad-israeli/"}
+      ]
+    },
+    {
+      "title": "Cancilleres de EE.UU. y Rusia dialogan en Manila sobre la guerra en Ucrania",
+      "summary": "Marco Rubio y Serguéi Lavrov se reunieron al margen de la cumbre de la ASEAN para explorar salidas negociadas al conflicto ucraniano. Moscú reiteró su rechazo al suministro de armas a Kiev y calificó de «inadmisible» la postura de varios países europeos. Ambas partes reconocieron la necesidad de mantener el diálogo como potencias nucleares.",
+      "category": "Mundo",
+      "pubDate": "2026-07-23T11:22:24+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/RUBIO-LAVROV-UCRANIA-355x200.webp"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/rubio-y-lavrov-buscan-vias-para-destrabar-guerra-en-ucrania/"}
+      ]
+    },
+    {
+      "title": "Indomet prevé aguaceros fuertes en provincias del interior",
+      "summary": "El Instituto Dominicano de Meteorología anunció que una vaguada generará precipitaciones, tormentas eléctricas y ráfagas de viento durante la tarde y la noche en varias provincias. Las lluvias afectarán principalmente Hato Mayor, Sánchez Ramírez, Valverde, Dajabón y San Juan, entre otras. Las temperaturas se mantendrán elevadas por la temporada de verano y la presencia de polvo del Sahara.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T11:09:08+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/Sistema-frontal-favorecera-lluvias-debiles-y-moderadas-en-gran-parte-del-pais-355x200.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/vaguada-provocara-aguaceros-fuertes-en-provincias-del-interior-este-jueves/"}
+      ]
+    },
+    {
+      "title": "Manifestantes en Albania rechazan complejo turístico vinculado a los Trump",
+      "summary": "La policía albanesa dispersó con gases lacrimógenos y cañones de agua a cientos de personas que intentaban llegar al Parlamento en Tirana para protestar contra un proyecto turístico en una zona natural protegida. Las movilizaciones se intensificaron desde mayo e incluyen críticas a un subsidio gubernamental para un concierto de Kanye West. Los demostradores exigen además la renuncia del primer ministro Edi Rama.",
+      "category": "Mundo",
+      "pubDate": "2026-07-23T11:05:29+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Albania-ult-355x200.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/protestan-en-albania-contra-proyecto-de-resort-vinculado-a-los-trump/"}
+      ]
+    },
+    {
+      "title": "Jubilados y sindicatos retoman marchas contra el ajuste de Milei",
+      "summary": "Miles de personas se congregaron frente al Congreso en Buenos Aires en la primera gran movilización tras el mundial de fútbol. La CGT anunció que reforzará su presencia en las protestas semanales de los jubilados, quienes denuncian que la pensión mínima no cubre ni un tercio de la canasta básica. El gobierno defiende su política de austeridad pese a las críticas por la pérdida de empleos.",
+      "category": "Mundo",
+      "pubDate": "2026-07-23T10:44:38+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/03/12225632/represion-a-jubilados_gobierno-de-milei-1024x683-1-355x200.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/sindicatos-y-jubilados-reanudan-las-protestas-contra-el-ajuste-de-milei-en-argentina/"}
+      ]
+    },
+    {
+      "title": "Abinader recibe informe final de la consulta nacional sobre educación",
+      "summary": "El presidente recibió el documento elaborado por la Comisión Ejecutiva para la Transformación Educativa, que recoge aportes de más de 7.000 personas entre estudiantes, docentes y sectores productivos. El mandatario se comprometió a convertir los consensos en una nueva legislación que reemplace el modelo actual y responda a los retos tecnológicos del país. El informe será la base para políticas públicas y una nueva ley educativa.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T10:40:27+00:00",
+      "imageUrls": [
+        "https://m.n.com.do/wp-content/uploads/2026/07/04108fd58c186aa635b73592dbc5664eb5a051162342bebe-1e83-4357-8b9c-b175f5e3a5bdjpeg-300x200.jpeg",
+        "https://m.n.com.do/wp-content/uploads/2026/07/0dcd0f5554fc245b33f7f9890c8d8bdde76b79def4f100fa-b125-4ea2-8769-93632bd68179jpeg-300x200.jpeg",
+        "https://eldia.com.do/wp-content/uploads/2026/07/6_Nacionales_23_4p01.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/gobierno-recibe-propuesta-para-redisenar-sistema-educativo-tras-consulta-nacional/"},
+        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/luis-abinader-promete-llevar-consenso-educativo-a-politicas-publicas/"}
+      ]
+    },
+    {
+      "title": "Tres de cada cuatro vehículos registrados en RD pertenecen a hombres",
+      "summary": "Un informe de la Dirección General de Impuestos Internos revela que el 76 por ciento de los vehículos matriculados a nombre de personas físicas están registrados a nombre de varones. El parque vehicular dominicano supera los 6,6 millones de unidades, con un crecimiento anual del 7,2 por ciento impulsado principalmente por las motocicletas. Los datos reflejan una brecha de género persistente en la titularidad de bienes.",
       "category": "Negocios",
-      "pubDate": "2026-07-22T21:29:07+00:00",
+      "pubDate": "2026-07-23T10:20:27+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/impuestos-internos-registra-brecha-de-titularidad-vehicular-76-pertenecen-a-hombres/"}
+      ]
+    },
+    {
+      "title": "El nuevo Código Penal eleva hasta 10 años la pena por evadir manutención",
+      "summary": "La reforma penal aprobada por el Congreso endurece las sanciones contra quienes simulen insolvencia para eludir el pago de la pensión alimentaria, estableciendo penas de cinco a diez años de prisión. Estadísticas de 2024 indican que el 93 por ciento de los padres dominicanos incumple con esta obligación. Las víctimas de este delito esperan que la nueva normativa reduzca la impunidad.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T10:10:09+00:00",
       "imageUrls": [
-        "https://m.n.com.do/wp-content/uploads/2026/07/WhatsApp-Image-2025-09-12-at-10-300x169.jpg"
+        "https://n.com.do/wp-content/uploads/2026/07/Pension-alimentaria.--300x175.jpg"
       ],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/22/us120000-sera-el-alquiler-diario-del-estadio-olimpico-para-eventos-masivos-segun-deportes/" }
+        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/no-quiere-pagar-manutencion-el-codigo-castigara-hasta-con-10-anos-de-prision-por-alegar-insolvencia/"}
       ]
     },
     {
-      "title": "Corte de Apelación resolverá este jueves sobre el caso de Jean Andrés Pumarol",
-      "summary": "La Segunda Sala Penal de la Corte de Apelación del Distrito Nacional anunciará su fallo sobre si revoca o mantiene el auto de No Ha Lugar dictado a favor de Jean Andrés Pumarol Fernández, acusado de causar la muerte de una mujer y herir a varias personas durante un ataque en el sector Naco. El Ministerio Público busca que el imputado sea enviado a juicio de fondo. Un informe del INACIF estableció que Pumarol padecía un brote psicótico de esquizofrenia paranoide al momento de los hechos.",
+      "title": "Corte de Apelación decide si Jean André Pumarol va a juicio por crimen de Naco",
+      "summary": "La Segunda Sala de la Corte de Apelación del Distrito Nacional resolverá este jueves un recurso que busca revocar el auto de no ha lugar que liberó al imputado del caso. Pumarol está acusado de apuñalar mortalmente a Yolanda Handal en un condominio del ensanche Naco en julio de 2025. La familia de la víctima demanda que el caso sea ventilado en un juicio de fondo.",
       "category": "Noticias",
-      "pubDate": "2026-07-22T21:25:25+00:00",
+      "pubDate": "2026-07-23T10:00:34+00:00",
       "imageUrls": [],
       "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/jueces-decidiran-este-jueves-si-revocan-no-ha-lugar-a-favor-de-jean-andres-pumarol/" }
+        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/hoy-decidiran-si-jean-andre-pumarol-enfrentara-juicio-por-crimen-ocurrido-en-naco/"}
       ]
     },
     {
-      "title": "República Dominicana repudia el anuncio de Ortega de suprimir elecciones en Nicaragua",
-      "summary": "El Ministerio de Relaciones Exteriores condenó enérgicamente la declaración del presidente nicaragüense de que no se realizarán más elecciones en su país y la calificó como un desconocimiento abierto de los principios de la democracia representativa. El Gobierno dominicano instó a las autoridades de Nicaragua a rectificar y garantizar los derechos políticos del pueblo. República Dominicana reafirmó su compromiso con la defensa de la democracia, los derechos humanos y el Estado de derecho.",
+      "title": "La ONU urge cascos certificados y multas más severas para motociclistas dominicanos",
+      "summary": "El enviado especial de Naciones Unidas para Seguridad Vial, Jean Todt, recomendó el uso obligatorio de cascos homologados y la entrega de dos unidades con cada motocicleta vendida en el país. También propuso incorporar la educación vial en las escuelas y elevar las sanciones a los infractores. Según estudios internacionales, el uso de cascos certificados reduce hasta un 74 por ciento el riesgo de lesiones cerebrales graves.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T04:19:00+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/8_anyelo_1p02-1024x392.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/onu-considera-multas-de-mayor-gravedad-disuaden-el-desorden-vial/"}
+      ]
+    },
+    {
+      "title": "RD apunta a récord de medallas en los Juegos Centroamericanos y del Caribe",
+      "summary": "La delegación dominicana, compuesta por 712 atletas y unos 350 técnicos, buscará superar las 111 preseas obtenidas en San Salvador 2023 cuando arranquen los XXV Juegos Centroamericanos y del Caribe. La campeona olímpica Marileidy Paulino y las Reinas del Caribe encabezan la escuadra criolla en el evento del centenario. El certamen reúne a más de 6.200 atletas y marca el inicio del ciclo olímpico rumbo a Los Ángeles 2028.",
+      "category": "Deportes",
+      "pubDate": "2026-07-23T04:18:00+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/21_D_23_1p02.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/republica-dominicana-busca-tener-mayor-cosecha-de-medallas-en-juegos-centroamericanos-y-del-caribe/"}
+      ]
+    },
+    {
+      "title": "Irán ataca dos bases militares estadounidenses en Jordania",
+      "summary": "La Guardia Revolucionaria iraní confirmó un ataque con misiles y drones contra las instalaciones Rey Faisal y Príncipe Hassan, donde aseguró haber destruido ocho aeronaves no tripuladas MQ-9. Teherán afirmó que el bombardeo causó bajas entre los militares estadounidenses, información que Washington no ha corroborado. Jordania interceptó cuatro de los seis misiles lanzados contra su territorio.",
       "category": "Mundo",
-      "pubDate": "2026-07-22T21:20:53+00:00",
+      "pubDate": "2026-07-23T04:17:00+00:00",
       "imageUrls": [],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/22/rd-condena-anuncio-de-daniel-ortega-de-eliminar-elecciones-en-nicaragua/" }
+        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/iran-lanza-nuevos-ataques-contra-las-bases-de-ee-uu/"}
+      ]
+    },
+    {
+      "title": "Christopher Nolan adapta el clásico de Homero en su nueva cinta",
+      "summary": "El cineasta británico estrena su versión cinematográfica de 'La Odisea', con Matt Damon en el papel de Odiseo. La película recrea el periplo del héroe griego de regreso a Ítaca tras la guerra de Troya, una obra escrita entre los años 850 y 750 antes de Cristo. Damon reconoció que solo aceptó el proyecto por la insistencia del director.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T04:16:00+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/la-odisea-un-fabuloso-estreno-del-director-christopher-nolan/"}
+      ]
+    },
+    {
+      "title": "Expertos señalan que la paternidad actual requiere más que proveer",
+      "summary": "Psicólogas clínicas advierten que el rol paterno sigue asociado principalmente al sustento económico, lo que deja de lado la dimensión emocional de la crianza. Muchos hombres crecieron en entornos donde expresar sentimientos se consideraba debilidad y hoy cargan frustraciones sin espacios para ventilarlas. Las especialistas insisten en que la presencia afectiva es tan necesaria como la material.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T04:15:00+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/34_V_20_1p02.jpg"
+      ],
+      "referenceLinks": [
+        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/la-buena-paternidad-va-mas-alla-de-proveer/"}
+      ]
+    },
+    {
+      "title": "Embalses dominicanos mantienen niveles estables pese a la sequía",
+      "summary": "Las principales presas del país acumulan 1.534 millones de metros cúbicos, equivalentes al 76 por ciento de su capacidad total, a pesar del periodo de escasez de lluvias. El volumen representa una disminución de apenas 0,91 por ciento respecto al reporte del 20 de julio. Hatillo y Monción figuran entre los embalses con mejores niveles, mientras Monte Grande presenta la situación más crítica.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T04:14:00+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/las-presas-estan-estables-pese-a-sequia/"}
+      ]
+    },
+    {
+      "title": "Gobierno inaugura túnel en la Plaza de la Bandera",
+      "summary": "El presidente Luis Abinader inauguró un paso a desnivel de 1,16 kilómetros en la intersección de las avenidas Gregorio Luperón y 27 de Febrero, considerado la obra de conectividad vial más relevante del país. La infraestructura incluye 360 metros de túnel cubierto y cuatro calzadas con capacidad para más de 2.500 vehículos por hora. El proyecto enlaza los corredores Este, Sur y Norte de la geografía nacional.",
+      "category": "Noticias",
+      "pubDate": "2026-07-23T04:02:00+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/solucion-vial-en-la-plaza-de-la-bandera/"}
       ]
     }
   ]
