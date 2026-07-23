@@ -5,11 +5,22 @@
     <link>https://lecodejedi.github.io/noticiasrd.xml</link>
     <description>Resumen diario de noticias dominicanas de las principales fuentes de prensa nacional.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 22 Jul 2026 20:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:01:37 +0000</lastBuildDate>
     <generator>Noticias.RD RSS Summarizer</generator>
     <item>
-      <title>Familiares de hombre fallecido tras detención policial exigen investigación independiente en San Cristóbal</title>
-      <description>Miguel Antonio Valenzuela perdió la vida en un hospital de San Cristóbal días después de ser liberado de un destacamento policial donde permaneció detenido por presunta posesión de un verifón. El Instituto Nacional de Ciencias Forenses atribuyó el deceso a una leptospirosis con trombocitopenia, pero los parientes rechazan esa versión y denuncian torturas durante su custodia. El caso plantea interrogantes sobre las condiciones de salubridad en los destacamentos y la posible responsabilidad de los agentes involucrados.</description>
+      <title>Aerolíneas suspenden una decena de vuelos hacia Santo Domingo por humo de incendios canadienses</title>
+      <description>La operadora del aeropuerto de San Juan canceló doce vuelos debido al humo proveniente de los incendios forestales de Canadá que afecta la calidad del aire en la costa este de Estados Unidos. La medida impactó a más de mil quinientos pasajeros, incluyendo trayectos hacia y desde Santo Domingo. Las aerolíneas JetBlue y Frontier fueron las más afectadas por las cancelaciones.</description>
+      <category>Mundo</category>
+      <link>https://eldia.com.do/cancelan-vuelos-entre-puerto-rico-y-republica-dominicana-por-condiciones-climatologicas/</link>
+      <guid isPermaLink="true">https://eldia.com.do/cancelan-vuelos-entre-puerto-rico-y-republica-dominicana-por-condiciones-climatologicas/</guid>
+      <source url="https://eldia.com.do/cancelan-vuelos-entre-puerto-rico-y-republica-dominicana-por-condiciones-climatologicas/">El Día</source>
+      <comments>Diario Libre: https://www.diariolibre.com/usa/actualidad/2026/07/21/vuelos-desde-republica-dominicana-cancelados-por-tormenta-tropical/3606571</comments>
+      <enclosure url="https://resources.diariolibre.com/images/2026/01/12/baja-estadias-prolongada-de-dominicanos-en-estados-unidos-128e366f-focus-0-0-400-300.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 20:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Familiares cuestionan muerte de detenido que estuvo bajo custodia policial en San Cristóbal</title>
+      <description>Miguel Antonio Valenzuela falleció en un hospital de San Cristóbal apenas dos días después de ser liberado de un destacamento policial donde permaneció detenido por presunta posesión de material de lotería. El Instituto Nacional de Ciencias Forenses atribuyó la muerte a una leptospirosis, pero sus allegados denuncian que sufrió golpes y torturas durante su reclusión y exigen una investigación independiente. El caso ha generado interrogantes sobre las condiciones de salubridad en los centros de detención.</description>
       <category>Noticias</category>
       <link>https://www.diariolibre.com/actualidad/sucesos/2026/07/21/cronologia-caso-miguel-antonio-valenzuela/3606015</link>
       <guid isPermaLink="true">https://www.diariolibre.com/actualidad/sucesos/2026/07/21/cronologia-caso-miguel-antonio-valenzuela/3606015</guid>
@@ -19,207 +30,200 @@
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Embarcación con 165 inmigrantes es rescatada cerca de El Hierro con un fallecido y varios heridos</title>
-      <description>Salvamento Marítimo acudió al rescate de una barcaza que transportaba a 165 personas cerca de la isla canaria de El Hierro, resultando en una víctima mortal y quince hospitalizados, entre ellos un bebé en estado crítico. El pesquero que detectó la embarcación alertó a las autoridades, quienes remolcaron la nave hasta el puerto de La Restinga con un dispositivo médico reforzado. Las llegadas irregulares a Canarias han disminuido un 61 por ciento en lo que va de año, aunque aumentaron en Baleares y la península española.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/tragedia-migratoria-deja-una-mujer-fallecida-en-espana/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/tragedia-migratoria-deja-una-mujer-fallecida-en-espana/</guid>
-      <source url="https://elnuevodiario.com.do/tragedia-migratoria-deja-una-mujer-fallecida-en-espana/">El Nuevo Diario</source>
-      <enclosure url="https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2020/04/d2fd8b5a076be33737c25278ae3b1ab511385ba6-scaled.jpg?resize=355%2C200&amp;quality=100&amp;ssl=1" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 19:58:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acusado de amenazar a su expareja comparece en televisión para negar las denuncias</title>
-      <description>Un hombre señalado por su expareja de profirir amenazas de muerte acudió a un programa televisivo para ejercer su derecho a réplica, donde rechazó haberla perseguido y atribuyó el conflicto a disputas de custodia sobre su hijo de doce años. El entrevistado aseguró que nunca ha ejercido violencia contra mujeres y que las diferencias deben dirimirse en los tribunales. Abogados presentes en el espacio advirtieron que el inicio de la relación cuando la mujer era menor de edad podría conllevar implicaciones penales.</description>
+      <title>Especialista urge declarar emergencia nacional ante alarmante mortalidad vial</title>
+      <description>El ingeniero Aníbal Germoso advirtió que la siniestralidad vial cobra más de tres mil vidas cada año en el país y propuso declarar una emergencia nacional para enfrentar el problema. El creador de la plataforma Accidentes RD señaló que la mayoría de los siniestros son producto de imprudencias como exceso de velocidad y conducción bajo efectos del alcohol, no de accidentes inevitables. Las metas de reducción de mortalidad fijadas para 2030 se encuentran lejos de cumplirse.</description>
       <category>Noticias</category>
-      <link>https://elnuevodiario.com.do/hombre-ejerce-derecho-a-replica-tras-acusaciones-de-presuntas-amenazas-de-muerte-contra-su-expareja/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/hombre-ejerce-derecho-a-replica-tras-acusaciones-de-presuntas-amenazas-de-muerte-contra-su-expareja/</guid>
-      <source url="https://elnuevodiario.com.do/hombre-ejerce-derecho-a-replica-tras-acusaciones-de-presuntas-amenazas-de-muerte-contra-su-expareja/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Hombre-ejerce-derecho-a-replica-tras-acusaciones-de-presuntas-amenazas-de-muerte-contra-su-expareja.jpg-355x200.jpeg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 19:53:25 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/experto-propone-declarar-emergencia-nacional-por-aumento-de-accidentes-de-transitos/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/experto-propone-declarar-emergencia-nacional-por-aumento-de-accidentes-de-transitos/</guid>
+      <source url="https://elnuevodiario.com.do/experto-propone-declarar-emergencia-nacional-por-aumento-de-accidentes-de-transitos/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-22-195528-355x200.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 23:58:43 +0000</pubDate>
     </item>
     <item>
-      <title>Trump advierte que bombardeará infraestructura iraní por cada agresión en el estrecho de Ormuz</title>
-      <description>El presidente estadounidense amenazó con destruir puentes y centrales eléctricas en Irán cada vez que ese país ataque buques en el estrecho de Ormuz, en medio de la reanudación del conflicto que ya ha costado más de 37 mil millones de dólares. El secretario de Estado, Marco Rubio, sostuvo desde Manila que Washington permanece abierto a una solución diplomática, aunque acusó a Teherán de incumplir los compromisos del alto el fuego firmado en junio. Las hostilidades generan creciente inquietud por el suministro de crudo y la estabilidad económica mundial.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/trump-amenaza-con-destruir-puentes-y-plantas-electricas-en-iran-por-cada-ataque-en-ormuz/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/trump-amenaza-con-destruir-puentes-y-plantas-electricas-en-iran-por-cada-ataque-en-ormuz/</guid>
-      <source url="https://elnuevodiario.com.do/trump-amenaza-con-destruir-puentes-y-plantas-electricas-en-iran-por-cada-ataque-en-ormuz/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Donald_Trump_EEUU_elecciones-355x200.webp" type="image/webp" />
-      <pubDate>Wed, 22 Jul 2026 19:43:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bertha llega como tormenta tropical a la costa de Luisiana con lluvias e inundaciones</title>
-      <description>El sistema tropical Bertha hizo tierra en el sureste de Luisiana con vientos sostenidos de 75 kilómetros por hora y precipitaciones que podrían acumular hasta seis pulgadas en la costa del Golfo. El Centro Nacional de Huracanes emitió avisos para Nueva Orleans y el lago Pontchartrain, además de advertencias desde Luisiana hasta Texas. Las autoridades prevén mareas de más de un metro y corrientes marinas peligrosas durante las próximas 36 horas.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/la-tormenta-tropical-bertha-toca-tierra-en-luisiana-sur-de-ee-uu/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/la-tormenta-tropical-bertha-toca-tierra-en-luisiana-sur-de-ee-uu/</guid>
-      <source url="https://elnuevodiario.com.do/la-tormenta-tropical-bertha-toca-tierra-en-luisiana-sur-de-ee-uu/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/USA1693-EEUU-HURACANES-ATLANTICO-355x200.webp" type="image/webp" />
-      <pubDate>Wed, 22 Jul 2026 19:37:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ejército detiene a 48 haitianos en operativos fronterizos en San Juan y Elías Piña</title>
-      <description>Patrullas del Ejército de República Dominicana realizaron tres intervenciones en las provincias de San Juan y Elías Piña, deteniendo a cuarenta y ocho nacionales haitianos en condición migratoria irregular. Los operativos se ejecutaron en zonas rurales y pasos fronterizos como Bánica y Las Matas de Farfán, donde los individuos intentaban ingresar o desplazarse evadiendo los controles militares. Los extranjeros fueron puestos a disposición de la Dirección General de Migración para su procesamiento conforme a la ley.</description>
+      <title>Legislador defiende modernización del Código Penal para combatir ciberdelitos</title>
+      <description>El diputado Vicente Sánchez afirmó que el nuevo Código Penal incorpora figuras delictivas adaptadas a la era digital, permitiendo perseguir conductas como el fraude informático y la suplantación de identidad. El legislador subrayó que la normativa vigente tiene más de 140 años y no contempla las modalidades delictivas derivadas del avance tecnológico. Instó a respaldar la entrada en vigencia del nuevo marco legal como herramienta para proteger a los ciudadanos en el entorno digital.</description>
       <category>Noticias</category>
-      <link>https://elnuevodiario.com.do/erd-interceptan-a-48-migrantes-indocumentados-en-intervenciones-en-san-juan-y-elias-pina/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/erd-interceptan-a-48-migrantes-indocumentados-en-intervenciones-en-san-juan-y-elias-pina/</guid>
-      <source url="https://elnuevodiario.com.do/erd-interceptan-a-48-migrantes-indocumentados-en-intervenciones-en-san-juan-y-elias-pina/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Patrullas-del-Ejercito-interceptan-a-48-migrantes-3-1-355x200.jpeg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 19:36:08 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/diputado-vicente-sanchez-asegura-que-estafadores-electronicos-seran-castigados-en-el-nuevo-codigo-penal/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/diputado-vicente-sanchez-asegura-que-estafadores-electronicos-seran-castigados-en-el-nuevo-codigo-penal/</guid>
+      <source url="https://elnuevodiario.com.do/diputado-vicente-sanchez-asegura-que-estafadores-electronicos-seran-castigados-en-el-nuevo-codigo-penal/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Diputado-Vicente-Sanchez--355x200.jpeg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 23:58:39 +0000</pubDate>
     </item>
     <item>
-      <title>El precio del crudo de Texas se dispara por las tensiones entre Estados Unidos e Irán</title>
-      <description>El barril de petróleo intermedio de Texas cerró con un alza cercana al tres por ciento, situándose en 86,83 dólares, tras las advertencias del presidente estadounidense sobre posibles bombardeos a infraestructura iraní. Los analistas atribuyen el repunte a la incertidumbre geopolítica generada por los conflictos en Oriente Medio y Ucrania, que reavivan las preocupaciones sobre el suministro energético. El secretario de Estado reiteró que su país busca una salida negociada, aunque acusó a Teherán de no cumplir sus compromisos.</description>
-      <category>Negocios</category>
-      <link>https://elnuevodiario.com.do/el-petroleo-de-texas-sube-a-8683-dolares-tras-nuevas-amenazas-de-trump-a-iran/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/el-petroleo-de-texas-sube-a-8683-dolares-tras-nuevas-amenazas-de-trump-a-iran/</guid>
-      <source url="https://elnuevodiario.com.do/el-petroleo-de-texas-sube-a-8683-dolares-tras-nuevas-amenazas-de-trump-a-iran/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/01/03160134/petroleo-sube.jpg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 19:31:27 +0000</pubDate>
+      <title>Caminero calla críticas con temporada récord en las Grandes Ligas</title>
+      <description>El antesalista dominicano Junior Caminero ha superado con creces los cuestionamientos sobre su rendimiento del año anterior al elevar prácticamente todos sus números ofensivos en la temporada 2026. En cien partidos disputados, su promedio de bateo subió de .252 a .288 y sus jonrones pasaron de 21 a 29 respecto al mismo periodo del año previo. Su disciplina en el plato también mejoró notablemente, duplicando las bases por bolas negociadas.</description>
+      <category>Deportes</category>
+      <link>https://elnuevodiario.com.do/el-debate-termino-junior-caminero-demuestra-que-no-era-el-estadio/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/el-debate-termino-junior-caminero-demuestra-que-no-era-el-estadio/</guid>
+      <source url="https://elnuevodiario.com.do/el-debate-termino-junior-caminero-demuestra-que-no-era-el-estadio/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/JUNIOR-CAMINERO-NO-ERA-EL-PLAY-355x200.png" type="image/png" />
+      <pubDate>Wed, 22 Jul 2026 23:57:33 +0000</pubDate>
     </item>
     <item>
-      <title>Estudiante del Colegio San Martín de Porres obtiene tercer lugar en Olimpiadas Nacionales de Ciencias Sociales</title>
-      <description>La estudiante Victoria Sarai Bolívar Cañas, de cuarto de secundaria, alcanzó el tercer puesto a nivel nacional en las Olimpiadas de Ciencias Sociales tras superar las fases distrital y regional en primer lugar. El certamen reúne a jóvenes de todo el país para evaluar su capacidad de análisis crítico y comprensión del entorno. La joven atribuyó el resultado al acompañamiento de sus docentes y familiares, y manifestó su disposición a seguir preparándose para nuevos retos académicos.</description>
+      <title>Tribunal ordena proseguir juicio al exprocurador Jean Alain Rodríguez por presunto desfalco multimillonario</title>
+      <description>El Segundo Tribunal Colegiado del Distrito Nacional declaró inadmisible un recurso de oposición de la defensa y dispuso la continuación del juicio contra el exprocurador general y demás imputados por presunta corrupción. El Ministerio Público acusa a Rodríguez de encabezar un entramado de desfalco superior a seis mil millones de pesos entre 2016 y 2020. La próxima audiencia fue fijada para el lunes 27 de julio.</description>
       <category>Noticias</category>
-      <link>https://elnuevodiario.com.do/colegio-san-martin-de-porres-alcanzan-tercer-lugar-nacional-en-olimpiadas-de-ciencias-sociales/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/colegio-san-martin-de-porres-alcanzan-tercer-lugar-nacional-en-olimpiadas-de-ciencias-sociales/</guid>
-      <source url="https://elnuevodiario.com.do/colegio-san-martin-de-porres-alcanzan-tercer-lugar-nacional-en-olimpiadas-de-ciencias-sociales/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Estudiante-C-355x200.png" type="image/png" />
-      <pubDate>Wed, 22 Jul 2026 19:30:16 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/tribunal-ordena-continuar-juicio-contra-jean-alain-rodriguez-tras-rechazar-recurso-de-la-defensa/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/tribunal-ordena-continuar-juicio-contra-jean-alain-rodriguez-tras-rechazar-recurso-de-la-defensa/</guid>
+      <source url="https://elnuevodiario.com.do/tribunal-ordena-continuar-juicio-contra-jean-alain-rodriguez-tras-rechazar-recurso-de-la-defensa/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Tribunal-ordena-continuar-juicio-contra-Jean-Alain-Rodriguez-tras-rechazar-recurso-de-la-defensa-355x200.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 23:56:10 +0000</pubDate>
     </item>
     <item>
-      <title>El hijo del líder venezolano depuesto reclama la liberación de su padre ante el tribunal de Nueva York</title>
-      <description>Nicolás Maduro Guerra encabezó una concentración chavista en Caracas donde denunció como injusto el juicio que se sigue en Estados Unidos contra su padre y Cilia Flores por cargos de narcoterrorismo. La tercera audiencia del caso concluyó en apenas 18 minutos en un tribunal federal, donde el juez fijó preliminarmente junio de 2027 para el inicio del juicio. La defensa planea solicitar la inmunidad de los acusados argumentando que ejercían como jefe de Estado y primera dama al momento de su captura en enero.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/el-hijo-de-maduro-califica-de-injusto-el-proceso-judicial-contra-su-padre-en-ee-uu/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/el-hijo-de-maduro-califica-de-injusto-el-proceso-judicial-contra-su-padre-en-ee-uu/</guid>
-      <source url="https://elnuevodiario.com.do/el-hijo-de-maduro-califica-de-injusto-el-proceso-judicial-contra-su-padre-en-ee-uu/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Nicolas-Maduro-Guerra-355x200.webp" type="image/webp" />
-      <pubDate>Wed, 22 Jul 2026 19:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Turista alemán lesionado al caer a las vías del Metro evoluciona favorablemente y será operado</title>
-      <description>El ciudadano alemán de 63 años que cayó a las vías del Metro de Santo Domingo permanece hospitalizado con una fractura abierta de tobillo y un trauma cerrado de tórax que requerirá cirugía reconstructiva. El director del Hospital Traumatológico Ney Arias Lora informó que el paciente está consciente y estable, y que la caída se debió a un accidente cerebrovascular reciente que le provocó pérdida de fuerza muscular. La recuperación total podría prolongarse entre uno y dos meses según su evolución clínica.</description>
+      <title>Evacuan supermercado Olé por conato de incendio sin reportar lesionados</title>
+      <description>La cadena de supermercados Olé activó sus protocolos de seguridad y evacuó de manera preventiva a todos los clientes y empleados de su sucursal en la avenida Jacobo Majluta tras registrarse un conato de incendio en un salón de belleza del establecimiento. La empresa confirmó que no hubo personas lesionadas y agradeció la rápida respuesta de los bomberos. Las labores de control del incidente continuaron bajo supervisión de las autoridades competentes.</description>
       <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/aleman-que-cayo-a-las-vias-del-metro-sufrio-fractura-abierta-de-tobillo-y-trauma-de-torax/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/aleman-que-cayo-a-las-vias-del-metro-sufrio-fractura-abierta-de-tobillo-y-trauma-de-torax/</guid>
-      <source url="https://n.com.do/2026/07/22/aleman-que-cayo-a-las-vias-del-metro-sufrio-fractura-abierta-de-tobillo-y-trauma-de-torax/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 18:48:53 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/clientes-y-colaboradores-estan-fuera-de-peligro-tras-conato-de-incendio-en-supermercado-ole/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/clientes-y-colaboradores-estan-fuera-de-peligro-tras-conato-de-incendio-en-supermercado-ole/</guid>
+      <source url="https://elnuevodiario.com.do/clientes-y-colaboradores-estan-fuera-de-peligro-tras-conato-de-incendio-en-supermercado-ole/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Clientes-y-colaboradores-estan-fuera-de-peligro-tras-conato-de-incendio-en-supermercado-Ole-355x200.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 23:54:59 +0000</pubDate>
     </item>
     <item>
-      <title>Antinarcóticos realiza allanamientos en el Este y detiene a 68 personas con más de 14 kilos de drogas</title>
-      <description>La Dirección Nacional de Control de Drogas y el Ministerio Público ejecutaron doce allanamientos en La Altagracia, La Romana y El Seibo contra puntos de microtráfico, resultando en 68 arrestos y la incautación de más de 14 kilos de sustancias narcóticas. El operativo decomisó cocaína, marihuana, crack, tusi y pastillas de éxtasis, además de vehículos, teléfonos, balanzas y dinero en pesos y dólares. Las autoridades indicaron que las acciones forman parte de la estrategia para desarticular redes de distribución en la región Oriental.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/dncd-arresta-a-68-personas-e-incauta-mas-de-14-kilos-de-presuntas-drogas-en-operativo-en-el-este/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/dncd-arresta-a-68-personas-e-incauta-mas-de-14-kilos-de-presuntas-drogas-en-operativo-en-el-este/</guid>
-      <source url="https://n.com.do/2026/07/22/dncd-arresta-a-68-personas-e-incauta-mas-de-14-kilos-de-presuntas-drogas-en-operativo-en-el-este/">n.com.do</source>
-      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/DNCD-arresta-a-tres-hombres-e-incauta-237-paquetes-de-presunta-cocaina-en-Santo-Domingo-221x300.jpeg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 18:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abinader recibe resultados de la Consulta Nacional Educativa y promete transformar el sistema</title>
-      <description>El presidente Luis Abinader recibió el informe consolidado de la Consulta Nacional sobre el Futuro de la Educación, en la que participaron más de siete mil personas, y asumió el compromiso de convertir los consensos en políticas públicas. El mandatario agradeció el respaldo de expresidentes, universidades y sectores empresariales y sociales en el proceso de diálogo. Abinader afirmó que la nueva ley educativa no replicará el modelo actual, sino que construirá el sistema que el país necesita para los próximos años.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/presidente-abinader-asume-compromiso-de-convertir-en-politicas-publicas-los-resultados-de-la-consulta-nacional-para-el-futuro-de-la-educacion/</link>
-      <guid isPermaLink="true">https://eldia.com.do/presidente-abinader-asume-compromiso-de-convertir-en-politicas-publicas-los-resultados-de-la-consulta-nacional-para-el-futuro-de-la-educacion/</guid>
-      <source url="https://eldia.com.do/presidente-abinader-asume-compromiso-de-convertir-en-politicas-publicas-los-resultados-de-la-consulta-nacional-para-el-futuro-de-la-educacion/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/06/12wsd-e1781203596878-150x150.jpg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 18:29:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Migración implementa sistemas biométricos y reconocimiento facial en la frontera de Dajabón</title>
-      <description>Una delegación de los Emiratos Árabes Unidos recorrió junto al director de Migración el centro de procesamiento de Dajabón, donde se instalan sistemas de reconocimiento facial y puertas electrónicas para modernizar el control fronterizo. Las nuevas tecnologías buscan agilizar el tránsito de viajeros legítimos mientras se refuerza la seguridad en uno de los pasos más activos del país. El funcionario explicó que la transformación digital se extenderá a aeropuertos, puertos y otros pasos fronterizos del territorio nacional.</description>
+      <title>Demanda judicial contra OpenAI por consejos de salud que casi cuestan la vida a un usuario</title>
+      <description>Un pastor de Florida presentó una demanda por negligencia contra OpenAI tras asegurar que el chatbot ChatGPT minimizó síntomas graves de una embolia pulmonar y lo disuadió de buscar atención médica. El demandante sufrió seis semanas después una embolia masiva que lo llevó al borde de la muerte y le provocó la pérdida de su empleo. El caso plantea interrogantes sobre las salvaguardas de las herramientas de inteligencia artificial en materia de salud.</description>
       <category>Tecnología</category>
-      <link>https://n.com.do/2026/07/22/migracion-control-biometrico-reconocimiento-facial-dajabon/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/migracion-control-biometrico-reconocimiento-facial-dajabon/</guid>
-      <source url="https://n.com.do/2026/07/22/migracion-control-biometrico-reconocimiento-facial-dajabon/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 18:26:10 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/demandan-a-chatgpt-por-desalentar-a-un-pastor-de-florida-a-buscar-atencion-medica/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/demandan-a-chatgpt-por-desalentar-a-un-pastor-de-florida-a-buscar-atencion-medica/</guid>
+      <source url="https://elnuevodiario.com.do/demandan-a-chatgpt-por-desalentar-a-un-pastor-de-florida-a-buscar-atencion-medica/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/04/070524_openai_chatgpt-355x200.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 23:50:32 +0000</pubDate>
     </item>
     <item>
-      <title>MESCyT exige a cientos de becarios de la UASD devolver estipendios cobrados sin cumplir requisitos</title>
-      <description>El Ministerio de Educación Superior, Ciencia y Tecnología concluyó la revisión de los expedientes de 2,557 estudiantes becados de la UASD y detectó que 425 participantes no pudieron demostrar el cumplimiento de los requisitos académicos. Otros 181 convocados no se presentaron al proceso de validación, por lo que deberán reintegrar los recursos percibidos. El ministro Rafael Santos Badía explicó que los estudiantes debían mantener un índice mínimo de 80 puntos, cursar al menos 12 créditos por período y permanecer activos.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/estudiantes-que-cobraron-becas-de-la-mescyt-sin-cumplir-con-los-requisitos-tendran-que-devolver-el-dinero/</link>
-      <guid isPermaLink="true">https://eldia.com.do/estudiantes-que-cobraron-becas-de-la-mescyt-sin-cumplir-con-los-requisitos-tendran-que-devolver-el-dinero/</guid>
-      <source url="https://eldia.com.do/estudiantes-que-cobraron-becas-de-la-mescyt-sin-cumplir-con-los-requisitos-tendran-que-devolver-el-dinero/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 18:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Organismos de la ONU alertan que los accidentes de tránsito son la principal causa de muerte infantil en el país</title>
-      <description>El enviado especial de la ONU para la Seguridad Vial, Jean Todt, calificó el tránsito dominicano como un desastre de salud pública y reveló que el país registra unas tres mil muertes anuales por siniestros viales. El representante de Unicef, Carlos Carrera, advirtió que los accidentes constituyen la primera causa de fallecimiento en menores de 5 a 19 años y propuso limitar la velocidad a menos de 30 kilómetros por hora en zonas cercanas a escuelas. Ambos especialistas participaron en el almuerzo semanal del Grupo Corripio junto a autoridades del INTRANT y la OPS.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/siniestralidad-vial-es-la-principal-causa-de-muerte-entre-ninos-de-5-a-19-anos-segun-unicef/</link>
-      <guid isPermaLink="true">https://eldia.com.do/siniestralidad-vial-es-la-principal-causa-de-muerte-entre-ninos-de-5-a-19-anos-segun-unicef/</guid>
-      <source url="https://eldia.com.do/siniestralidad-vial-es-la-principal-causa-de-muerte-entre-ninos-de-5-a-19-anos-segun-unicef/">El Día</source>
-      <comments>El Día: https://eldia.com.do/enviado-especial-de-la-onu-afirma-que-el-transito-en-rd-es-un-desastre/</comments>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/Transito-Eviado-de-la-ONU-150x150.jpg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 18:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ministerio Público mantiene orden de captura contra Adela Mota seis meses después</title>
-      <description>Adela Mota Matos continúa prófuga de la justicia casi seis meses después de que se emitiera una orden de arresto por su presunta vinculación al caso Grupo Paceo, relacionado con una supuesta estafa inmobiliaria en el proyecto West Side Residences Punta Cana. El Ministerio Público mantiene activa su búsqueda, mientras los abogados de las víctimas reclaman que se intensifiquen las diligencias para ejecutar la orden pendiente. Su coimputado Joan Fernando González Contreras ya fue apresado y retenido por existir trece nuevas querellas en su contra.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/mp-mantiene-busqueda-de-adela-mota-que-sigue-profuga/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/mp-mantiene-busqueda-de-adela-mota-que-sigue-profuga/</guid>
-      <source url="https://n.com.do/2026/07/22/mp-mantiene-busqueda-de-adela-mota-que-sigue-profuga/">n.com.do</source>
-      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-1.41.23-PM-195x300.jpeg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 17:54:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Analítica de Grandes Ligas coloca a Juan Soto como líder ofensivo entre dominicanos</title>
-      <description>Un análisis basado en métricas avanzadas de Baseball Savant posiciona a Juan Soto como el referente ofensivo de los peloteros dominicanos en las Grandes Ligas, mientras Oneil Cruz encabeza la velocidad y Geraldo Perdomo lidera la defensa. El estudio evalúa variables como el promedio esperado de bateo, la velocidad de salida y la fuerza del brazo para perfilar a 27 jugadores del país. Junior Caminero, Fernando Tatis Jr. y Elly De La Cruz también aparecen como protagonistas en distintas áreas del juego.</description>
+      <title>La MLS investiga al Inter Miami por presuntos contactos irregulares en el fichaje de Casemiro</title>
+      <description>La Major League Soccer abrió una investigación contra el Inter Miami por posibles contactos no autorizados con el mediocampista brasileño Casemiro, cuyos derechos en la liga pertenecían a Los Angeles Galaxy. El equipo angelino habría denunciado que el club florideño negoció con el jugador sin adquirir previamente los derechos de descubrimiento. El fichaje se anunciaba mientras la liga recopilaba información sobre la presunta manipulación.</description>
       <category>Deportes</category>
-      <link>https://n.com.do/2026/07/22/dominicanos-mejores-metricas-mlb-juan-soto-oneil-cruz-perdomo/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/dominicanos-mejores-metricas-mlb-juan-soto-oneil-cruz-perdomo/</guid>
-      <source url="https://n.com.do/2026/07/22/dominicanos-mejores-metricas-mlb-juan-soto-oneil-cruz-perdomo/">n.com.do</source>
-      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/Comparacion-1.jpg" type="image/jpeg" />
-      <pubDate>Wed, 22 Jul 2026 17:47:37 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/la-mls-investiga-posible-negociacion-ilegal-en-fichaje-de-casemiro-por-el-inter-miami/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/la-mls-investiga-posible-negociacion-ilegal-en-fichaje-de-casemiro-por-el-inter-miami/</guid>
+      <source url="https://elnuevodiario.com.do/la-mls-investiga-posible-negociacion-ilegal-en-fichaje-de-casemiro-por-el-inter-miami/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/VQRU7ATUFVH3PPU6OIBMVUCJCQ-355x200.avif" type="image/avif" />
+      <pubDate>Wed, 22 Jul 2026 23:45:52 +0000</pubDate>
     </item>
     <item>
-      <title>El presidente recorre el Parque del Este y afirma que el país está listo para los Juegos Centroamericanos</title>
-      <description>Luis Abinader inspeccionó las instalaciones del Parque del Este y otras sedes deportivas, asegurando que las obras están concluidas para los XXV Juegos Centroamericanos y del Caribe que se celebrarán del 24 de julio al 8 de agosto. El Gobierno destinó aproximadamente nueve mil millones de pesos a la construcción y remodelación de la infraestructura, de los cuales dos mil millones corresponden al Parque del Este. El mandatario anunció un sistema de voluntariado para preservar los complejos una vez finalice el certamen regional.</description>
+      <title>Comunicadora Ivana Gavrilovic anuncia su compromiso matrimonial</title>
+      <description>La presentadora de radio y televisión Ivana Gavrilovic compartió en sus redes sociales el momento de su compromiso matrimonial, acompañado de imágenes del anillo y una velada romántica con violinista incluido. La conductora, de origen serbio y radicada en República Dominicana desde la adolescencia, conduce actualmente el programa Protagonistas con Ivana Gavrilovic. La publicación recibió numerosas felicitaciones de colegas y seguidores.</description>
+      <category>Noticias</category>
+      <link>https://elnuevodiario.com.do/presentadora-de-tv-ivana-gavrilovic-anuncia-su-compromiso-matrimonial-con-emotiva-publicacion/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/presentadora-de-tv-ivana-gavrilovic-anuncia-su-compromiso-matrimonial-con-emotiva-publicacion/</guid>
+      <source url="https://elnuevodiario.com.do/presentadora-de-tv-ivana-gavrilovic-anuncia-su-compromiso-matrimonial-con-emotiva-publicacion/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Ivana-Gavrilovic-anuncia-su-compromiso-matrimonial-355x200.webp" type="image/webp" />
+      <pubDate>Wed, 22 Jul 2026 23:45:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autoridades inauguran nuevo destacamento de seguridad portuaria en San Pedro de Macorís</title>
+      <description>El ministro de Defensa encabezó la inauguración de un destacamento del Cuerpo Especializado de Seguridad Portuaria en el puerto Gregorio Urbano Gilbert de San Pedro de Macorís. La nueva instalación busca ampliar las labores de vigilancia y protección en la terminal marítima. El acto contó con la presencia de autoridades civiles y militares de la provincia.</description>
+      <category>Noticias</category>
+      <link>https://elnuevodiario.com.do/video-ministro-de-defensa-inaugura-destacamento-del-cesep-para-reforzar-seguridad-en-puerto-de-spm/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/video-ministro-de-defensa-inaugura-destacamento-del-cesep-para-reforzar-seguridad-en-puerto-de-spm/</guid>
+      <source url="https://elnuevodiario.com.do/video-ministro-de-defensa-inaugura-destacamento-del-cesep-para-reforzar-seguridad-en-puerto-de-spm/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Ministro-de-Defensa-inaugura-destacamento-del-CESEP-para-reforzar-seguridad-en-puerto-de-SPM-6-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 23:44:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Senado aprueba modificaciones al Código Penal y rechaza propuestas sobre difamación y libertad de expresión</title>
+      <description>El Senado de la República declaró de urgencia y aprobó en dos lecturas consecutivas las modificaciones al nuevo Código Penal, con 25 votos a favor y tres en contra, remitiendo la pieza al Poder Ejecutivo. Durante la sesión fueron rechazadas múltiples propuestas, incluyendo la eliminación de la pena de prisión por difamación simple, tres iniciativas sobre libertad de expresión del senador Omar Fernández y una moción del senador Félix Bautista para aplazar 84 artículos hasta que el Tribunal Constitucional resuelva las acciones de inconstitucionalidad pendientes. La entrada en vigencia del nuevo marco legal está prevista para el 3 de agosto.</description>
+      <category>Noticias</category>
+      <link>https://elnuevodiario.com.do/senadores-declaran-de-urgencia-y-aprueban-en-dos-lecturas-consecutivas-modificaciones-al-nuevo-codigo-penal/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/senadores-declaran-de-urgencia-y-aprueban-en-dos-lecturas-consecutivas-modificaciones-al-nuevo-codigo-penal/</guid>
+      <source url="https://elnuevodiario.com.do/senadores-declaran-de-urgencia-y-aprueban-en-dos-lecturas-consecutivas-modificaciones-al-nuevo-codigo-penal/">El Nuevo Diario</source>
+      <comments>El Día: https://eldia.com.do/por-que-el-senado-rechazo-eliminar-la-carcel-por-difamacion-y-aprobar-las-tres-causales/</comments>
+      <comments>El Día: https://eldia.com.do/felix-bautista-pide-aplazar-84-articulos-del-codigo-penal-y-el-senado-rechaza-la-mocion/</comments>
+      <comments>El Día: https://eldia.com.do/senado-rechaza-propuestas-de-omar-fernandez-sobre-libertad-de-expresion/</comments>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Senadores-declaran-de-urgencia-y-aprueban-en-dos-lecturas-consecutivas-modificaciones-al-nuevo-Codigo-Penal-355x200.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 23:43:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gobierno crea comisión ciudadana para vigilar gestión de residuos sólidos</title>
+      <description>El presidente Luis Abinader emitió el decreto 498-26 que crea la Comisión de Veeduría Ciudadana del Fideicomiso para la Gestión Integral de Residuos Sólidos, conocida como DO Sostenible. El órgano consultivo tendrá como función dar seguimiento a la ejecución financiera y verificar que los recursos se destinen a los fines establecidos por la Ley 225-20. La comisión estará coordinada por Alliet Ortega e integrada por expertos seleccionados bajo criterios de independencia y solvencia moral.</description>
+      <category>Noticias</category>
+      <link>https://eldia.com.do/presidente-abinader-crea-comision-de-veeduria-para-fortalecer-manejo-de-residuos-solidos/</link>
+      <guid isPermaLink="true">https://eldia.com.do/presidente-abinader-crea-comision-de-veeduria-para-fortalecer-manejo-de-residuos-solidos/</guid>
+      <source url="https://eldia.com.do/presidente-abinader-crea-comision-de-veeduria-para-fortalecer-manejo-de-residuos-solidos/">El Día</source>
+      <pubDate>Wed, 22 Jul 2026 22:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump evalúa una acción militar contra grupos yihadistas en Mali</title>
+      <description>El presidente estadounidense Donald Trump consideró la posibilidad de ordenar un ataque contra un grupo yihadista afiliado a Al Qaeda en Mali, según informó el diario The Washington Post. La propuesta ha generado divisiones dentro del Gobierno y conlleva el riesgo de incidentes con las fuerzas rusas desplegadas en el país africano. De concretarse, sería el octavo país donde Trump ordena operaciones militares desde el inicio de su segundo mandato.</description>
+      <category>Mundo</category>
+      <link>https://n.com.do/2026/07/22/trump-considera-la-posibilidad-de-atacar-a-yihadistas-en-mali-segun-el-washington-post/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/trump-considera-la-posibilidad-de-atacar-a-yihadistas-en-mali-segun-el-washington-post/</guid>
+      <source url="https://n.com.do/2026/07/22/trump-considera-la-posibilidad-de-atacar-a-yihadistas-en-mali-segun-el-washington-post/">n.com.do</source>
+      <pubDate>Wed, 22 Jul 2026 22:29:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transporte público ofrecerá gratuidad a atletas durante Juegos Centroamericanos</title>
+      <description>La Empresa Metropolitana de Transporte presentó una tarjeta conmemorativa para los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026 que permitirá a atletas, voluntarios y colaboradores acreditados viajar gratuitamente en el Metro y el Teleférico del 24 de julio al 8 de agosto. También se lanzó una edición especial con catorce viajes por cien pesos y se habilitó el acceso gratuito en estaciones cercanas a las sedes deportivas. Las medidas buscan facilitar la movilidad durante el mayor evento deportivo de la región.</description>
       <category>Deportes</category>
-      <link>https://n.com.do/2026/07/22/abinader-supervisa-obras-deportivas-y-asegura-que-el-pais-esta-listo-para-los-centroamericanos/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/abinader-supervisa-obras-deportivas-y-asegura-que-el-pais-esta-listo-para-los-centroamericanos/</guid>
-      <source url="https://n.com.do/2026/07/22/abinader-supervisa-obras-deportivas-y-asegura-que-el-pais-esta-listo-para-los-centroamericanos/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 17:35:30 +0000</pubDate>
+      <link>https://eldia.com.do/metro-y-teleferico-de-santo-domingo-ofreceran-acceso-gratuito-a-atletas/</link>
+      <guid isPermaLink="true">https://eldia.com.do/metro-y-teleferico-de-santo-domingo-ofreceran-acceso-gratuito-a-atletas/</guid>
+      <source url="https://eldia.com.do/metro-y-teleferico-de-santo-domingo-ofreceran-acceso-gratuito-a-atletas/">El Día</source>
+      <enclosure url="https://robertocavada.com/wp-content/uploads/2026/07/Metro-y-Teleferico-de-Santo-Domingo-1-683x1024.webp" type="image/webp" />
+      <pubDate>Wed, 22 Jul 2026 22:23:18 +0000</pubDate>
     </item>
     <item>
-      <title>Las llamas consumen parte del campamento de Comatillo en Bayaguana sin dejar víctimas</title>
-      <description>Un incendio afectó las instalaciones del campamento Comatillo, en el municipio de Bayaguana, provincia Monte Plata, provocando pérdidas materiales durante una temporada de verano con cientos de vacacionistas. Todos los ocupantes fueron evacuados de manera preventiva y no se reportaron personas heridas ni fallecidas. Las autoridades aún no han determinado el origen del siniestro y continúan evaluando los daños ocasionados por las llamas.</description>
+      <title>Senador celebra la salida de República Dominicana del mapa del hambre según la FAO</title>
+      <description>El senador Daniel Rivera atribuyó el reconocimiento de la FAO que coloca a República Dominicana fuera del mapa del hambre a las políticas sociales y los programas de asistencia alimentaria del Gobierno. El legislador destacó que la prevalencia de subalimentación descendió por debajo del 2,5 por ciento, umbral internacional para superar esa condición. A su juicio, el logro refleja la articulación entre inversión social, apoyo agropecuario y ampliación de programas de asistencia.</description>
       <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/incendio-campamento-comatillo-bayaguana/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/incendio-campamento-comatillo-bayaguana/</guid>
-      <source url="https://n.com.do/2026/07/22/incendio-campamento-comatillo-bayaguana/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 17:33:45 +0000</pubDate>
+      <link>https://n.com.do/2026/07/22/daniel-rivera-atribuye-salida-rd-del-mapa-del-hambre-a-politicas-sociales-del-gobierno/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/daniel-rivera-atribuye-salida-rd-del-mapa-del-hambre-a-politicas-sociales-del-gobierno/</guid>
+      <source url="https://n.com.do/2026/07/22/daniel-rivera-atribuye-salida-rd-del-mapa-del-hambre-a-politicas-sociales-del-gobierno/">n.com.do</source>
+      <pubDate>Wed, 22 Jul 2026 21:49:04 +0000</pubDate>
     </item>
     <item>
-      <title>Legisladora logra modificar el Código Penal para proteger el ejercicio de médicos y odontólogos</title>
-      <description>La diputada Tayluma Calderón anunció que obtuvo el consenso para reformar el artículo 104 del nuevo Código Penal, a fin de evitar que su redación penalizara el uso legítimo de sustancias químicas en procedimientos médicos y terapéuticos. La modificación surgió tras la preocupación del Colegio Médico Dominicano y el Colegio Dominicano de Odontólogos sobre posibles interpretaciones perjudiciales para el ejercicio profesional. Aunque la bancada de Fuerza del Pueblo votó en contra de la pieza por falta de tiempo para consensuarla, logró introducir esta corrección solicitada por los gremios de salud.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/diputada-logra-consenso-para-modificar-articulo-del-codigo-penal-en-favor-del-personal-de-salud/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/diputada-logra-consenso-para-modificar-articulo-del-codigo-penal-en-favor-del-personal-de-salud/</guid>
-      <source url="https://n.com.do/2026/07/22/diputada-logra-consenso-para-modificar-articulo-del-codigo-penal-en-favor-del-personal-de-salud/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 17:33:14 +0000</pubDate>
+      <title>José Ramírez vuelve a la alineación de los Guardianes tras cinco semanas de ausencia</title>
+      <description>El jugador dominicano José Ramírez fue activado de la lista de lesionados y regresó a la alineación de los Guardianes de Cleveland tras perderse treinta partidos por una fractura en la mano. El antesalista se sometió a una cirugía el 14 de junio y volvió sin pasar por un periodo de rehabilitación en ligas menores. El equipo registró un récord de quince victorias y quince derrotas durante su ausencia y se mantiene empatado en el liderato de la División Central.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/jose-ramirez-regresa-a-los-guardianes-tras-perderse-30-partidos-y-cinco-semanas/</link>
+      <guid isPermaLink="true">https://eldia.com.do/jose-ramirez-regresa-a-los-guardianes-tras-perderse-30-partidos-y-cinco-semanas/</guid>
+      <source url="https://eldia.com.do/jose-ramirez-regresa-a-los-guardianes-tras-perderse-30-partidos-y-cinco-semanas/">El Día</source>
+      <pubDate>Wed, 22 Jul 2026 21:48:50 +0000</pubDate>
     </item>
     <item>
-      <title>El bloque peledeísta en la Cámara Baja elige a Idelia Doñé como su vocera</title>
-      <description>Los diputados del Partido de la Liberación Dominicana designaron a Idelia Doñé como nueva vocera y a Saulo Vega como vicevocero mediante una plancha única para el próximo período legislativo. Doñé destacó el significado de que una mujer asuma la dirección de la bancada y aseguró que ejercerá una oposición firme desde la Cámara Baja. La legisladora manifestó su propósito de contribuir al fortalecimiento del partido de cara a las elecciones de 2028.</description>
+      <title>Policía detiene en Bonao a sospechoso de múltiples robos y convoca a víctimas</title>
+      <description>Agentes de la Dirección Regional Cibao Sur arrestaron a un hombre de 44 años residente en el sector Ciudad de Dios de Bonao, señalado por la comunidad como presunto responsable de múltiples robos. Las autoridades llamaron a las personas afectadas a presentar denuncias formales en la Fiscalía de Monseñor Nouel para fortalecer el proceso judicial. La Policía reiteró su compromiso con la seguridad ciudadana en la zona.</description>
       <category>Noticias</category>
-      <link>https://n.com.do/2026/07/22/bloque-de-diputados-del-pld-elige-a-idelia-done-como-su-nueva-vocera/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/22/bloque-de-diputados-del-pld-elige-a-idelia-done-como-su-nueva-vocera/</guid>
-      <source url="https://n.com.do/2026/07/22/bloque-de-diputados-del-pld-elige-a-idelia-done-como-su-nueva-vocera/">n.com.do</source>
-      <pubDate>Wed, 22 Jul 2026 17:32:30 +0000</pubDate>
+      <link>https://n.com.do/2026/07/22/policia-nacional-arresta-en-bonao-a-presunto-autor-de-robos-exhortan-a-victimas-a-realizar-sus-denuncias/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/policia-nacional-arresta-en-bonao-a-presunto-autor-de-robos-exhortan-a-victimas-a-realizar-sus-denuncias/</guid>
+      <source url="https://n.com.do/2026/07/22/policia-nacional-arresta-en-bonao-a-presunto-autor-de-robos-exhortan-a-victimas-a-realizar-sus-denuncias/">n.com.do</source>
+      <pubDate>Wed, 22 Jul 2026 21:48:37 +0000</pubDate>
     </item>
     <item>
-      <title>Juez fija para septiembre la audiencia preliminar del caso Lobo por presunta estafa de cien millones al Estado</title>
-      <description>El Séptimo Juzgado de la Instrucción del Distrito Nacional programó para el 7 de septiembre el inicio de la audiencia preliminar contra la presunta red de corrupción conocida como caso Lobo, integrada por altos oficiales militares, un empresario y civiles. El Ministerio Público acusa a los implicados de manipular licitaciones de servicios de seguridad en instituciones como Inaipi, Senasa y las distribuidoras de electricidad para defraudar al Estado con más de cien millones de pesos. La acusación solicita el envío a juicio de todos los involucrados.</description>
+      <title>Alcalde mexicano de Temoac es asesinado a tiros en su oficina</title>
+      <description>El presidente municipal de Temoac, Valentín Lavín Romero, falleció tras ser atacado por sujetos armados en el interior de las instalaciones de la alcaldía en el estado de Morelos. La Fiscalía General del Estado inició las investigaciones y desplegó un operativo de seguridad en municipios aledaños para localizar a los responsables. Versiones de prensa local señalan que los atacantes irrumpieron en el recinto y abrieron fuego mientras el funcionario trabajaba.</description>
+      <category>Mundo</category>
+      <link>https://n.com.do/2026/07/22/asesinan-en-un-ataque-armado-al-alcalde-del-municipio-mexicano-de-temoac/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/asesinan-en-un-ataque-armado-al-alcalde-del-municipio-mexicano-de-temoac/</guid>
+      <source url="https://n.com.do/2026/07/22/asesinan-en-un-ataque-armado-al-alcalde-del-municipio-mexicano-de-temoac/">n.com.do</source>
+      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/ChatGPT-Image-22-jul-2026-17_21_17-1-229x300.png" type="image/png" />
+      <pubDate>Wed, 22 Jul 2026 21:30:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ministerio de Deportes fija en US$120,000 el alquiler diario del Estadio Olímpico</title>
+      <description>El Ministerio de Deportes anunció un nuevo esquema de administración para el Estadio Olímpico Félix Sánchez que contempla un alquiler de 120 mil dólares diarios para eventos masivos, con el objetivo de generar cerca de un millón de dólares anuales para su mantenimiento. El ministro Kelvin Cruz justificó la medida señalando que muchas instalaciones deportivas se deterioran por falta de recursos para su conservación. El recinto forma parte de una inversión de nueve mil millones de pesos para los Juegos Centroamericanos y del Caribe.</description>
+      <category>Negocios</category>
+      <link>https://n.com.do/2026/07/22/us120000-sera-el-alquiler-diario-del-estadio-olimpico-para-eventos-masivos-segun-deportes/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/us120000-sera-el-alquiler-diario-del-estadio-olimpico-para-eventos-masivos-segun-deportes/</guid>
+      <source url="https://n.com.do/2026/07/22/us120000-sera-el-alquiler-diario-del-estadio-olimpico-para-eventos-masivos-segun-deportes/">n.com.do</source>
+      <enclosure url="https://m.n.com.do/wp-content/uploads/2026/07/WhatsApp-Image-2025-09-12-at-10-300x169.jpg" type="image/jpeg" />
+      <pubDate>Wed, 22 Jul 2026 21:29:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Corte de Apelación resolverá este jueves sobre el caso de Jean Andrés Pumarol</title>
+      <description>La Segunda Sala Penal de la Corte de Apelación del Distrito Nacional anunciará su fallo sobre si revoca o mantiene el auto de No Ha Lugar dictado a favor de Jean Andrés Pumarol Fernández, acusado de causar la muerte de una mujer y herir a varias personas durante un ataque en el sector Naco. El Ministerio Público busca que el imputado sea enviado a juicio de fondo. Un informe del INACIF estableció que Pumarol padecía un brote psicótico de esquizofrenia paranoide al momento de los hechos.</description>
       <category>Noticias</category>
-      <link>https://eldia.com.do/caso-lobo-fijan-para-septiembre-audiencia-contra-red-militar-y-civil-acusada-de-defraudar-rd100-millones-al-estado/</link>
-      <guid isPermaLink="true">https://eldia.com.do/caso-lobo-fijan-para-septiembre-audiencia-contra-red-militar-y-civil-acusada-de-defraudar-rd100-millones-al-estado/</guid>
-      <source url="https://eldia.com.do/caso-lobo-fijan-para-septiembre-audiencia-contra-red-militar-y-civil-acusada-de-defraudar-rd100-millones-al-estado/">El Día</source>
-      <pubDate>Wed, 22 Jul 2026 17:32:28 +0000</pubDate>
+      <link>https://eldia.com.do/jueces-decidiran-este-jueves-si-revocan-no-ha-lugar-a-favor-de-jean-andres-pumarol/</link>
+      <guid isPermaLink="true">https://eldia.com.do/jueces-decidiran-este-jueves-si-revocan-no-ha-lugar-a-favor-de-jean-andres-pumarol/</guid>
+      <source url="https://eldia.com.do/jueces-decidiran-este-jueves-si-revocan-no-ha-lugar-a-favor-de-jean-andres-pumarol/">El Día</source>
+      <pubDate>Wed, 22 Jul 2026 21:25:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>República Dominicana repudia el anuncio de Ortega de suprimir elecciones en Nicaragua</title>
+      <description>El Ministerio de Relaciones Exteriores condenó enérgicamente la declaración del presidente nicaragüense de que no se realizarán más elecciones en su país y la calificó como un desconocimiento abierto de los principios de la democracia representativa. El Gobierno dominicano instó a las autoridades de Nicaragua a rectificar y garantizar los derechos políticos del pueblo. República Dominicana reafirmó su compromiso con la defensa de la democracia, los derechos humanos y el Estado de derecho.</description>
+      <category>Mundo</category>
+      <link>https://n.com.do/2026/07/22/rd-condena-anuncio-de-daniel-ortega-de-eliminar-elecciones-en-nicaragua/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/22/rd-condena-anuncio-de-daniel-ortega-de-eliminar-elecciones-en-nicaragua/</guid>
+      <source url="https://n.com.do/2026/07/22/rd-condena-anuncio-de-daniel-ortega-de-eliminar-elecciones-en-nicaragua/">n.com.do</source>
+      <pubDate>Wed, 22 Jul 2026 21:20:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
