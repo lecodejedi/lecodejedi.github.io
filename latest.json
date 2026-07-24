@@ -1,275 +1,255 @@
 {
   "newsArticles": [
     {
-      "title": "Baloncesto dominicano presenta sus selecciones para los Juegos Centroamericanos 2026",
-      "summary": "La Federación Dominicana de Baloncesto dio a conocer los planteles masculino y femenino que representarán al país en los XXV Juegos Centroamericanos y del Caribe, cuyo inicio está pautado para este viernes en Santo Domingo. El equipo masculino estará dirigido por el veterano José Maíta Mercedes, mientras que las mujeres debutarán el sábado ante Trinidad y Tobago. Un total de 6,200 atletas participarán en 40 deportes durante el evento que se extenderá hasta el 8 de agosto.",
-      "category": "Deportes",
-      "pubDate": "2026-07-23T23:45:27+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/El-Inmortal-del-Deporte-Jose-Maita-Mercedes-es-el-dirigente-del-equipo-masculino-355x200.jpg",
-        "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Integrantes-del-plantel-femenino-que-jugara-en-el-baloncesto-de-los-JCC-Santo-Domingo-2026-400x267.jpg?resize=400%2C267&quality=100&ssl=1"
-      ],
-      "referenceLinks": [
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/fedombal-define-planteles-para-competir-en-juegos-centroamericanos-y-del-caribe-2026/"},
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/sd-abrira-juegos-centroamericanos-con-gran-despliegue-artistico-y-tecnologico/"},
-        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/fedombal-define-planteles-para-competir-en-los-juegos-centroamericanos/"}
-      ]
-    },
-    {
-      "title": "Trump da marcha atrás y retira citaciones contra periodistas del New York Times",
-      "summary": "El Departamento de Justicia estadounidense informó a un tribunal federal que retirará las citaciones que había emitido contra reporteros del New York Times para obligarlos a entregar sus registros telefónicos y testificar ante un gran jurado. La reversión ocurrió tras una audiencia en la que el juez cuestionó durante más de una hora los errores involuntarios en la solicitud de las citaciones. Los periodistas habían sido citados por revelar supuestas fallas de seguridad en el nuevo avión presidencial entregado por Catar.",
-      "category": "Mundo",
-      "pubDate": "2026-07-23T23:57:48+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/05dc-trump-gaza1-phfl-articleLarge-3-355x200.webp"
-      ],
-      "referenceLinks": [
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/gobierno-de-trump-retira-citaciones-judiciales-a-periodistas-del-new-york-times/"}
-      ]
-    },
-    {
-      "title": "Tribunal multa a la Procuraduría con más de 7.5 millones de pesos por caso Intrant",
-      "summary": "Un juez del Distrito Nacional condenó a la Procuraduría General de la República al pago de más de 7.5 millones de pesos por no acatar una orden que disponía devolver bienes incautados a uno de los acusados en el caso de presunta estafa al Intrant. La magistrada determinó que el Ministerio Público no justificó debidamente el retraso en la entrega de un teléfono celular que permanecía en el Inacif. Los bienes restantes, incluyendo vehículos y dispositivos, ya habían sido devueltos al imputado.",
+      "title": "Autobús de Caribe Tours se incendia en Jarabacoa y deja nueve heridos",
+      "summary": "Un vehículo de la empresa Caribe Tours quedó completamente destruido por las llamas mientras transitaba por la carretera Jarabacoa-La Vega. Nueve ocupantes presentaron contusiones y laceraciones leves que fueron atendidas por el sistema de emergencia 9-1-1 y bomberos de Buena Vista. El siniestro reaviva el reclamo de residentes para que se construya una subestación de bomberos en el corredor de El Puerto, donde son frecuentes los accidentes.",
       "category": "Noticias",
-      "pubDate": "2026-07-23T23:55:23+00:00",
+      "pubDate": "2026-07-24T03:09:02+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/IMG_1712-355x200.jpeg"
+        "https://resources.diariolibre.com/images/2026/07/24/fuegoautobus-f6b9cdf3-focus-min0.05-0.37-400-300.jpg",
+        "https://resources.diariolibre.com/images/2025/11/18/autobus-de-la-omsa-se-incendia-mientras-daba-servicio-a-pasajeros-5be582bd-focus-min0.18-min0.21-149-99.jpg"
       ],
       "referenceLinks": [
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/condenan-a-la-procuraduria-a-pagar-mas-de-rd7-5-millones-por-incumplir-orden-judicial-en-caso-intrant/"}
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/nueve-personas-resultan-heridas-tras-incendiarse-autobus-de-caribe-tours-en-jarabacoa/" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/actualidad/nacional/2026/07/23/se-incendia-autobus-de-caribe-tours-en-jarabacoa-hay-nueve-heridos/3608773" }
       ]
     },
     {
-      "title": "Grúa se desploma desde piso 42 sobre academia de baile en Paraguay sin dejar víctimas",
-      "summary": "Una parte de una grúa cayó desde el piso 42 de un edificio en construcción en Asunción y impactó directamente sobre una academia de baile, causando considerables daños materiales. El propietario del negocio aseguró que la tragedia no cobró vidas gracias a una coincidencia: había salido momentos antes a buscar un documento olvidado. Todos los empleados resultaron ilesos pese a la devastación de las instalaciones.",
-      "category": "Mundo",
-      "pubDate": "2026-07-23T23:49:49+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/La-grua-que-cayo-del-piso-42-355x200.png"
-      ],
-      "referenceLinks": [
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/la-caida-de-una-grua-de-un-piso-42-a-un-inmueble-causa-graves-danos-materiales-en-paraguay/"}
-      ]
-    },
-    {
-      "title": "Shane Bieber brilla y los Azulejos cortan racha perdedora ante los Rays",
-      "summary": "El lanzador Shane Bieber completó su mejor apertura de la temporada al cubrir siete entradas de una sola carrera y llevar a Toronto a una victoria 3-1 sobre Tampa Bay, frenando una racha de cuatro derrotas. El derecho necesitó apenas 86 pitcheos para silenciar a los líderes de la Liga Americana, permitiendo tres imparables y ponchando a tres rivales. Bieber encadena ahora tres salidas positivas de forma consecutiva tras un inicio irregular tras su regreso de la lista de lesionados.",
+      "title": "Santo Domingo inaugura los Juegos Centroamericanos y del Caribe 2026",
+      "summary": "La capital dominicana arranca este viernes la vigésimo quinta edición de los Juegos Centroamericanos y del Caribe con una ceremonia en el estadio Félix Sánchez a partir de las ocho de la noche. Más de seis mil atletas de 37 naciones competirán durante 16 días en 40 disciplinas, y la delegación quisqueyana de 710 deportistas buscará superar las 11 medallas obtenidas en la edición anterior. Las autoridades recomiendan usar el Metro de Santo Domingo y llegar a pie al Centro Olímpico Juan Pablo Duarte, que funcionará como zona exclusivamente peatonal durante el evento.",
       "category": "Deportes",
-      "pubDate": "2026-07-23T23:41:49+00:00",
+      "pubDate": "2026-07-24T04:20:00+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/umijozmynt9y9amzf29ed-355x200.jpg"
+        "https://resources.diariolibre.com/images/2026/07/24/juegos-centroamericanos-y-del-caribe-en-santo-domingo-2da2ae88-focus-0-0-400-300.jpg",
+        "https://resources.diariolibre.com/images/2024/10/24/remodelacion-del-centro-olimpico-sera-diferente-en-su-area-perimetral_1-focus-0-0-400-300.jpg",
+        "https://resources.diariolibre.com/images/2026/07/23/artistas-en-la-ceremonia-de-los-juegos-centroamericanos-d298f838-focus-0-0-149-99.jpg",
+        "https://resources.diariolibre.com/images/2026/07/23/mapa-jcc2026-6d7b6821.png"
       ],
       "referenceLinks": [
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/shane-bieber-muestra-su-nivel-estelar-y-azulejos-someten-a-rays/"}
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/republica-dominicana-abre-hoy-las-puertas-centroamericanos-2026/" },
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/logistica-para-ingresar-a-inauguracion-juegos-centroamericanos/" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/deportes/olimpismo/2026/07/24/juegos-centroamericanos-y-del-caribe-en-republica-dominicana/3608760" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/deportes/olimpismo/2026/07/23/juegos-centroamericanos-y-del-caribe-en-santo-domingo/3608774" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/actualidad/nacional/2026/07/23/cambios-en-el-transito-por-inauguracion-de-los-juegos-centroamericanos/3608706" }
       ]
     },
     {
-      "title": "Jurado declara culpable a mujer por homicidio de adolescente en Puerto Rico",
-      "summary": "Un tribunal de Aibonito encontró culpable a Elvia Cabrera Rivera por su participación en el asesinato de la joven Gabriela Nicole Pratts, de 16 años, ocurrido durante una fiesta en agosto de 2025. El jurado determinó que la acusada entregó a su hija el arma con la que se infirieron las once heridas mortales a la víctima. La lectura de la sentencia está prevista para el 10 de septiembre, mientras que el juicio de su coacusada se realizará posteriormente.",
-      "category": "Mundo",
-      "pubDate": "2026-07-23T23:36:28+00:00",
+      "title": "Diputados avalan endeudamiento por 465 millones de dólares pese a rechazo opositor",
+      "summary": "La Cámara de Diputados aprobó en única lectura dos empréstitos que suman más de 465 millones de dólares, destinados a programas de seguridad vial y gestión de la cuenca del río Yuna. La Fuerza del Pueblo y el diputado Ramón Raposo se opusieron a la medida, argumentando que el país necesita eficiencia y resultados comprobables antes de contraer nuevas obligaciones. Los contratos pasan ahora al Senado, que debe resolverlos antes de que concluya la legislatura el 26 de julio.",
+      "category": "Negocios",
+      "pubDate": "2026-07-24T11:47:48+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Elvia-Cabrera-Rivera-de-40-anos-355x200.jpeg"
+        "https://resources.diariolibre.com/images/2026/05/06/aprobacion-de-memorias-del-poder-ejecutivo-en-camara-de-diputados-326b202c-focus-0-0-149-99.jpg",
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/07/Ramon-Raposo-Foto-Prensa-Ramon-Raposo-3-355x200.jpeg"
       ],
       "referenceLinks": [
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/declaran-culpable-a-mujer-por-asesinato-de-adolescente-que-conmociono-a-puerto-rico/"}
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/los-diputados-aprueban-prestamos-por-465-millones-de-dolares/" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/politica/congreso-nacional/2026/07/23/diputados-aprueban-prestamo-por-us4655-millones-para-seguridad-vial/3608754" },
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/diputado-raposo-cuestiona-nuevos-prestamos-no-se-puede-endeudar-mas-al-pais-sin-resultados/" }
       ]
     },
     {
-      "title": "Puerto Rico avanza a semifinales de polo acuático tras aplastar a Cuba",
-      "summary": "La selección femenina de Puerto Rico selló su pase a las semifinales del torneo de polo acuático al superar a Cuba con un marcador de 15 a 5 en el Centro Acuático Juan Pablo Duarte. Las boricuas dominaron los tres últimos cuartos del encuentro y completaron su tercer triunfo en cuatro presentaciones. Milena Guzmán y Gabriella Montalvo lideraron la ofensiva con tres goles cada una.",
-      "category": "Deportes",
-      "pubDate": "2026-07-23T23:36:13+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/pr-cuba-355x200.jpg"
-      ],
-      "referenceLinks": [
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/puerto-rico-supera-a-cuba-y-avanza-a-semifinales-en-polo-acuatico/"}
-      ]
-    },
-    {
-      "title": "Los Clippers entran en la puja por Jonathan Kuminga",
-      "summary": "El alero Jonathan Kuminga continúa sin definir su futuro en la NBA y ha sumado a Los Angeles Clippers a la lista de equipos interesados en sus servicios, junto a Lakers, Cavaliers y Bucks. El jugador de 23 años aspira a un contrato de unos 20 millones de dólares anuales, cifra que hasta ahora ninguna franquicia ha estado dispuesta a ofrecer. Su fichaje requeriría un acuerdo de intercambio con los Atlanta Hawks, equipo que posee sus derechos.",
-      "category": "Deportes",
-      "pubDate": "2026-07-23T23:33:14+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/images-50D-355x200.jpg"
-      ],
-      "referenceLinks": [
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/los-clippers-se-suman-a-la-carrera-por-kuminga/"}
-      ]
-    },
-    {
-      "title": "República Dominicana retira a su embajadora en Nicaragua por orden de Abinader",
-      "summary": "El presidente Luis Abinader ordenó llamar a consultas a la embajadora dominicana en Nicaragua en respuesta a las declaraciones de Daniel Ortega, quien afirmó que en su país no volverán a haber elecciones. La Cancillería condenó las palabras del mandatario nicaragüense por constituir un desconocimiento de los principios democráticos y de la Carta Democrática Interamericana. El gobierno dominicano exigió a las autoridades nicaragüenses rectificar y garantizar los derechos políticos de su pueblo.",
+      "title": "República Dominicana retira a su embajadora en Nicaragua por declaraciones de Ortega",
+      "summary": "El gobierno dominicano llamó a consultas a su representante diplomática en Managua tras las afirmaciones del mandatario nicaragüense de que no habrá más elecciones en su país. La Cancillería calificó el anuncio como un desconocimiento frontal de la democracia representativa y del derecho del pueblo nicaragüense a elegir libremente a sus gobernantes. Santo Domingo exigió a las autoridades de Nicaragua rectificar su postura y garantizar las libertades políticas fundamentales.",
       "category": "Mundo",
       "pubDate": "2026-07-23T23:24:40+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/rd-llama-a-consultas-a-su-embajadora-en-nicaragua-tras-tensiones-entre-los-dos-paises-por-declaraciones-de-ortega/"}
-      ]
-    },
-    {
-      "title": "Ketel Marte sale de la alineación de los Diamondbacks por molestias en la espalda",
-      "summary": "El segunda base dominicano Ketel Marte fue retirado de la alineación de Arizona justo antes del inicio del partido contra San Luis debido a una rigidez en la espalda. El jugador, que acumula 18 jonrones y un OPS de .773 en la temporada, había abandonado el encuentro del miércoles en el sexto inning. Su última ausencia en el equipo inicial se había registrado el pasado 3 de junio.",
-      "category": "Deportes",
-      "pubDate": "2026-07-23T23:22:51+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/xrskdylqgyn5levsfenwD-355x200.jpg"
+        "https://resources.diariolibre.com/images/2025/03/07/imagen-mirex-d8237a68-538537a5-focus-0-0-895-573-60f1d17c-focus-0-0-400-300.jpg",
+        "https://resources.diariolibre.com/images/2026/07/23/republica-dominicana-condena-anuncio-de-ortega-sobre-elecciones-c5526723-focus-0-0-149-99.jpg"
       ],
       "referenceLinks": [
-        {"feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/marte-es-descartado-por-los-d-backs-debido-a-rigidez-en-la-espalda/"}
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/rd-llama-a-consultas-a-su-embajadora-en-nicaragua-tras-tensiones-entre-los-dos-paises-por-declaraciones-de-ortega/" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/politica/general/2026/07/23/la-republica-dominicana-llama-a-consulta-a-su-embajadora-en-nicaragua/3608753" }
       ]
     },
     {
-      "title": "Estados Unidos impondrá un arancel adicional del 12.5% a productos dominicanos desde este viernes",
-      "summary": "A partir de la medianoche del 24 de julio, Estados Unidos comenzará a aplicar un gravamen adicional del 12.5% a determinadas mercancías procedentes de la República Dominicana, dentro de un paquete que afecta a unos 60 socios comerciales. La medida alcanzará a los productos que sean desembarcados o retirados de almacén para consumo a partir de esa fecha. Las mercancías que ya estuvieran en tránsito antes de la entrada en vigor quedarán exentas si llegan antes del 28 de julio.",
+      "title": "Estados Unidos impone arancel del 12.5% a las exportaciones dominicanas",
+      "summary": "La administración de Donald Trump estableció un gravamen adicional del 12.5 por ciento sobre las mercancías procedentes de República Dominicana, mientras que naciones vecinas como Honduras, Guatemala y El Salvador pagarán solo el 10 por ciento. La diferencia de dos puntos y medio podría influir en la asignación de pedidos de zonas francas y en la creación de empleos en el país. Washington condicionó la tasa menor a la promulgación de una ley que prohíba la importación de bienes producidos con trabajo forzoso, medida que varios competidores adoptaron a tiempo.",
       "category": "Negocios",
-      "pubDate": "2026-07-23T22:30:26+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/eeuu-aplicara-desde-este-viernes-un-arancel-adicional-del-12-5-a-productos-dominicanos/"}
-      ]
-    },
-    {
-      "title": "Pavel Núñez reactiva su Bipolarband con Maridalia Hernández y El Canario como invitados",
-      "summary": "El cantautor Pavel Núñez anunció el regreso de su proyecto musical Bipolarband con un concierto previsto para el 31 de julio en el Hard Rock Café de Santo Domingo. La velada contará con las participaciones especiales de Maridalia Hernández, José Alberto El Canario y Ariel Núñez. La propuesta, que fusiona bachata, salsa, merengue y merengue típico, viene de conseguir el galardón de Cantante Solista en los Premios Soberano.",
-      "category": "Noticias",
-      "pubDate": "2026-07-23T22:26:51+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/maridalia-hernandez-y-el-canario-se-unen-al-regreso-de-pavel-nunez-y-su-bipolarband/"}
-      ]
-    },
-    {
-      "title": "Airbnb respalda la regulación de alquileres turísticos en República Dominicana pero pide proporcionalidad",
-      "summary": "La plataforma Airbnb expresó su disposición a colaborar con el Ministerio de Turismo en el proceso de consulta pública para regular los alquileres vacacionales de corta estancia en el país. La empresa valoró positivamente la creación de un registro de alojamientos, aunque abogó por un marco normativo que distinga entre anfitriones particulares y hoteles tradicionales. Airbnb enfatizó el impacto económico del sector para numerosas familias y pidió evitar cargas burocráticas excesivas.",
-      "category": "Negocios",
-      "pubDate": "2026-07-23T22:26:34+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/airbnb-expresa-apoyo-al-proceso-regulatorio-de-alquileres-turisticos-y-solicita-evitar-cargas-excesivas/"}
-      ]
-    },
-    {
-      "title": "Belinda reporta amenazas de muerte tras polémica en redes sociales",
-      "summary": "La cantante Belinda denunció haber recibido amenazas de muerte después de publicar y luego borrar un comentario en redes sociales sobre su colega Kenia Os. La artista envió un mensaje de voz a sus seguidores en el que rechazó la incitación al odio y pidió respeto y empatía para ella y otras intérpretes del género pop. La mexicana admitió que la situación afectó su paz mental y subrayó que las comunidades de seguidores deben tener límites.",
-      "category": "Noticias",
-      "pubDate": "2026-07-23T22:20:28+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/belinda-denuncia-amenazas-de-muerte-en-su-en-sus-redes/"}
-      ]
-    },
-    {
-      "title": "La economía dominicana crece 6.4% en junio, su mayor avance del año",
-      "summary": "El Banco Central informó que la actividad económica dominicana registró una expansión interanual de 6.4% en junio de 2026, la tasa más alta del año, impulsada principalmente por la minería, la construcción y las zonas francas. El crecimiento acumulado del primer semestre alcanzó 4.5%, más del doble del registrado en igual período de 2025. El ente emisor destacó que este desempeño se logró pese a un entorno internacional marcado por tensiones geopolíticas y alzas en los precios del petróleo.",
-      "category": "Negocios",
-      "pubDate": "2026-07-23T22:12:17+00:00",
+      "pubDate": "2026-07-24T04:18:00+00:00",
       "imageUrls": [
-        "https://m.n.com.do/wp-content/uploads/2026/07/Grafico-1-300x130.png",
-        "https://m.n.com.do/wp-content/uploads/2026/07/Grafico-2-300x235.png"
+        "https://resources.diariolibre.com/images/2026/07/24/aranceles-a6dfa4d5-focus-0-0-400-300.jpg",
+        "https://resources.diariolibre.com/images/2026/07/23/eeuu-impone-un-arancel-de-125--a-republica-dominicana-8c1f2b46-focus-0-0-400-300.jpg",
+        "https://resources.diariolibre.com/images/2026/01/22/trump-7d26755a-focus-0-0-149-99.jpg"
       ],
       "referenceLinks": [
-        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/economia-dominicana-registra-expansion-de-6-4-en-junio-2026/"},
-        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/la-economia-de-rd-crecio-un-6-4-en-junio-2026-segun-el-bcrd/"}
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/economia/finanzas/2026/07/23/eeuu-impone-un-arancel-de-125--a-republica-dominicana/3608674" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/opinion/agora/2026/07/23/el-arancel-a-exportaciones-de-republica-dominicana-que-ee-uu-aviso/3608873" },
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/estados-unidos-afecta-republica-dominicana-y-59-paises-con-nuevos-aranceles/" }
       ]
     },
     {
-      "title": "Más de 1,100 fallecidos en accidentes de tránsito en lo que va de 2026",
-      "summary": "El ministro Deligne Ascención informó que cerca de 1,100 personas han perdido la vida y más de 3,800 han resultado heridas en siniestros de tránsito durante el presente año en República Dominicana. El funcionario señaló que el 70% de las víctimas mortales son motociclistas y que la mayoría se encuentra entre los 15 y 29 años, población en plena edad productiva. La siniestralidad vial representa un costo superior al 2% del Producto Interno Bruto, según las autoridades.",
-      "category": "Noticias",
-      "pubDate": "2026-07-23T22:04:00+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/alrededor-de-1100-personas-han-muerto-en-accidentes-de-transito-en-lo-que-va-de-2026/"}
-      ]
-    },
-    {
-      "title": "Condenan a 30 años de prisión a ex policial por feminicidio doble en La Vega",
-      "summary": "El Primer Tribunal Colegiado de La Vega impuso 30 años de prisión al ex segundo teniente Juan Luis Jiménez Adames por el asesinato de su pareja y su suegra, además de herir a un tercer hombre en un hecho ocurrido en enero de 2025. El tribunal lo encontró culpable de dos feminicidios y violencia de género agravada con arma de fuego en el sector Los Robles. El condenado cumplirá la pena en el centro de corrección Vista del Valle, en San Francisco de Macorís.",
-      "category": "Noticias",
-      "pubDate": "2026-07-23T21:47:15+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/tribunal-dicta-30-anos-de-prision-contra-exsegundo-teniente-que-mato-a-su-pareja-y-a-su-suegra-en-la-vega/"}
-      ]
-    },
-    {
-      "title": "El Ministerio Público apela la absolución en el caso de venta ilegal de terrenos de Los Tres Brazos",
-      "summary": "La Procuraduría presentó un recurso de apelación contra la sentencia que descargó a varios procesados por la presunta venta fraudulenta de cuatro millones de metros cuadrados de terreno del sector Los Tres Brazos. Entre los beneficiados por la decisión figuran el exdirector de la Corde y miembros de la familia Gómez Williams, quienes enfrentaban acusaciones de defraudar al Estado por unos 5,000 millones de pesos. La corte aplazó su fallo para el 10 de septiembre.",
-      "category": "Noticias",
-      "pubDate": "2026-07-23T21:32:54+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/ministerio-publico-apela-sentencia-que-descargo-a-procesados-en-caso-los-tres-brazos/"}
-      ]
-    },
-    {
-      "title": "Restaurantes trazan nueva estrategia para consolidar a República Dominicana como destino gastronómico",
-      "summary": "La Asociación Dominicana de Restaurantes presentó una hoja de ruta para impulsar el turismo gastronómico y posicionar al país como el principal destino culinario del Caribe durante el período 2026-2027. Las iniciativas incluyen el Mes de la Gastronomía Dominicana en septiembre, el proyecto Santo Domingo Exquisito y el primer estudio económico del sector restaurantero. El presidente del gremio reconoció los desafíos por los costos operativos pero ratificó su compromiso con la competitividad del sector.",
-      "category": "Negocios",
-      "pubDate": "2026-07-23T21:17:43+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/rd-apuesta-al-turismo-gastronomico-con-el-desarrollo-de-nueva-estrategia/"}
-      ]
-    },
-    {
-      "title": "Venezuela pide a familiares que identifiquen cuerpos de menores tras los terremotos",
-      "summary": "El gobierno venezolano convocó a los familiares de niños desaparecidos para identificar 38 cuerpos que permanecen sin reclamar en la morgue del puerto de La Guaira tras el doble sismo del 24 de junio. El proceso de reconocimiento será coordinado por el Servicio Nacional de Medicina y Ciencias Forenses e incluirá verificación fotográfica y experticias antropológicas. El balance oficial eleva a 5,398 la cifra de fallecidos por los terremotos de magnitud 7.2 y 7.5.",
+      "title": "Incendio forestal devasta la bahía de Arcachon y obliga a evacuar 35,000 personas en Francia",
+      "summary": "Un fuego de gran magnitud consume más de diez mil hectáreas en la turística bahía de Arcachon, en el suroeste de Francia, calificado por las autoridades como un siniestro de proporciones extraordinarias. Al menos 53 viviendas quedaron destruidas y 27 bomberos resultaron heridos en las labores de extinción. La sequía extrema y los fuertes vientos mantienen el incendio fuera de control, con llamas que llegaron a propagarse a un ritmo de mil hectáreas por hora.",
       "category": "Mundo",
-      "pubDate": "2026-07-23T21:08:07+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/gobierno-venezolano-llama-a-familiares-de-menores-desaparecidos-a-identificar-los-cuerpos-tras-doble-terremoto/"}
-      ]
-    },
-    {
-      "title": "El ministro Yayo Sanz Lovatón afirma que el poder revela la verdadera naturaleza de las personas",
-      "summary": "El titular de Industria, Comercio y Mipymes, Eduardo Sanz Lovatón, sostuvo que el poder no transforma a quienes lo ejercen sino que expone su esencia y rechazó considerar los cargos públicos como una fuente de privilegios. Durante una entrevista, el funcionario reflexionó sobre su trayectoria, su familia y la fe como pilares de su actuar, y confesó que su mayor temor es defraudarse a sí mismo. Sanz Lovatón también recordó que trabajó desde joven en diversos oficios antes de convertirse en abogado.",
-      "category": "Noticias",
-      "pubDate": "2026-07-23T20:59:30+00:00",
+      "pubDate": "2026-07-24T11:58:00+00:00",
       "imageUrls": [
-        "https://m.n.com.do/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-10.29.13-300x200.jpeg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/FRANCIA-INCENDIO-JUEVES-7-3-355x200.webp"
       ],
       "referenceLinks": [
-        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/yayo-sanz-lovaton-el-poder-no-cambia-el-poder-muestra-quien-realmente-eres/"}
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/incendio-arrasa-bahia-turistica-y-obliga-a-evacuar-miles-en-francia/" }
       ]
     },
     {
-      "title": "Autoridades arrestan a dos presuntos microtraficantes vinculados a Cristian El Matatán en San Cristóbal",
-      "summary": "La Dirección Nacional de Control de Drogas y el Ministerio Público detuvieron a dos hombres en el sector Las Flores de San Cristóbal como parte de las operaciones contra la red de microtráfico liderada por el alias Cristian El Matatán. Los arrestados fueron sorprendidos con cocaína, marihuana, crack, dos pistolas, balanzas y dinero en efectivo. Ambos individuos fueron puestos a disposición de la justicia para ser sometidos en las próximas horas.",
-      "category": "Noticias",
-      "pubDate": "2026-07-23T20:30:21+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/detienen-a-dos-hombres-que-vinculan-a-red-criminal-de-cristian-el-matatan-en-san-cristobal/"}
-      ]
-    },
-    {
-      "title": "Unos 400 estudiantes sin inscripción en La Romana por conflicto entre directivas educativas",
-      "summary": "Padres de familia del Colegio Evangélico Emmanuel, en Villa Hermosa, denunciaron que cerca de 400 estudiantes no han podido inscribirse para el nuevo año escolar porque la directora del Distrito Educativo 05-11 se niega a firmar las notas y certificados. Los afectados atribuyen el problema a un desencuentro entre la autoridad distrital y la dirección del centro educativo, pese a contar este con los documentos y reconocimientos oficiales. Los padres pidieron la intervención urgente del Ministerio de Educación.",
-      "category": "Noticias",
-      "pubDate": "2026-07-23T20:20:16+00:00",
+      "title": "Muere escalador suizo en el monte Fuji y rescatan a una mujer de 99 años",
+      "summary": "Un excursionista suizo de 58 años perdió la vida mientras ascendía el monte Fuji, convirtiéndose en la segunda víctima mortal desde el inicio de la temporada de escalada el primero de julio. Una mujer japonesa de 99 años fue rescatada tras lesionarse y pasar la noche en un refugio de la montaña. Las autoridades niponas pidieron a los visitantes que desciendan de inmediato si experimentan dificultades físicas o malas condiciones climáticas.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T11:53:37+00:00",
       "imageUrls": [
-        "https://n.com.do/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-16.02.49-225x300.jpeg",
-        "https://n.com.do/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-23-at-16.02.49-1-225x300.jpeg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/cf19f627219554026187a43409fa80f3225b4ce9-355x200.jpg"
       ],
       "referenceLinks": [
-        {"feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/23/padres-denuncian-que-conflicto-de-colegio-en-la-romana-deja-sin-inscripcion-a-unos-400-estudiantes/"}
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/fallece-excursionista-suizo-en-el-monte-fuji-y-rescatan-mujer-de-99-anos/" }
       ]
     },
     {
-      "title": "Más de la mitad de los menores dominicanos sufre disciplina violenta, según pediatras",
-      "summary": "Datos de la Encuesta ENHOGAR-MICS 2025 revelaron que el 54.9% de los niños, niñas y adolescentes de República Dominicana es criado bajo métodos que incluyen castigos físicos o agresiones psicológicas. La Sociedad Dominicana de Pediatría presentó estas cifras durante su XVI Jornada Nacional y advirtió que la violencia infantil constituye un problema de salud pública con consecuencias que pueden persistir hasta la vida adulta. Los especialistas señalaron que el estrés tóxico en la infancia altera el desarrollo cerebral y eleva el riesgo de enfermedades crónicas y trastornos mentales.",
+      "title": "Crítica a los nuevos actores políticos: «pichones» sin ideología ni formación",
+      "summary": "Un análisis cuestiona a los jóvenes aspirantes que incursionan en la política dominicana sin formación ideológica genuina, a quienes compara con los sofistas de la antigüedad por su afán de lucro personal. El texto sostiene que estas figuras carecen de propuesta ciudadana y se limitan a aprovecharse del entorno político en beneficio propio. El autor advierte que este fenómeno pervierte el sentido noble que debería tener la actividad pública como búsqueda del bien común.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T11:53:33+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/ManuelAntonioVega-911-1-250x200.jpeg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/los-pichones-de-la-politica-dominicana/" }
+      ]
+    },
+    {
+      "title": "La ONU urge proteger a más de 6,000 marinos atrapados en el estrecho de Ormuz",
+      "summary": "La oficina de Naciones Unidas para los Derechos Humanos solicitó medidas urgentes para unos 400 buques con tripulaciones que no pueden evacuar la zona debido al conflicto entre Irán y Estados Unidos. Al menos 17 marineros han muerto desde el inicio de las hostilidades y nueve embarcaciones fueron abandonadas por sus propietarios. El alto comisionado Volker Türk pidió corredores seguros, acceso consular y suministro de alimentos, agua y medicinas para los trabajadores marítimos.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T11:46:24+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/MAR-ROJO-BARCO-355x200.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/onu-exige-proteger-a-mas-de-6000-marinos-varados-en-el-estrecho-de-ormuz/" }
+      ]
+    },
+    {
+      "title": "Reparaciones en el metro de Nueva York afectarán a miles de dominicanos",
+      "summary": "Los trabajos de mantenimiento en las líneas 1, 2 y 3 del subterráneo neoyorquino obligarán a modificar los horarios durante cinco fines de semana consecutivos entre julio y agosto. La Autoridad Metropolitana de Transporte advirtió que las restricciones estarán vigentes desde el viernes por la noche hasta el lunes de madrugada mientras se renuevan vías e interruptores en el Bajo Manhattan. Las estaciones de Times Square y Grand Central figuran entre las más transitadas del sistema y concentran una gran cantidad de pasajeros de origen dominicano.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T11:42:14+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/11/20110005/Metro-NEw-York-355x200.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/miles-de-dominicanos-seran-afectados-por-reparacion-lineas-usan-trenes-1-2-y-3-en-manhattan/" }
+      ]
+    },
+    {
+      "title": "Policía de Nueva York identifica al presunto homicida de un dominicano en el Bronx",
+      "summary": "Las autoridades de Nueva York dieron a conocer la identidad de Luis Agüero, de 24 años, como el autor del disparo que causó la muerte del dominicano Yeimy Reyes de 29 años en un restaurante del Bronx. El crimen ocurrió en la madrugada del 16 de julio durante una discusión en el sótano del local, cuando la víctima vendía gafas de sol. Un escuadrón de detectives persigue activamente al sospechoso y a un cómplice no identificado.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T11:40:02+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Nueva-York-tiroteo-3-355x200.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/policia-ny-identifica-pistolero-asesino-dominicano-de-un-tiro-en-restaurant-del-bronx/" }
+      ]
+    },
+    {
+      "title": "Futbolista australiano da positivo en cocaína tras participar en el Mundial 2026",
+      "summary": "El centrocampista Cristian Volpanto, del Sassuolo italiano y seleccionado de Australia, fue detenido por exceso de velocidad en Sídney y arrojó resultado positivo en un control antidrogas. El jugador, que disputó tres partidos con los Socceroos en el Mundial, quedó con su permiso de conducir suspendido por seis meses. Su entrenador y mentor declaró que el futbolista niega haber consumido cualquier sustancia ilegal.",
+      "category": "Deportes",
+      "pubDate": "2026-07-24T11:38:58+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/ba5e7140-8724-11f1-9733-edfe8d3e29a7-355x200.jpg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/futbolista-australiano-volpato-da-positivo-en-cocaina-tras-el-mundial/" }
+      ]
+    },
+    {
+      "title": "La FDA retira café en Nueva York por riesgo de botulismo y 1.6 millones de huevos por salmonela",
+      "summary": "La Administración de Alimentos y Medicamentos ordenó el retiro voluntario del café Brooklyn Roasting Company por un posible riesgo de botulismo asociado a su almacenamiento a temperatura ambiente. Simultáneamente, se retiraron del mercado estadounidense 1.6 millones de huevos distribuidos por Midwest Poultry Services que podrían estar contaminados con salmonela. Ambos productos son consumidos habitualmente por la comunidad dominicana residente en Estados Unidos.",
       "category": "Ciencia",
-      "pubDate": "2026-07-23T20:02:53+00:00",
+      "pubDate": "2026-07-24T11:37:23+00:00",
       "imageUrls": [
-        "https://eldia.com.do/wp-content/uploads/2026/07/Una-persona-juega-en-un-telefono-150x150.jpg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/FDA-retira-mercado-NY-cafe-por-posible-botulismo-y-en-territorio-USA-1.6-millones-de-huevos-por-Salmonella-355x200.jpg"
       ],
       "referenceLinks": [
-        {"feedName": "El Día", "articleUrl": "https://eldia.com.do/mas-de-la-mitad-de-los-ninos-dominicanos-recibe-disciplina-violenta-advierten-pediatras/"}
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/fda-retira-mercado-ny-cafe-por-posible-botulismo-y-en-territorio-usa-1-6-millones-de-huevos-por-salmonella/" }
+      ]
+    },
+    {
+      "title": "Estados Unidos intensifica bombardeos sobre territorio iraní y deja cuatro muertos",
+      "summary": "Una nueva oleada de ataques militares estadounidenses sobre Irán causó al menos cuatro fallecidos y siete heridos en la provincia fronteriza de Juzestán, según la agencia estatal iraní IRNA. Los bombardeos también alcanzaron la ciudad portuaria de Bandar Abbas, sede de una importante base naval cerca del estrecho de Ormuz. El Comando Central de Estados Unidos aseguró que la operación busca neutralizar instalaciones de mando de la Guardia Revolucionaria y asegurar la navegación comercial.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T11:36:40+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/IRAN-JUZESTAN-ENERGIA-355x200.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/ataques-dejan-cuatro-muertos-en-nueva-ofensiva-de-ee-uu-contra-iran/" }
+      ]
+    },
+    {
+      "title": "Miss Universo República Dominicana 2026 entra en su recta final",
+      "summary": "El certamen de belleza celebró su Gala de Traje Típico y su Competencia Preliminar con 30 candidatas evaluadas por un jurado integrado por destacadas figuras de la moda, el arte y el espectáculo. Las puntuaciones obtenidas definirán a las semifinalistas que competirán por la corona rumbo al certamen internacional. El evento en Sambil Santo Domingo atrajo un público tan numeroso que obligó a habilitar espacios adicionales.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T11:10:12+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/miss-universo-rd-2026-completa-eventos-puntuales-se-acerca-a-la-eleccion-de-su-nueva-reina/" }
+      ]
+    },
+    {
+      "title": "Venezuela conmemora un mes del doble sismo que desplazó la superficie 60 centímetros",
+      "summary": "Se cumple un mes del terremoto doble de magnitud 7.2 y 7.5 que golpeó Caracas y La Guaira el 24 de junio, entre los más fuertes registrados en el país suramericano en más de un siglo. Datos del satélite NISAR de la NASA confirman que la fractura desplazó la superficie terrestre hasta 60 centímetros a lo largo de la falla de San Sebastián. La tragedia se produce cinco meses después de la detención de Nicolás Maduro por Estados Unidos y el inicio de un proceso de transición tras 27 años de chavismo.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T11:00:53+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/venezuela-cumple-un-mes-del-doble-terremoto-entre-perdidas-y-esperanzas/" }
+      ]
+    },
+    {
+      "title": "El 65% de los reclusos en República Dominicana está preso sin sentencia condenatoria",
+      "summary": "Del total de 25,878 personas recluidas en el sistema penitenciario dominicano a febrero de 2026, unas 16,950 se encuentran en prisión preventiva sin haber recibido condena, lo que representa un 65.5 por ciento de la población carcelaria. La sobrepoblación supera las diez mil personas frente a las aproximadamente 16,000 plazas disponibles. El debate se intensifica con la incorporación del concepto de riesgo criminológico en el nuevo Código Procesal Penal, que podría determinar quién enfrenta un proceso en libertad y quién permanece recluido.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T10:20:08+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/el-riesgo-criminologico-frente-al-drama-de-miles-de-imputados-sin-condena-en-las-carceles-dominicanas/" }
+      ]
+    },
+    {
+      "title": "Especialistas advierten que las universidades no pueden cambiar el pénsum a estudiantes activos",
+      "summary": "Abogados consultados coincidieron en que la autonomía académica de las universidades no les permite modificar retroactivamente los planes de estudio de alumnos ya inscritos, pues ello vulneraría la Constitución y la Ley 139-01 de Educación Superior. Denuncias recientes revelan casos de estudiantes obligados a cursar asignaturas adicionales o pagar tutorías tras haber completado el pénsum con el que iniciaron sus carreras. El Ministerio de Educación Superior reiteró que los alumnos deben concluir con el plan vigente al momento de su ingreso y que podrían caber sanciones administrativas contra las instituciones que incumplan.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T10:10:25+00:00",
+      "imageUrls": [
+        "https://n.com.do/wp-content/uploads/2026/07/Cambio-de-pensum-en-universidades-300x175.jpg",
+        "https://n.com.do/wp-content/uploads/2026/07/Estudiantes-Universitarios-300x175.jpg"
+      ],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/advierten-que-universidades-no-pueden-modificar-el-pensum-a-estudiantes-activos/" }
+      ]
+    },
+    {
+      "title": "Aprehenden a dos agentes de la Policía Nacional con cocaína en Santo Domingo Este",
+      "summary": "Dos rasos activos de la institución del orden fueron detenidos junto a otros dos hombres en un operativo realizado en la avenida Hípica, donde se ocuparon diez paquetes de presunta cocaína, armas de fuego y 40,000 pesos en efectivo. Los agentes identificados como David Alexander Peña Matos y Frangeli Báez Sena portaban pistolas de reglamento y una tercera arma de forma ilegal. Las autoridades investigan si los uniformados formaban parte de una red de narcotráfico en la zona fronteriza.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T04:19:00+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/dos-rasos-de-la-policia-arrestados-con-10-paquetes-de-cocaina-en-sde/" }
+      ]
+    },
+    {
+      "title": "República Dominicana será sede del encuentro internacional de danza «Só Dança in Motion 2026»",
+      "summary": "Por primera vez el país acogerá del 3 al 9 de agosto uno de los encuentros mundiales más relevantes de formación e intercambio dancístico, con sedes en la Escuela Nacional de Danza de Santo Domingo y la Escuela de Bellas Artes de Santiago. El evento cuenta con el respaldo del Ministerio de Cultura y la embajada de Italia, y ofrecerá clases magistrales de ballet clásico, danza contemporánea, danza moderna y hip hop. La iniciativa busca fortalecer la educación artística nacional mediante plataformas de formación especializada para estudiantes y docentes.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T04:17:00+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/18_Es_24_1p02.jpg",
+        "https://eldia.com.do/wp-content/uploads/2026/07/18_Es_24_1p03.jpg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/dominicana-sera-sede-de-so-danca-in-motion-2026-por-vez-primera/" }
       ]
     }
   ]
