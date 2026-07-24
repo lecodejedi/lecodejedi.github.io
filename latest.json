@@ -1,39 +1,71 @@
 {
   "newsArticles": [
     {
-      "title": "Santo Domingo inaugura este viernes los vigésimos quintos Juegos Centroamericanos y del Caribe",
-      "summary": "La capital dominicana abre sus puertas por tercera vez en la historia a la mayor justa deportiva de la región, que reunirá a más de 6,200 atletas de 37 países durante 16 días de competencias. El Estadio Olímpico Félix Sánchez acogerá la ceremonia de apertura y distintas sedes distribuirán las 56 disciplinas en juego. La organización del evento representa un desafío logístico sin precedentes para el país y una oportunidad para proyectar su imagen internacional.",
+      "title": "Santo Domingo abre sus puertas a la vigésima quinta edición de los Juegos Centroamericanos y del Caribe",
+      "summary": "La República Dominicana recibe este fin de semana a más de 6,200 deportistas procedentes de 37 naciones para disputar 56 disciplinas repartidas en 40 deportes durante 16 jornadas. El Centro Olímpico Juan Pablo Duarte servirá como epicentro, aunque las competencias se esparcirán por ocho localidades del país, desde Santiago hasta Punta Cana, generando un circuito sin precedentes de turismo deportivo. Las autoridades prevén que el evento proyecte internacionalmente la imagen del país como sede de grandes justas regionales.",
       "category": "Deportes",
-      "pubDate": "2026-07-24T00:02:00+00:00",
+      "pubDate": "2026-07-24T11:56:00+00:00",
       "imageUrls": [
-        "https://resources.diariolibre.com/images/2026/07/24/juegos-centroamericanos-y-del-caribe-en-santo-domingo-2da2ae88-focus-0-0-400-300.jpg",
-        "https://resources.diariolibre.com/images/2026/07/23/whatsapp-image-2026-07-23-at-105341-am-9010f147-focus-0-0-149-99.jpg",
-        "https://resources.diariolibre.com/images/2026/07/23/artistas-en-la-ceremonia-de-los-juegos-centroamericanos-d298f838-focus-0-0-149-99.jpg",
-        "https://resources.diariolibre.com/images/2026/07/23/mapa-jcc2026-6d7b6821.png"
+        "https://resources.diariolibre.com/images/2026/07/24/los--juegos-centroamericanos-uniran-el-deporte-y-turismo-a3a22638-focus-0-0-400-300.jpg",
+        "https://resources.diariolibre.com/images/2026/07/24/22072026--pabellones-deportivos-centro-olimpico-y-parque-del-este-luduis-tapia54-ddae7a0f.jpg",
+        "https://resources.diariolibre.com/images/2026/07/24/juegos-centroamericanos-y-del-caribe-en-santo-domingo-2da2ae88-focus-0-0-149-99.jpg"
       ],
       "referenceLinks": [
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/deportes/olimpismo/2026/07/24/los-juegos-centroamericanos-uniran-el-deporte-y-turismo/3609432" },
         { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/deportes/olimpismo/2026/07/24/juegos-centroamericanos-y-del-caribe-en-republica-dominicana/3608760" },
         { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/deportes/olimpismo/2026/07/23/juegos-centroamericanos-y-del-caribe-en-santo-domingo/3608774" }
       ]
     },
     {
-      "title": "Estados Unidos impone un arancel adicional de 12.5% a las exportaciones dominicanas",
-      "summary": "Washington comenzó a cobrar un gravamen del 12.5% sobre los productos dominicanos que ingresan al mercado estadounidense, mientras que países competidores del DR-Cafta como Guatemala y Honduras pagan apenas 10%. La diferencia se debe a que Santo Domingo no promulgó a tiempo una prohibición formal sobre la importación de bienes fabricados con trabajo forzoso, condición exigida por el Representante Comercial de Estados Unidos. La brecha arancelaria pone en riesgo miles de empleos en las zonas francas nacionales, especialmente en los sectores de dispositivos médicos, textiles y calzado.",
+      "title": "Polvo sahariano y humo canadiense dispararán las temperaturas durante el fin de semana dominicano",
+      "summary": "El meteorólogo Jean Suriel alertó que la combinación de la duodécima nube de polvo del Sahara con partículas provenientes de incendios forestales en Canadá mantendrá un ambiente extremadamente caluroso en el territorio nacional. La sensación térmica podría escalar hasta 45 grados Celsius el domingo, especialmente en provincias del noroeste como Dajabón y Monte Cristi. El especialista recomendó a la población hidratarse constantemente y evitar la exposición solar prolongada, particularmente a quienes padecen alergias respiratorias y cutáneas.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T18:49:10+00:00",
+      "imageUrls": [
+        "https://resources.diariolibre.com/images/2026/07/06/cielo-grisaceo--y-altas-temperaturas-se-esperan-en-el-clima-en-rd-ca370c9e-focus-0-0-400-300.jpg",
+        "https://resources.diariolibre.com/images/2026/07/15/oftamologa-advierte-impacto-del-polvo-del-sahara-en-ojos-de-ninos-df556c9a-focus-0.1-0.36-149-99.png"
+      ],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/polvo-del-sahara-y-humo-de-canada-elevaran-el-calor-durante-el-fin-de-semana-del-dia-de-los-padres/" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/planeta/clima/2026/07/24/polvo-del-sahara-mantendra-cielo-opaco-y-calor-en-el-clima-en-rd/3609162" }
+      ]
+    },
+    {
+      "title": "El sector empresarial dominicano reacciona ante el nuevo arancel del 12.5% impuesto por Estados Unidos",
+      "summary": "Washington comenzó a cobrar un gravamen adicional de 12.5 por ciento sobre las exportaciones dominicanas, dos puntos y medio por encima de lo que pagan socios competidores del DR-Cafta como Guatemala y Honduras. La diferencia responde a que Santo Domingo no promulgó a tiempo una prohibición formal sobre la importación de bienes producidos con trabajo forzoso, condición exigida por el Representante Comercial estadounidense. Organizaciones gremiales como el CONEP y Adoexpo evalúan el alcance de la medida y urgen al Gobierno a mantener un diálogo constructivo con Washington para mitigar el impacto sobre las zonas francas nacionales.",
       "category": "Negocios",
-      "pubDate": "2026-07-24T15:33:09+00:00",
+      "pubDate": "2026-07-24T18:28:22+00:00",
       "imageUrls": [
         "https://resources.diariolibre.com/images/2026/07/24/aranceles-a6dfa4d5-focus-0-0-400-300.jpg",
-        "https://resources.diariolibre.com/images/2026/07/23/eeuu-impone-un-arancel-de-125--a-republica-dominicana-8c1f2b46-focus-0-0-400-300.jpg"
+        "https://resources.diariolibre.com/images/2026/07/23/eeuu-impone-un-arancel-de-125--a-republica-dominicana-8c1f2b46-focus-0-0-400-300.jpg",
+        "https://eldia.com.do/wp-content/uploads/2026/07/Foto-web_15-150x150.jpeg"
       ],
       "referenceLinks": [
         { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/opinion/agora/2026/07/23/el-arancel-a-exportaciones-de-republica-dominicana-que-ee-uu-aviso/3608873" },
         { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/economia/finanzas/2026/07/23/eeuu-impone-un-arancel-de-125--a-republica-dominicana/3608674" },
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/la-advertencia-que-la-aduana-no-vio-venir-del-expediente-al-decreto-de-ultima-hora/" }
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/conep-evalua-alcance-de-nuevos-aranceles-de-estados-unidos-para-las-exportaciones-dominicanas/" },
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/conep-evalua-impacto-de-nuevos-aranceles-de-estados-unidos-sobre-exportaciones-dominicanas/" },
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/adoexpo-dialogo-medidas-comerciales-estados-unidos/" }
       ]
     },
     {
-      "title": "Nueve personas resultan heridas al incendiarse un autobús en la carretera La Vega-Jarabacoa",
-      "summary": "Un vehículo de la empresa Caribe Tours se consumió por las llamas en la tarde del jueves a la altura del complejo Ercilia Pepín, provocando lesiones a nueve ocupantes que lograron evacuar a tiempo. Los heridos recibieron atención médica del sistema 9-1-1 y ninguno presenta heridas mortales, según informaron las autoridades. El fuego también afectó el tendido eléctrico de la zona y los bomberos investigan las causas del siniestro.",
+      "title": "LeBron James anuncia su fichaje por los Philadelphia 76ers en lo que califica como su última parada",
+      "summary": "El máximo anotador histórico de la NBA comunicó mediante sus redes sociales que vestirá la camiseta de los Sixers en la temporada 2026-27, tras barajar seriamente el retiro al concluir su vigésimo tercer año con Los Angeles Lakers. El veterano de 41 años firmará un contrato modesto de dos años y ocho millones de dólares, muy por debajo de los casi 53 millones que percibió la campaña anterior. James se suma a un plantel que incluye a Joel Embiid y Tyrese Maxey con la meta de conquistar el quinto anillo de su carrera y terminar con una sequía de títulos de más de cuatro décadas en Filadelfia.",
+      "category": "Deportes",
+      "pubDate": "2026-07-24T19:45:56+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/hq720-5-355x200.jpg",
+        "https://eldia.com.do/wp-content/uploads/2026/07/miami-150x150.jpg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/lebron-james-se-unira-a-los-philadelphia-76ers-afirmando-que-sera-su-ultima-decision/" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/deportes/baloncesto/2026/07/24/lebron-james-se-une-a-philadelphia-76ers/3609488" },
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/como-el-cuarto-movimiento-de-lebron-james-como-agente-libre-lo-llevo-a-filadelfia/" }
+      ]
+    },
+    {
+      "title": "Nueve personas resultan lesionadas al consumirse un autobús de Caribe Tours en la carretera La Vega-Jarabacoa",
+      "summary": "Un vehículo de la empresa Caribe Tours se envolvió en llamas durante la tarde del jueves a la altura del complejo Ercilia Pepín, en la vía hacia Jarabacoa. Los ocupantes lograron abandonar la unidad antes de que el fuego la destruyera por completo, pero nueve de ellos sufrieron laceraciones y contusiones que fueron atendidas por el sistema 9-1-1. El siniestro también derritió cables de alta tensión que cayeron sobre la calzada, y los bomberos investigan las causas del incendio.",
       "category": "Noticias",
       "pubDate": "2026-07-23T19:59:00+00:00",
       "imageUrls": [
@@ -44,229 +76,197 @@
       ]
     },
     {
-      "title": "Autoridades mexicanas confirman que alcalde asesinado era investigado por nexos con el crimen",
-      "summary": "El secretario de Seguridad de México reveló que el edil de Temoac, Morelos, ultimado el miércoles en su despacho municipal, era objeto de una indagatoria por sus presuntos lazos con bandas delictivas dedicadas al secuestro y la extorsión. El funcionario detalló que la pesquisa apuntaba a vínculos del político con células criminales identificadas como los Aparicio y los Huazulco. El caso reaviva el debate sobre la violencia contra autoridades locales en distintas regiones del país.",
+      "title": "Especialistas debaten hasta qué punto los países pueden prepararse para desastres de gran magnitud",
+      "summary": "Un análisis publicado este viernes cuestiona la afirmación de que ninguna nación está lista para enfrentar una catástrofe y sostiene que la capacidad de respuesta se construye durante años, no se improvisa. El texto, basado en el marco de Gestión Integral del Riesgo de Desastres de la ONU, destaca que la primera respuesta siempre es local: familiares y vecinos suelen ser los primeros en rescatar a las víctimas. El autor subraya que un país demuestra su resiliencia no por la cantidad de equipos de rescate, sino por la calidad del sistema preventivo desarrollado antes de la emergencia.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T20:00:18+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Joan-355x200.png"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/la-verdadera-capacidad-de-respuesta-ante-un-gran-desastre/" }
+      ]
+    },
+    {
+      "title": "La presentadora Francisca celebra el primer cumpleaños de su hija Raffaella",
+      "summary": "La comunicadora dominicana compartió con sus seguidores un carrusel de fotografías para conmemorar el primer año de vida de su pequeña Raffaella, a quien calificó como deseada, soñada y amada. La publicación acumuló miles de reacciones positivas y mensajes de felicitación de figuras del espectáculo y seguidores. La también actriz cerró su mensaje con humor, advirtiendo a los hermanos de la niña sobre el carácter que les espera en casa.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T19:53:18+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Captura-de-pantalla-2026-07-24-155123-355x200.png"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/la-hija-de-francisca-celebra-su-primer-cumpleanos-y-asi-lo-comparten-sus-padres/" }
+      ]
+    },
+    {
+      "title": "Informe revela que los latinos soportan el 96% de las deportaciones durante la gestión Trump",
+      "summary": "Un estudio de la Liga de Ciudadanos Latinoamericanos Unidos señala que, pese a representar entre el 76 y el 80 por ciento de la población indocumentada, los hispanos fueron el 96 por ciento de los expulsados entre enero y octubre de 2025. El documento destaca que el 91 por ciento de los detenidos por agentes de inmigración correspondía a personas de origen latino, mientras que los no latinos fueron menos del cinco por ciento de los deportados. El informe también documenta un fuerte impacto económico en negocios de la comunidad, donde más de la mitad de los encuestados reportó pérdidas superiores al 50 por ciento de sus ingresos.",
       "category": "Mundo",
-      "pubDate": "2026-07-24T15:59:25+00:00",
+      "pubDate": "2026-07-24T19:50:27+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/09/5aa54b46aea14cc55b3a7af2aae68404cff294f5w-355x200.jpg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/DONALD-TRUMP-355x200.webp"
       ],
       "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/revelan-que-alcalde-asesinado-en-mexico-era-investigado-por-vinculos-con-crimen-organizado/" }
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/la-politica-migratoria-de-trump-afecta-desproporcionadamente-a-los-latinos-revela-informe/" }
       ]
     },
     {
-      "title": "Fondo Agua Yaque del Norte premia proyectos ambientales con inversión de tres millones de pesos",
-      "summary": "En el marco de la conmemoración del Día del Río Yaque del Norte, la octava convocatoria de educación ambiental seleccionó iniciativas comunitarias orientadas a la conservación de los recursos hídricos de la cuenca. La inversión cuenta con el respaldo de Fundación Propagas, Grupo Universal y el Ministerio de Medio Ambiente. Los proyectos seleccionados buscan fortalecer las capacidades locales y promover soluciones sostenibles para la seguridad hídrica de la región.",
+      "title": "Alfredo Pacheco destaca a Juan Garrigó como el estratega que mejor conoce al PRM",
+      "summary": "El presidente de la Cámara de Diputados elogió al dirigente Juan Garrigó y lo describió como la persona que más profundamente domina la estructura del Partido Revolucionario Moderno. Pacheco reveló que juntos articularon complejas operaciones políticas, entre ellas la conformación de la boleta electoral perremeísta de 2024. El legislador capitalino también destacó su excelente relación con el expresidente Hipólito Mejía, abuelo materno de Garrigó.",
       "category": "Noticias",
-      "pubDate": "2026-07-24T15:58:54+00:00",
+      "pubDate": "2026-07-24T19:49:44+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/En-el-centro-Carlos-Garcia-y-Aquiles-Bermudez-junto-a-personaldiades-Foto-Foto-Agua-Yaque-del-Norte-2-355x200.jpeg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Pacheco-Juan-Garrigo-es-el-que-mejor-conoce-al-PRM-por-dentro-355x200.jpg"
       ],
       "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/anuncian-proyectos-ganadores-de-8-a-convocatoria-de-educacion-ambiental-en-dia-del-rio-yaque-del-norte/" }
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/pacheco-juan-garrigo-es-el-que-mejor-conoce-al-prm-por-dentro/" }
       ]
     },
     {
-      "title": "Fallece una menor en China tras someterse a una terapia experimental de edición genética cerebral",
-      "summary": "Una niña de seis años murió a causa de una grave reacción inmunológica siete días después de recibir una infusión experimental de virus portadores de la técnica CRISPR para tratar un síndrome neurológico congénito. El procedimiento, realizado en el Hospital Xinhua de Shanghái y financiado por sus padres con 860,000 dólares, fue objeto de una investigación periodística de la revista Science que cuestiona la falta de regulación en terapias genéticas de alto riesgo. El caso reabre el debate internacional sobre los límites éticos de la edición genética en humanos.",
-      "category": "Ciencia",
-      "pubDate": "2026-07-24T15:53:05+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/EPA5092-CHINA-PHOTO-SET-DNA-RESEARCH-355x200.webp"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/muere-una-nina-en-china-tras-recibir-un-tratamiento-experimental-denuncia-science/" }
-      ]
-    },
-    {
-      "title": "Consejo Regional de Desarrollo urge a los padres a liderar la transformación familiar",
-      "summary": "El organismo integrado por figuras de la sociedad civil del Cibao llamó a las familias dominicanas a asumir un papel protagónico en la construcción de una sociedad más cívica y resiliente. La entidad sostuvo que la integridad, la resiliencia y el civismo constituyen los tres pilares sobre los cuales debe sustentarse el cambio social desde el hogar. La exhortación forma parte de un comunicado en el que también advirtieron sobre los desafíos que enfrenta la convivencia ciudadana.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T15:51:37+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Foto-Dr.-Ysocrates-Andres-Pena-Reyes-355x200.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/crd-exhorta-a-los-padres-a-asumir-el-compromiso-de-transformar-y-revitalizar-a-la-familia/" }
-      ]
-    },
-    {
-      "title": "Profesionales agropecuarios denunciarán ante la FAO y la OIT el abandono gubernamental",
-      "summary": "La Asociación Nacional de Profesionales Agropecuarios anunció que llevará su queja ante organismos internacionales por los bajos salarios, las cancelaciones políticas y la falta de oportunidades que afectan al gremio. Los manifestantes consideran una contradicción que el Gobierno celebre el reconocimiento de Hambre Cero mientras los técnicos que hicieron posible ese logro viven en precariedad. La organización advirtió que el país no podrá sostener la meta de seguridad alimentaria sin un respaldo digno a sus profesionales del sector.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T15:45:16+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Tito-Hernandez-355x200.jpeg",
-        "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Manifestacion-ANPA.jpeg?resize=640%2C426&quality=100&ssl=1"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/anpa-anuncia-acudira-ante-la-fao-y-la-oit-para-denunciar-maltrato-y-persecucion/" }
-      ]
-    },
-    {
-      "title": "Claudia Sheinbaum reconoce la complejidad de negociar aranceles con la administración Trump",
-      "summary": "La mandataria mexicana admitió que el diálogo comercial con Washington se ha vuelto difícil por la política proteccionista del presidente estadounidense y los nuevos gravámenes aplicados a diversas naciones. Sheinbaum defendió la integración económica de América del Norte y aseguró que la prosperidad entre ambos países es interdependiente. La presidenta subrayó que el T-MEC mantiene sus condiciones pese a las tensiones arancelarias impulsadas por la estrategia de reindustrialización de Estados Unidos.",
-      "category": "Mundo",
-      "pubDate": "2026-07-24T15:37:37+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/06/elecciones-Colombia-2-355x200.webp"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/sheinbaum-admite-dificultad-para-negociar-aranceles-con-trump/" }
-      ]
-    },
-    {
-      "title": "La Comisión Europea acusa a TikTok de fallar en la protección de los menores",
-      "summary": "El Ejecutivo comunitario señaló que las cuentas diseñadas por la plataforma para usuarios jóvenes no impiden que extraños accedan a su contenido ni evitan su uso en casos de ciberacoso. Bruselas considera que la empresa infringe la Ley de Servicios Digitales y podría enfrentarse a una multa de hasta el 6% de su facturación global anual. La acusación se centra en la posibilidad de que los menores mantengan perfiles públicos, lo que expone su vida privada a cualquier persona sin necesidad de registrarse en la red.",
-      "category": "Tecnología",
-      "pubDate": "2026-07-24T15:37:06+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/07/TikTok_EEUU-355x200.webp"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/bruselas-acusa-a-tiktok-de-no-proteger-suficientemente-a-los-menores/" }
-      ]
-    },
-    {
-      "title": "DNCD arresta a dos presuntos narcotraficantes en allanamientos en La Romana",
-      "summary": "La Dirección Nacional de Control de Drogas y el Ministerio Público detuvieron a Adriano Corporán Inirio y otro individuo vinculados al decomiso de 243 kilogramos de cocaína incautados en una gallera de la autopista Duarte. El primer arresto ocurrió en una vivienda del residencial Las Orquídeas, en La Romana, donde las autoridades ejecutaron una orden judicial para desarticular la red de tráfico. Los imputados fueron puestos a disposición del Ministerio Público de Santo Domingo Oeste mientras continúan las investigaciones.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T15:31:44+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Capturan-a-dos-hombres-vinculados-al-narcotrafico-en-La-Romana-355x200.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/capturan-a-dos-hombres-vinculados-al-narcotrafico-en-la-romana/" },
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/capturan-en-la-romana-a-hombre-vinculado-al-decomiso-de-237-paquetes-de-cocaina/" }
-      ]
-    },
-    {
-      "title": "Dirigente peledeísta condena intento de Daniel Ortega de suspender elecciones en Nicaragua",
-      "summary": "El exprocurador Francisco Domínguez Brito calificó de alarmante la decisión atribuida al gobierno nicaragüense de impedir la celebración de comicios y advirtió que representa un retroceso para la democracia latinoamericana. El miembro del PLD sostuvo que la comunidad regional debe rechazar cualquier acción que vulnere el derecho al sufragio libre. El político dominicano instó a no permitir precedentes que debiliten la institucionalidad democrática en el continente.",
-      "category": "Mundo",
-      "pubDate": "2026-07-24T15:29:55+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/05/27062413/Francisco-Dominguez-Brito-355x200.webp"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/dominguez-brito-llama-a-repudiar-cualquier-intento-de-impedir-elecciones-en-nicaragua/" }
-      ]
-    },
-    {
-      "title": "Gremio jurídico pide extinguir el caso contra Jean Alain Rodríguez por vencimiento de plazos",
-      "summary": "La Corriente Gremial Dignidad Jurídica solicitó al Segundo Tribunal Colegiado del Distrito Nacional que acoja la petición de la defensa del exprocurador para cerrar el proceso penal, al considerar que superó el límite legal de cuatro años establecido en el Código Procesal Penal. El presidente de la entidad, Leonardo Reynoso, calificó la decisión como un asunto institucional que trasciende la situación individual del exfuncionario. La audiencia de continuación fue fijada para el próximo lunes 27 de julio.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T15:23:41+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/dignidad-juridica-extincion-proceso-jean-alain-plazo-legal/" }
-      ]
-    },
-    {
-      "title": "Una ola de calor en España provoca 151 decesos y activa emergencia por incendios forestales",
-      "summary": "El tercer episodio de temperaturas extremas del verano español dejó al menos 151 muertes atribuibles al calor entre el martes y el jueves, según el sistema de monitorización del Instituto de Salud Carlos III. El Gobierno declaró la emergencia nacional en Madrid y Ávila ante la propagación de incendios que amenazan zonas pobladas. Las autoridades calculan que desde mediados de mayo las olas de calor han provocado más de 2,600 defunciones adicionales en el país.",
-      "category": "Mundo",
-      "pubDate": "2026-07-24T15:14:43+00:00",
-      "imageUrls": [
-        "https://www.infobae.com/resizer/v2/WIKUGGVW3JGM5LBR5HH6CQ5CEQ.jpg?auth=04357ddb7588ac310d24be1d0e13d67f87e6a99973f1ad97d69057b7576c400e&smart=true&width=350&height=233&quality=85"
-      ],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/ola-de-calor-deja-151-muertos-mientras-incendios-mantienen-a-espana-en-emergencia/" }
-      ]
-    },
-    {
-      "title": "Shakira prepara una ciudad temática en Madrid para su residencia de doce conciertos",
-      "summary": "La cantante colombiana construirá un complejo inspirado en el realismo mágico con ocho pabellones dedicados a música, arte, gastronomía y cultura infantil dentro del recinto Iberdrola Music. El proyecto, presentado este viernes, abarcará doce presentaciones entre septiembre y octubre con capacidad para 50,000 espectadores. El equipo de producción destacó el mensaje de que España es latina como eje conceptual del montaje.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T15:12:06+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/anticipan-imagenes-de-como-sera-la-ciudad-de-shakira-para-su-residencia-en-madrid/" }
-      ]
-    },
-    {
-      "title": "El Ministerio Público apelará sentencia que ordena pagar 7.5 millones en el caso Camaleón",
-      "summary": "La Procuraduría Especializada de Persecución de la Corrupción Administrativa recurrió el fallo que obliga al Estado a indemnizar con 7.5 millones de pesos a un imputado por la incautación de su teléfono. Los fiscales sostienen que la jueza que emitió la resolución estaba desapoderada del expediente desde octubre de 2025 y que la figura jurídica utilizada fue desnaturalizada. El recurso de apelación será presentado dentro de los 20 días hábiles posteriores a la notificación.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T14:39:55+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/mp-apelara-fallo-que-ordena-pagar-rd7-5-millones-por-incautacion-de-celular-en-caso-camaleon/" }
-      ]
-    },
-    {
-      "title": "Policía ocupa armas y motocicletas en operativo en Moca mientras busca a presunto ladrón",
-      "summary": "Agentes de la Subdirección Regional de Investigación Criminal allanaron una vivienda en el sector El Perú de Moca en busca de un hombre señalado como coautor del robo de joyas ocurrido en mayo. Durante la intervención el sospechoso logró huir, pero los investigadores decomisaron dos pistolas, municiones y tres motocicletas. La Policía activó su protocolo de localización y captura para dar con el paradero del prófugo.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T14:23:01+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/policia-ocupa-dos-armas-y-retiene-motocicletas-durante-operativo-en-moca-busca-a-presunto-implicado-en-robo/" }
-      ]
-    },
-    {
-      "title": "Una madre denuncia que fiscales dejaron en libertad al agresor de su hija en La Victoria",
-      "summary": "Una residente del sector La Victoria, en Santo Domingo Norte, denunció que el hombre apodado Puntilla fue liberado horas después de ser arrestado por propinar una golpiza a su hija y a otra persona. La denunciante aseguró que el presunto agresor mantiene amenazas contra la víctima y que un fiscal dispuso su suelta sin medidas de protección. La mujer exigió a las autoridades reabrir el caso y garantizar la seguridad de su familia.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T14:22:10+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/madre-denuncia-liberacion-de-hombre-acusado-de-agredir-brutalmente-a-su-hija-en-la-victoria/" }
-      ]
-    },
-    {
-      "title": "Comunidad de Fantino lleva cinco meses incomunicada por la destrucción de un puente",
-      "summary": "Habitantes del sector Los Puentes, en Sánchez Ramírez, reclaman al Ministerio de Obras Públicas la reconstrucción urgente de la estructura que los conecta con el resto de la zona tras su colapso por la crecida de un arroyo. Los comunitarios aseguran que la ausencia del puente dificulta el transporte de estudiantes, trabajadores y agricultores desde hace más de 150 días. Los denunciantes calificaron la situación como desesperante y pidieron intervención inmediata del Gobierno.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T14:12:40+00:00",
-      "imageUrls": [
-        "https://n.com.do/wp-content/uploads/2026/07/puente-en-fantino-1024x768.jpeg"
-      ],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/puente-destruido-fantino-comunidad-incomunicada/" }
-      ]
-    },
-    {
-      "title": "Faride Raful defiende la reforma policial como la mayor transformación en nueve décadas",
-      "summary": "La ministra de Interior y Policía sostuvo que el proceso de modernización de la Policía Nacional representa el cambio más profundo desde la creación de la institución hace 90 años. Raful reconoció que la inseguridad sigue siendo una de las principales inquietudes ciudadanas, pero afirmó que el Gobierno someterá ante la justicia a los agentes que incurran en irregularidades. La funcionaria advirtió que existen sectores interesados en el fracaso de la reforma y ratificó el compromiso oficial con su consolidación.",
-      "category": "Noticias",
-      "pubDate": "2026-07-24T14:11:37+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/faride-sobre-reforma-policial-es-la-transformacion-mas-profunda-de-la-pn-en-90-anos/" }
-      ]
-    },
-    {
-      "title": "El futbolista Rodri será sometido a una cirugía de espalda la próxima semana",
-      "summary": "El centrocampista español del Manchester City, reciente campeón del mundo con su selección, se someterá a una operación el lunes para tratar un problema en la espalda, confirmó su entrenador Enzo Maresca. El técnico no precisó el tiempo de recuperación del ex ganador del Balón de Oro, quien ya superó una lesión del ligamento cruzado en 2024. Maresca descartó una salida del jugador del club pese a las especulaciones sobre su futuro.",
+      "title": "México cierra la fase preliminar del polo acuático invicta tras vencer a Cuba",
+      "summary": "La selección femenina mexicana completó la ronda preliminar del torneo de polo acuático de los Juegos Centroamericanos con cinco victorias en igual número de presentaciones y una diferencia de 99 goles a favor por 39 en contra. Las aztecas superaron a las cubanas 13 a 9 en el cierre de la primera fase y se medirán nuevamente contra ellas en una de las semifinales del sábado. Diana Guzmán lideró la ofensiva con cinco anotaciones, mientras que Lidialys Donatien aportó cinco goles por el equipo caribeño.",
       "category": "Deportes",
-      "pubDate": "2026-07-24T14:11:04+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/el-centrocampista-la-seleccion-espanola-rodri-sera-operado-de-la-espalda/" }
-      ]
-    },
-    {
-      "title": "La selección dominicana de polo acuático queda fuera de la pelea por medallas en los Centroamericanos",
-      "summary": "El equipo nacional cerró la fase preliminar del torneo con tres derrotas en igual número de presentaciones y solo avanzó por diferencia de goles en el Grupo A. Puerto Rico vapuleó a los dominicanos con un marcador de 28 a 3 en el complejo del Centro Olímpico Juan Pablo Duarte. La escuadra criolla disputará ahora posiciones entre el quinto y el octavo puesto, mientras Cuba mantiene su hegemonía histórica en la disciplina.",
-      "category": "Deportes",
-      "pubDate": "2026-07-24T14:07:41+00:00",
+      "pubDate": "2026-07-24T19:49:32+00:00",
       "imageUrls": [
-        "https://n.com.do/wp-content/uploads/2026/07/Cuba-f.jpg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/MEX-CUB-355x200.jpg"
       ],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/polo-acuatico-rd-sin-opciones-medallas-centroamericanos-santo-domingo-2026/" }
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/mexico-gana-y-finaliza-invicta-la-ronda-preliminar-de-polo-acuatico/" }
       ]
     },
     {
-      "title": "El Ministerio Público recurre la extinción del caso por la venta fraudulenta de terrenos en Los Tres Brazos",
-      "summary": "Los fiscales solicitaron a la Corte de Apelación que anule el fallo que cerró el proceso penal contra exfuncionarios y empresarios acusados de enajenar irregularmente más de cuatro millones de metros cuadrados de propiedades estatales. El fraude, valorado en más de 5,000 millones de pesos, habría funcionado mediante la transferencia de parcelas de la Corporación Dominicana de Empresas Estatales a empresas privadas que luego presionaron a los residentes del sector. El Ministerio Público busca reabrir el juicio y establecer responsabilidades penales.",
+      "title": "Copppal Juvenil rechaza cualquier intento de suspender elecciones en Nicaragua",
+      "summary": "La organización juvenil de la Conferencia Permanente de Partidos Políticos de América Latina y el Caribe emitió un comunicado en el que defiende el derecho a elecciones libres y periódicas en el país centroamericano. El texto, divulgado en el aniversario del natalicio de Simón Bolívar, sostiene que ningún gobierno puede situarse por encima de la voluntad ciudadana y exige garantías para todas las fuerzas políticas. La agrupación recordó que los pueblos latinoamericanos se forjaron en la lucha por la libertad y la soberanía popular.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T19:48:01+00:00",
+      "imageUrls": [
+        "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2018/06/Sede-de-la-Copppal-.jpg?resize=355%2C200&quality=100&ssl=1"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/copppal-juvenil-defiende-elecciones-libres-y-los-derechos-politicos-en-nicaragua/" }
+      ]
+    },
+    {
+      "title": "Elías Hasboun prepara declaraciones sobre el proceso interno del PRM en el Distrito Nacional",
+      "summary": "El dirigente perremeísta anunció que en los próximos días ofrecerá una rueda de prensa para presentar su valoración sobre la renovación de autoridades partidarias celebrada el 21 de julio. Hasboun señaló que sus observaciones sobre el mecanismo de elección por delegados buscaban fortalecer la transparencia y no generar confrontación. El político recordó que solicitó formalmente el listado de delegados habilitados para votar, petición que no obtuvo respuesta oportuna y generó inquietudes entre varios aspirantes.",
       "category": "Noticias",
-      "pubDate": "2026-07-24T14:07:20+00:00",
+      "pubDate": "2026-07-24T19:47:42+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Elias-355x200.jpeg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/elias-hasboun-anunciara-su-posicion-sobre-el-proceso-interno-del-prm-en-el-dn/" }
+      ]
+    },
+    {
+      "title": "La Corte Penal Internacional separa de su cargo al fiscal Karim Khan por presunta conducta sexual indebida",
+      "summary": "La Asamblea de los Estados Partes aprobó la destitución del fiscal británico-pakistaní con 82 votos a favor, 13 en contra y 15 abstenciones, superando la mayoría de 63 sufragios requerida. Khan negó las acusaciones de conducta inapropiada presentadas por una antigua colaboradora y denunció una campaña para apartarlo del cargo. El exfiscal asumió la Fiscalía en 2021 y ganó notoriedad al solicitar órdenes de captura contra el primer ministro israelí Benjamín Netanyahu en 2024.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T19:46:38+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/cpi-destituye-fiscal-karim-khan-355x200.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/paises-de-la-cpi-destituyen-al-fiscal-karim-khan/" }
+      ]
+    },
+    {
+      "title": "Donald Trump afirma que Venezuela aún no está lista para comicios pero reconoce avances",
+      "summary": "El mandatario estadounidense sostuvo que el país suramericano todavía no reúne las condiciones para celebrar elecciones, aunque admitió que se han producido progresos en esa dirección. La declaración se difundió este viernes y fue calificada como noticia en desarrollo por el medio que la publicó. El anuncio se produce en el contexto de las presiones de Washington sobre el régimen de Nicolás Maduro para abrir un proceso electoral.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T19:44:39+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/06/Trump-entrevista.jpg-355x200.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/trump-dice-que-venezuela-todavia-no-esta-preparada-para-elecciones-pero-hay-avances/" }
+      ]
+    },
+    {
+      "title": "Legisladores opositores reprochan al Gobierno por nuevos endeudamientos y alertan sobre la deuda pública",
+      "summary": "Diputados de la oposición cuestionaron la aprobación de préstamos por 265 millones de dólares destinados a seguridad vial y acusaron al Partido Revolucionario Moderno de hipotecar al país mediante un endeudamiento creciente. El legislador Ramón Raposo pidió cuentas al director del Intrant y al ministro de Obras Públicas sobre la efectividad de las políticas de tránsito, señalando que el país mantiene una de las tasas más altas de fatalidades viales. Su colega Tobías Crespo calificó al Congreso actual como el de los préstamos y exigió la interpelación de los funcionarios responsables.",
+      "category": "Negocios",
+      "pubDate": "2026-07-24T18:59:03+00:00",
       "imageUrls": [],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/que-solicita-el-ministerio-publico-en-el-caso-de-la-venta-ilegal-de-los-tres-brazos/" }
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/oposicion-critica-nuevos-prestamos-del-gobierno-asegura-prm-esta-hipotecando-el-pais/" }
+      ]
+    },
+    {
+      "title": "Profesionales agropecuarios marchan al Palacio Nacional y amenazan con recurrir a organismos internacionales",
+      "summary": "La Asociación Nacional de Profesionales Agropecuarios encabezó una manifestación hacia la sede del Ejecutivo para exigir respuestas a sus demandas laborales tras año y medio de espera. El gremio, que agrupa a técnicos del sector agropecuario, denunció bajos salarios, cancelaciones políticas y pensiones insuficientes, y anunció que llevará su queja ante la FAO y la OIT. El presidente de la organización, Tito Hernández, reveló que el Gobierno solicitó un informe económico de las demandas hace 14 semanas y aún no ha emitido respuesta.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T18:40:01+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/anpa-marcha-al-palacio-nacional-y-denuncia-maltrato-laboral-a-profesionales-agropecuarios/" }
+      ]
+    },
+    {
+      "title": "La Policía Nacional desplegará más de 500 efectivos para custodiar los Juegos Centroamericanos",
+      "summary": "El cuerpo del orden informó que distribuirá agentes en los principales escenarios deportivos del evento, incluyendo el Centro Olímpico Juan Pablo Duarte, la Villa Centroamericana y el Parque del Este. El operativo, coordinado con las Fuerzas Armadas, integra personal de la Policía Preventiva, la Digesett, Politur y los organismos de inteligencia. El director de Comunicaciones de la institución precisó que también se instalarán centros de mando en cada sede para atender cualquier incidencia de manera inmediata.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T18:35:41+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-26-at-11.05.12-AM-1-150x150.jpeg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/mas-de-500-agentes-policiales-custodiaran-los-juegos-centroamericanos-2026/" }
+      ]
+    },
+    {
+      "title": "Alex Saab se declara inocente ante la justicia estadounidense y solicita juicio con jurado federal",
+      "summary": "El exministro venezolano presentó su declaración de no culpabilidad ante la Corte del Distrito Sur de Florida por el cargo de conspiración para lavar instrumentos monetarios, y pidió que el caso sea resuelto por un jurado en Miami. Saab enfrenta una posible condena de hasta 20 años de prisión por un supuesto esquema de desvío de fondos destinados a la importación de alimentos para Venezuela. La acusación señala que utilizó empresas y facturas falsas para transferir recursos a través de cuentas bancarias estadounidenses.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T18:17:01+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/alex-saab-se-declara-no-culpable-de-lavado-de-activo-y-pide-ser-juzgado-por-un-jurado/" }
+      ]
+    },
+    {
+      "title": "El salsero Sexappeal anuncia gira internacional y nuevo disco por su aniversario número 25",
+      "summary": "El intérprete dominicano celebrará un cuarto de siglo de carrera con una gira por Europa y presentaciones en el United Palace y el Lima Center de Nueva York. El artista reveló que entre octubre y noviembre lanzará una nueva producción discográfica bajo la dirección de la compañía Los 4 Fantásticos, encabezada por el empresario Manny Espinal. Desde su salto a la fama en 2001 con el éxito La Llorona, el músico ha mantenido una trayectoria ininterrumpida que lo ha posicionado como referente de la salsa dominicana.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T18:10:11+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/sexappeal-trae-gira-u-nuevo-disco-en-celebracion-de-sus-25-anos-de-trayectoria/" }
+      ]
+    },
+    {
+      "title": "Faride Raful defiende la reforma policial como la transformación más profunda en nueve décadas",
+      "summary": "La ministra de Interior y Policía sostuvo que el proceso de modernización de la Policía Nacional representa el cambio institucional más significativo desde la fundación del cuerpo hace 90 años. Raful reconoció que la inseguridad sigue siendo una preocupación ciudadana y advirtió que existen sectores interesados en el fracaso de la reforma. La funcionaria destacó que se han realizado 515 mesas de seguridad en lo que va de año y anunció la elaboración de un proyecto de ley de convivencia ciudadana.",
+      "category": "Noticias",
+      "pubDate": "2026-07-24T17:48:03+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/Faride-Raful-150x150.jpg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/faride-raful-llama-a-respaldar-transformacion-de-la-policia-nacional-y-no-apostar-a-su-fracaso/" }
+      ]
+    },
+    {
+      "title": "La Unión Europea y Estados Unidos ajustan su pacto comercial tras los nuevos aranceles trumpistas",
+      "summary": "El acuerdo firmado hace un año en Escocia mantiene su capacidad para estabilizar las relaciones transatlánticas, aunque los gravámenes al acero y al aluminio introducen incertidumbre sobre su sostenibilidad. Washington presentó un paquete que afecta a 60 economías con un arancel máximo del 10 por ciento sobre determinados productos europeos, por debajo del techo del 15 por ciento pactado con Bruselas. La Comisión Europea valoró positivamente el anuncio pero cuestionó que el pretexto de la lucha contra el trabajo forzoso se utilice para justificar las medidas.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T17:46:06+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/Donald-Trump-150x150.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/las-claves-del-acuerdo-comercial-ue-eeuu-tras-los-nuevos-aranceles-de-trump/" }
+      ]
+    },
+    {
+      "title": "Benjamín Netanyahu visitará Washington la próxima semana para reunirse con Donald Trump",
+      "summary": "El primer ministro israelí viajará el lunes 27 de julio a la capital estadounidense, donde conversará con el presidente estadounidense el martes en la Casa Blanca. La cita constituye el primer encuentro entre ambos líderes desde febrero y se produce en medio de la escalada militar entre Estados Unidos e Irán. Netanyahu también participará en el funeral del senador Lindsey Graham, y las conversaciones abordarán la situación en el Líbano y las tensiones con Teherán.",
+      "category": "Mundo",
+      "pubDate": "2026-07-24T17:43:56+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/24/netanyahu-viajara-el-lunes-a-washington-y-se-reunira-el-martes-con-trump/" }
       ]
     }
   ]
