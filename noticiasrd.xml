@@ -5,34 +5,67 @@
     <link>https://lecodejedi.github.io/noticiasrd.xml</link>
     <description>Resumen diario de noticias dominicanas de las principales fuentes de prensa nacional.</description>
     <language>es</language>
-    <lastBuildDate>Sat, 25 Jul 2026 16:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 20:02:08 +0000</lastBuildDate>
     <generator>Noticias.RD RSS Summarizer</generator>
     <item>
-      <title>República Dominicana estrena su medallero con plata en remo centroamericano</title>
-      <description>La dupla dominicana de Carlos Rodríguez e Ignacio Vásquez conquistó la medalla de plata en la prueba de doble par de remos cortos peso ligero de los Juegos Centroamericanos y del Caribe, celebrada en la Presa de Rincón. Los remeros criollos completaron el recorrido en seis minutos y 56 segundos, quedando por detrás del par venezolano y por delante de los mexicanos. Esta presea representa la primera conquista del país en la justa regional.</description>
-      <category>Deportes</category>
-      <link>https://elnuevodiario.com.do/el-remo-dominicano-ofrece-la-primera-medalla-al-pais/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/el-remo-dominicano-ofrece-la-primera-medalla-al-pais/</guid>
-      <source url="https://elnuevodiario.com.do/el-remo-dominicano-ofrece-la-primera-medalla-al-pais/">El Nuevo Diario</source>
-      <comments>n.com.do: https://n.com.do/2026/07/25/republica-dominicana-primera-medalla-plata-remo-centroamericanos-2026/</comments>
-      <comments>Diario Libre: https://www.diariolibre.com/deportes/olimpismo/2026/07/25/republica-dominicana-gana-primera-medalla-en-los-centroamericanos/3610321</comments>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Dominicanos-355x200.jpeg" type="image/jpeg" />
-      <pubDate>Sat, 25 Jul 2026 15:00:37 +0000</pubDate>
+      <title>Joven se entrega a las autoridades por presunto envenenamiento de adolescente en Villa Liberación</title>
+      <description>Erickson Antonio Bonilla Villalona, de 20 años, acudió voluntariamente al Palacio de la Policía Nacional acompañado de su padre y abogado, tras estar bajo orden de captura por la muerte de una muchacha de 15 años. La madre de la adolescente sostiene que el joven la obligó a ingerir un herbicida, y las investigaciones del DICRIM y DEAMVI apuntan a que ambos mantenían una relación sentimental. El detenido quedó bajo custodia y será presentado ante el Ministerio Público mientras continúa el esclarecimiento del caso.</description>
+      <category>Noticias</category>
+      <link>https://n.com.do/2026/07/25/se-entrega-joven-acusado-de-obligar-a-una-adolescente-de-15-anos-a-ingerir-herbicida-que-le-provoco-la-muerte/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/25/se-entrega-joven-acusado-de-obligar-a-una-adolescente-de-15-anos-a-ingerir-herbicida-que-le-provoco-la-muerte/</guid>
+      <source url="https://n.com.do/2026/07/25/se-entrega-joven-acusado-de-obligar-a-una-adolescente-de-15-anos-a-ingerir-herbicida-que-le-provoco-la-muerte/">n.com.do</source>
+      <comments>El Día: https://eldia.com.do/se-entrega-a-la-policia-joven-imputado-de-envenenar-a-adolescente-en-villa-liberacion/</comments>
+      <comments>n.com.do: https://n.com.do/2026/07/25/se-entrega-joven-senalado-por-muerte-de-adolescente-que-ingirio-una-sustancia-toxica/</comments>
+      <pubDate>Sat, 25 Jul 2026 18:24:39 +0000</pubDate>
     </item>
     <item>
-      <title>Balance de fallecidos por doble sismo en Venezuela se eleva a 5.546</title>
-      <description>El gobierno venezolano actualizó la cifra de víctimas mortales tras los sismos de magnitud 7,2 y 7,5 que sacudieron el norte del país hace un mes, sumando 148 nuevos decesos para un total de 5.546. Las autoridades reportaron además 16.740 heridos y casi 18.000 personas que perdieron sus viviendas, mientras más de 23.800 permanecen en campamentos temporales. El Programa Mundial de Alimentos de la ONU ha atendido a más de 100.000 afectados desde que ocurrió la tragedia el pasado 24 de junio.</description>
+      <title>Abinader exhorta a los padres dominicanos a proteger y cuidar a sus familias</title>
+      <description>Durante la jornada "Padres que Protegen" organizada por la Dirección de Asistencia Social y Ayudas Comunitarias en el Ministerio de Defensa, el presidente Luis Abinader compartió almuerzo con mil quinientos jefes de familia y les pidió seguir cuidando de sus hogares. El mandatario destacó que la figura paterna no ha recibido históricamente la misma atención que la maternidad y elevó una plegaria para que Dios bendiga a cada padre del país. La actividad formó parte de los actos por el Día de los Padres, que se celebra el último domingo de julio.</description>
+      <category>Noticias</category>
+      <link>https://eldia.com.do/presidente-abinader-llama-a-los-padres-a-cuidar-y-proteger-siempre-a-sus-familias/</link>
+      <guid isPermaLink="true">https://eldia.com.do/presidente-abinader-llama-a-los-padres-a-cuidar-y-proteger-siempre-a-sus-familias/</guid>
+      <source url="https://eldia.com.do/presidente-abinader-llama-a-los-padres-a-cuidar-y-proteger-siempre-a-sus-familias/">El Día</source>
+      <comments>Diario Libre: https://www.diariolibre.com/politica/gobierno/2026/07/25/abinader-exhorta-a-los-padres-a-proteger-a-sus-familias-e-hijos/3610498</comments>
+      <comments>El Nuevo Diario: https://elnuevodiario.com.do/presidente-abinader-que-dios-bendiga-a-cada-padre-de-la-republica-dominicana/</comments>
+      <enclosure url="https://resources.diariolibre.com/images/2026/07/25/abinader-reconoce-a-padres-por-sus-aportes-a-la-familia-y-al-pais-a07781f7-focus-0-0-400-300.jpg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 18:36:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autoridades en Michigan investigan muerte de ocho miembros de una familia como posible homicidio-suicidio</title>
+      <description>Ocho personas de una misma familia, entre ellas seis menores de entre cinco y quince años, fueron halladas sin vida en una vivienda incendiada en Grand Haven Township, junto al lago Michigan. El capitán de policía Jacob Sparks informó que algunos cadáveres presentaban heridas de bala, lo que llevó a los investigadores a barajar la hipótesis de un homicidio-suicidio, aunque aún aguardan los resultados de las autopsias. Las autoridades descartaron que exista una amenaza para la comunidad, ya que todas las víctimas estaban dentro de la residencia.</description>
       <category>Mundo</category>
-      <link>https://eldia.com.do/sube-a-5-546-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/</link>
-      <guid isPermaLink="true">https://eldia.com.do/sube-a-5-546-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/</guid>
-      <source url="https://eldia.com.do/sube-a-5-546-la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela/">El Día</source>
-      <comments>Diario Libre: https://www.diariolibre.com/mundo/america-latina/2026/07/24/terremoto-en-venezuela-junio-y-su-impacto-en-la-poblacion/3609973</comments>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/15_Glo_1p01-150x150.jpg" type="image/jpeg" />
-      <pubDate>Sat, 25 Jul 2026 12:44:23 +0000</pubDate>
+      <link>https://eldia.com.do/ocho-muertos-incluyendo-seis-ninos-en-un-posible-homicidio-suicidio-en-eeuu/</link>
+      <guid isPermaLink="true">https://eldia.com.do/ocho-muertos-incluyendo-seis-ninos-en-un-posible-homicidio-suicidio-en-eeuu/</guid>
+      <source url="https://eldia.com.do/ocho-muertos-incluyendo-seis-ninos-en-un-posible-homicidio-suicidio-en-eeuu/">El Día</source>
+      <comments>Diario Libre: https://www.diariolibre.com/usa/actualidad/2026/07/25/ocho-muertos-en-posible-homicidio-suicidio-en-ee-uu/3610471</comments>
+      <enclosure url="https://resources.diariolibre.com/images/2026/07/25/incendio-homicidio-suicidio-7c5de847-focus-0-0-400-300.jpg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 17:09:28 +0000</pubDate>
     </item>
     <item>
-      <title>Abinader da apertura oficial a los Juegos Centroamericanos y del Caribe Santo Domingo 2026</title>
-      <description>El presidente Luis Abinader declaró inaugurados los XXV Juegos Centroamericanos y del Caribe desde el Estadio Olímpico Félix Sánchez, en una ceremonia que contó con la presencia de la vicepresidenta Raquel Peña y la primera dama Raquel Arbaje. La justa multideportiva reúne a naciones de la región y se extenderá hasta el 8 de agosto en diversas sedes del país. También asistieron el expresidente Hipólito Mejía y el presidente del Senado, Ricardo de los Santos.</description>
+      <title>Ciclista cubana Marlies Mejías conquista el oro en contrarreloj de los Juegos Centroamericanos</title>
+      <description>La pedalista antillana Marlies Mejías, de 33 años, cubrió el recorrido en 40 minutos y 15 segundos para adjudicarse la presea dorada en la prueba de contrarreloj de los XXV Juegos Centroamericanos y del Caribe que se disputan en Santo Domingo. La plata fue para la mexicana Sara Roel y el bronce para la trinitense Teniel Campbell. Mejías, con un amplio palmarés que incluye medallas en juegos panamericanos y centroamericanos anteriores, declaró que la paciencia en la primera vuelta y el intenso entrenamiento previo fueron clave para su triunfo.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/la-cubana-marlies-mejias-se-lleva-el-oro-en-la-contrarreloj-de-los-juegos-centroamericanos/</link>
+      <guid isPermaLink="true">https://eldia.com.do/la-cubana-marlies-mejias-se-lleva-el-oro-en-la-contrarreloj-de-los-juegos-centroamericanos/</guid>
+      <source url="https://eldia.com.do/la-cubana-marlies-mejias-se-lleva-el-oro-en-la-contrarreloj-de-los-juegos-centroamericanos/">El Día</source>
+      <comments>Diario Libre: https://www.diariolibre.com/revista/musica/2026/07/24/el-merengue-cierra-con-broche-de-oro-show-de-juegos-centroamericanos/3610092</comments>
+      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/baile-150x150.jpg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 15:59:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remeros dominicanos conquistan la primera medalla para el país en los Centroamericanos</title>
+      <description>Carlos Rodríguez e Ignacio Vásquez estrenaron el medallero dominicano al colgarse la plata en la prueba de doble par de remos cortos peso ligero masculino del Centro de Remo y Canotaje de la Presa de Rincón, en Monseñor Nouel. La dupla quisqueyana completó el recorrido en seis minutos y 56 segundos, superada únicamente por los venezolanos José Guipe y César Amaris, mientras que el bronce fue para los mexicanos. Rodríguez y Vásquez dedicaron la presea a los aficionados al remo nacional y atribuyeron el logro a los meses de ardua preparación previa a la competencia.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/remeros-rd-estrenan-el-pais-medallero-fcc-2026/</link>
+      <guid isPermaLink="true">https://eldia.com.do/remeros-rd-estrenan-el-pais-medallero-fcc-2026/</guid>
+      <source url="https://eldia.com.do/remeros-rd-estrenan-el-pais-medallero-fcc-2026/">El Día</source>
+      <comments>Diario Libre: https://www.diariolibre.com/deportes/olimpismo/2026/07/25/republica-dominicana-gana-primera-medalla-en-los-centroamericanos/3610321</comments>
+      <enclosure url="https://resources.diariolibre.com/images/2026/07/25/republica-dominicana-gana-primera-medalla-en-los-centroamericanos-f8790e9f-focus-min0.03-0.39-400-300.jpg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 15:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Abinader declara abiertos los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026</title>
+      <description>Desde un palco del Estadio Olímpico Félix Sánchez, el presidente Luis Abinader proclamó el inicio oficial de los Juegos Centroamericanos y del Caribe, que se extenderán hasta el 8 de agosto con la participación de miles de atletas de 37 países. El mandatario estuvo acompañado por la vicepresidenta Raquel Peña, la primera dama Raquel Arbaje y el expresidente Hipólito Mejía, entre otras personalidades. La ceremonia contó con un espectáculo musical que rindió homenaje a la cultura caribeña y cerró con un set de merengue como broche de oro.</description>
       <category>Deportes</category>
       <link>https://www.diariolibre.com/deportes/juegoscentrocaribe/2026/07/24/abinader-inaugura-los-juegos-centroamericanos-y-del-caribe-2026/3610071</link>
       <guid isPermaLink="true">https://www.diariolibre.com/deportes/juegoscentrocaribe/2026/07/24/abinader-inaugura-los-juegos-centroamericanos-y-del-caribe-2026/3610071</guid>
@@ -42,195 +75,159 @@
       <pubDate>Fri, 24 Jul 2026 22:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>España unifica el mando ante incendios que afectan a más de 88.000 personas</title>
-      <description>Dos grandes incendios forestales en las provincias españolas de Madrid y Ávila han consumido alrededor de 25.000 hectáreas y afectan a más de 88.500 personas entre evacuados y confinados. El presidente del Gobierno, Pedro Sánchez, ordenó unificar el mando de emergencia para gestionar ambos siniestros como uno solo, dado que se encuentran próximos y descontrolados. El despliegue incluye más de 1.200 militares y unidades de la Unidad Militar de Emergencias, mientras las llamas avanzan impulsadas por vientos cambiantes en zonas montañosas.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/incendios-arrasan-espana-y-dejan-88-500-afectados/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/incendios-arrasan-espana-y-dejan-88-500-afectados/</guid>
-      <source url="https://elnuevodiario.com.do/incendios-arrasan-espana-y-dejan-88-500-afectados/">El Nuevo Diario</source>
-      <comments>El Día: https://eldia.com.do/incendios-dejan-73-mil-evacuados-y-25-mil-hectareas-forestales-quemadas-en-el-centro-de-espana/</comments>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/08/incendios-galicia-5-355x200.webp" type="image/webp" />
-      <pubDate>Sat, 25 Jul 2026 15:52:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Congreso dominicano aprueba en menos de 24 horas nueva deuda por US$465 millones</title>
-      <description>El Senado de la República autorizó al Poder Ejecutivo contraer dos nuevos empréstitos con el Banco Interamericano de Desarrollo por un total de US$465 millones, en un trámite que se completó en menos de un día. La bancada del PRM y sus aliados impulsaron la aprobación sin someter los contratos a comisión de estudio, lo que provocó el rechazo unánime de las fuerzas opositoras. Los legisladores de la Fuerza del Pueblo, el PLD y el PRD denunciaron la rapidez del proceso y el creciente nivel de endeudamiento público.</description>
-      <category>Negocios</category>
-      <link>https://elnuevodiario.com.do/la-hipoteca-del-pais-no-se-detiene-aprueban-a-vapor-us465-millones/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/la-hipoteca-del-pais-no-se-detiene-aprueban-a-vapor-us465-millones/</guid>
-      <source url="https://elnuevodiario.com.do/la-hipoteca-del-pais-no-se-detiene-aprueban-a-vapor-us465-millones/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/ManuelAntonioVega-911-1-250x200.jpeg" type="image/jpeg" />
-      <pubDate>Sat, 25 Jul 2026 15:52:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Especialista señala la planificación del embarazo como clave para prevenir trastornos del neurodesarrollo</title>
-      <description>La psicóloga clínica Lin Coss advirtió que la planificación gestacional y el cuidado de la salud materna son factores decisivos para reducir el riesgo de trastornos del neurodesarrollo en los niños, incluido el déficit de atención e hiperactividad. La especialista identificó como factores de riesgo el consumo de alcohol, tabaco y otras sustancias durante el embarazo, así como la desnutrición, las infecciones no tratadas y condiciones emocionales como la ansiedad o la depresión. Coss destacó además el desconocimiento generalizado sobre estas patologías, lo que genera estigmas alrededor de quienes las padecen.</description>
-      <category>Ciencia</category>
-      <link>https://elnuevodiario.com.do/psicologa-destaca-importancia-de-planificar-el-embarazo-para-prevenir-trastornos-del-neurodesarrollo/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/psicologa-destaca-importancia-de-planificar-el-embarazo-para-prevenir-trastornos-del-neurodesarrollo/</guid>
-      <source url="https://elnuevodiario.com.do/psicologa-destaca-importancia-de-planificar-el-embarazo-para-prevenir-trastornos-del-neurodesarrollo/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/f2bb0cb3-2164-41c1-843f-1d8a4f1807d4-355x200.jpg" type="image/jpeg" />
-      <pubDate>Sat, 25 Jul 2026 15:47:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Francia moviliza a 1.500 militares para combatir incendios forestales en la región de Burdeos</title>
-      <description>El Ministerio de Defensa francés elevó a 1.500 el número de efectivos militares desplegados contra los incendios forestales que afectan varias regiones del país, con especial gravedad en la zona de Burdeos. El operativo incluye equipos médicos, grupos de ingenieros con maquinaria pesada para crear cortafuegos y helicópteros de apoyo logístico. Los militares se encargan de la evacuación de residentes, la protección de viviendas y la salvaguarda de instalaciones industriales en áreas amenazadas por las llamas.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/francia-despliega-ejercito-contra-incendios-forestales/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/francia-despliega-ejercito-contra-incendios-forestales/</guid>
-      <source url="https://elnuevodiario.com.do/francia-despliega-ejercito-contra-incendios-forestales/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/rss-efe0fc5a710db580ddab8855afc05ca184ce1d72b57w-355x200.jpg" type="image/jpeg" />
-      <pubDate>Sat, 25 Jul 2026 15:38:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>El titular de la Mescyt celebra la paternidad como pilar de la formación ciudadana</title>
-      <description>El ministro de Educación Superior, Ciencia y Tecnología, Rafael Santos Badía, felicitó a los padres dominicanos con motivo de su día y resaltó el papel fundamental de la paternidad en la formación de ciudadanos íntegros. El funcionario describió la crianza con amor, disciplina y sentido del deber como uno de los mayores aportes al desarrollo nacional. Santos Badía compartió una reflexión personal sobre sus hijos Amelia y Rafelín, a quienes llamó su brújula y mayor inspiración.</description>
+      <title>Gabinete de Política Social lleva servicios de salud y asistencia a familias de Yaguate</title>
+      <description>El Gabinete de Política Social desarrolló una jornada de inclusión social en el sector Pajarito, municipio Yaguate, provincia San Cristóbal, donde los residentes recibieron consultas médicas, medicamentos gratuitos y afiliación al Seguro Nacional de Salud. La actividad, encabezada por la coordinadora Geanilda Vásquez, también incluyó orientación de instituciones como Conape, Conadis y Punto Solidario, además de la entrega de raciones alimenticias, canastillas y mosquiteros para embarazadas. Vásquez aprovechó el encuentro para explicar programas como CEDI-Mujer y Oportunidad, orientados a mejorar las condiciones de vida de las comunidades.</description>
       <category>Noticias</category>
-      <link>https://elnuevodiario.com.do/titular-mescyt-resalta-legado-de-los-padres-dominicanos-en-su-dia/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/titular-mescyt-resalta-legado-de-los-padres-dominicanos-en-su-dia/</guid>
-      <source url="https://elnuevodiario.com.do/titular-mescyt-resalta-legado-de-los-padres-dominicanos-en-su-dia/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Mescyt-reorganiza-programa-de-becas-de-la-UASD-tras-detectar-incumplimientos-en-expedientes-355x200.jpeg" type="image/jpeg" />
-      <pubDate>Sat, 25 Jul 2026 15:22:57 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/gabinete-de-politica-social-realiza-jornada-de-inclusion-social-en-yaguate/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/gabinete-de-politica-social-realiza-jornada-de-inclusion-social-en-yaguate/</guid>
+      <source url="https://elnuevodiario.com.do/gabinete-de-politica-social-realiza-jornada-de-inclusion-social-en-yaguate/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Gabinete-de-Politica-Social-acerca-servicios-y-oportunidades-a-familias-de-Yaguate-con-Jornada-de-Inclusion-Social-4-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 20:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>Rusia y Estados Unidos descartan el marco negociador previo y reinician el diálogo sobre Ucrania desde cero</title>
-      <description>Moscú y Washington dieron por terminado el esquema de negociaciones que rigió durante el último año para buscar la paz en Ucrania y acordaron construir cualquier avance futuro desde nuevas bases. El proceso quedó paralizado en febrero tras la escalada del conflicto en Irán y los cambios en el escenario bélico, que debilitaron los compromisos informales abordados en la cumbre de Anchorage entre Putin y Trump. La ofensiva creciente de Ucrania en territorio ruso también modificó el equilibrio estratégico y redujo las posibilidades de revivir los acuerdos anteriores.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/rusia-y-ee-uu-reinician-desde-cero-el-proceso-de-paz-sobre-ucrania/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/rusia-y-ee-uu-reinician-desde-cero-el-proceso-de-paz-sobre-ucrania/</guid>
-      <source url="https://elnuevodiario.com.do/rusia-y-ee-uu-reinician-desde-cero-el-proceso-de-paz-sobre-ucrania/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/trump-putin-negociaciones-guerra-ucrania-355x200.webp" type="image/webp" />
-      <pubDate>Sat, 25 Jul 2026 15:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Legislador del PRM alerta sobre el rezago de proyectos clave al cierre de cada legislatura</title>
-      <description>El diputado Eugenio Cedeño, del Partido Revolucionario Moderno, calificó como un problema crónico la cantidad de proyectos de ley relevantes que quedan pendientes al finalizar cada legislatura en el Congreso Nacional. El representante por La Romana urgió al liderazgo de la Cámara de Diputados a priorizar la agenda legislativa, citando como ejemplos las reformas pendientes a la Seguridad Social, el Código Laboral y la Policía Nacional. La legislatura actual concluye el próximo 26 de julio.</description>
-      <category>Noticias</category>
-      <link>https://elnuevodiario.com.do/diputado-cedeno-es-un-cancer-no-aprobacion-de-proyectos-importantes-en-cada-legislatura/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/diputado-cedeno-es-un-cancer-no-aprobacion-de-proyectos-importantes-en-cada-legislatura/</guid>
-      <source url="https://elnuevodiario.com.do/diputado-cedeno-es-un-cancer-no-aprobacion-de-proyectos-importantes-en-cada-legislatura/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Eugenio-Cedeno-2-355x200.jpg" type="image/jpeg" />
-      <pubDate>Sat, 25 Jul 2026 15:08:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>San Cristóbal distingue a empresas y líderes en su quinta edición del Reconocimiento al Mérito Empresarial</title>
-      <description>El Consejo Empresarial por el Desarrollo de San Cristóbal realizó la quinta entrega del Reconocimiento al Mérito Empresarial, un galardón que resalta la trayectoria, la innovación y el compromiso social de empresas e instituciones de la provincia. La ceremonia se celebró en el Instituto Politécnico Loyola y contó con la participación del viceministro de Comercio Exterior, Daniel Peña, quien valoró la contribución del empresariado local al crecimiento económico nacional. El presidente del consejo, Vlamirdi Ruiz, destacó que el evento consolida una plataforma para visibilizar el talento y el liderazgo productivo regional.</description>
-      <category>Negocios</category>
-      <link>https://elnuevodiario.com.do/cepedsc-celebra-quinta-edicion-del-reconocimiento-al-merito-empresarial-2026-en-san-cristobal/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/cepedsc-celebra-quinta-edicion-del-reconocimiento-al-merito-empresarial-2026-en-san-cristobal/</guid>
-      <source url="https://elnuevodiario.com.do/cepedsc-celebra-quinta-edicion-del-reconocimiento-al-merito-empresarial-2026-en-san-cristobal/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Miembros-del-Consejo-Empresarial-entregan-el-Reconocimiento-Especial-a-la-Dra.-Evarista-Vasquez-Vda.-de-Nina-355x200.jpeg" type="image/jpeg" />
-      <pubDate>Sat, 25 Jul 2026 14:49:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indomet prevé sensación térmica de hasta 46 grados en varias demarcaciones del país</title>
-      <description>El Instituto Dominicano de Meteorología pronosticó temperaturas elevadas para el sábado en casi todo el territorio nacional, con una sensación térmica que podría alcanzar los 46 grados Celsius en provincias como Santiago, Puerto Plata, La Altagracia y el Distrito Nacional. El organismo señaló que el polvo del Sáhara mantendrá el cielo ligeramente grisáceo, mientras que una onda tropical al sur del país podría provocar aguaceros aislados y tronadas en localidades de El Seibo, Monte Plata y San Juan. Las temperaturas máximas oscilarán entre 33 y 35 grados.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/25/que-calor-varias-provincias-y-el-dn-tendran-sensacion-termica-de-hasta-46-c/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/25/que-calor-varias-provincias-y-el-dn-tendran-sensacion-termica-de-hasta-46-c/</guid>
-      <source url="https://n.com.do/2026/07/25/que-calor-varias-provincias-y-el-dn-tendran-sensacion-termica-de-hasta-46-c/">n.com.do</source>
-      <pubDate>Sat, 25 Jul 2026 14:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comunidades de Villa Mella reclaman tras pasar más de dos días sin servicio eléctrico</title>
-      <description>Moradores de los sectores Los Arqueanos, Remanso, Carlos Álvarez y La 28, en Villa Mella, denunciaron que llevan más de 48 horas sin energía eléctrica, una situación que ha generado pérdidas económicas y afectado a cientos de familias. Los residentes señalaron que niños y personas mayores sufren las altas temperaturas nocturnas sin ventilación, mientras que comerciantes reportan el deterioro de productos perecederos por falta de refrigeración. Aunque el servicio retorna de manera intermitente, los vecinos se quejan de constantes fluctuaciones de voltaje que dañan sus electrodomésticos.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/residentes-de-los-arqueanos-remanso-carlos-alvarez-y-la-28-denuncian-dos-dias-sin-energia-electrica/</link>
-      <guid isPermaLink="true">https://eldia.com.do/residentes-de-los-arqueanos-remanso-carlos-alvarez-y-la-28-denuncian-dos-dias-sin-energia-electrica/</guid>
-      <source url="https://eldia.com.do/residentes-de-los-arqueanos-remanso-carlos-alvarez-y-la-28-denuncian-dos-dias-sin-energia-electrica/">El Día</source>
-      <pubDate>Sat, 25 Jul 2026 14:03:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shakira se despide con emoción del grupo infantil Ghetto Kids tras su gira por Estados Unidos</title>
-      <description>La cantante colombiana Shakira se despidió afectuosamente del grupo de bailarines infantiles Ghetto Kids, originarios de Uganda, quienes la acompañaron en el espectáculo de medio tiempo de la final del Mundial 2026 y en varios conciertos de su gira. En un video difundido en redes sociales, la artista prometió a los niños una amistad duradera en un momento que conmovió a sus seguidores. La colaboración surgió tras difundirse una coreografía del grupo sobre la canción oficial del certamen, lo que llevó a la intérprete a invitarlos a compartir escenario.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/25/shakira-emotiva-despedida-ghetto-kids-mundial-2026/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/25/shakira-emotiva-despedida-ghetto-kids-mundial-2026/</guid>
-      <source url="https://n.com.do/2026/07/25/shakira-emotiva-despedida-ghetto-kids-mundial-2026/">n.com.do</source>
-      <pubDate>Sat, 25 Jul 2026 13:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capturan a un presunto autor del homicidio de un hombre en Villa Mella</title>
-      <description>La Subdirección Central de Investigación apresó a Rigoberto Amador Encarnación, alias Esmil, señalado como uno de los cuatro implicados en el asesinato a tiros de Junior Fermín Belén ocurrido la madrugada del miércoles en Punta de Villa Mella. El detenido admitió su participación en el crimen, según la Policía Nacional, que informó haber recuperado el vehículo utilizado en el ataque. Los otros tres sospechosos, identificados por sus alias, permanecen prófugos mientras las autoridades mantienen activa su búsqueda.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/25/dicrim-captura-a-uno-de-los-presuntos-responsables-del-homicidio-de-un-hombre-en-villa-mella/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/25/dicrim-captura-a-uno-de-los-presuntos-responsables-del-homicidio-de-un-hombre-en-villa-mella/</guid>
-      <source url="https://n.com.do/2026/07/25/dicrim-captura-a-uno-de-los-presuntos-responsables-del-homicidio-de-un-hombre-en-villa-mella/">n.com.do</source>
-      <pubDate>Sat, 25 Jul 2026 13:25:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medio Ambiente impulsa estrategia de restauración para la cuenca del río Yaque del Norte</title>
-      <description>El Ministerio de Medio Ambiente informó sobre las acciones coordinadas que ejecuta para proteger y recuperar la principal cuenca hidrográfica del país, en el marco del Día Nacional del Río Yaque del Norte. La estrategia abarca la gestión sostenible del agua, la conservación de suelos, la recuperación de áreas degradadas y el fortalecimiento de la gobernanza ambiental, en alianza con gobiernos locales y organismos de cooperación. El ministro Paíno Henríquez destacó que esta labor forma parte de una visión nacional para garantizar la seguridad hídrica del país.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/que-hace-el-gobierno-para-proteger-y-restaurar-la-cuenca-del-rio-yaque-del-norte/</link>
-      <guid isPermaLink="true">https://eldia.com.do/que-hace-el-gobierno-para-proteger-y-restaurar-la-cuenca-del-rio-yaque-del-norte/</guid>
-      <source url="https://eldia.com.do/que-hace-el-gobierno-para-proteger-y-restaurar-la-cuenca-del-rio-yaque-del-norte/">El Día</source>
-      <pubDate>Sat, 25 Jul 2026 13:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>LeBron James se suma a los Philadelphia 76ers y agota su camiseta en horas</title>
-      <description>El baloncestista LeBron James anunció su incorporación a los Philadelphia 76ers, un movimiento que generó tal expectativa que su camiseta número 23 se agotó en la tienda oficial Fanatics antes de disputar su primer encuentro. El máximo anotador histórico de la NBA firmará un contrato de dos temporadas por ocho millones de dólares, una cifra muy inferior a lo que percibía en Los Angeles Lakers. James afirmó que su decisión responde al deseo de seguir compitiendo y conquistar un nuevo campeonato, no a motivos económicos.</description>
+      <title>Abinader inaugura centro de iniciación deportiva escolar con inversión de RD$38 millones</title>
+      <description>El presidente Luis Abinader entregó un nuevo Centro de Iniciación Deportiva Escolar en el Hogar Escuela Santo Domingo Savio, una obra construida por el Instituto Nacional de Educación Física con una inversión de 38 millones de pesos. El director ejecutivo del Inefi, Alberto Rodríguez, señaló que las escuelas son la cantera donde nacen los futuros campeones del país y destacó la transformación del deporte escolar dominicano. El centro busca ofrecer a niños y jóvenes la formación especializada necesaria para proyectarse hacia escenarios nacionales e internacionales.</description>
       <category>Deportes</category>
-      <link>https://n.com.do/2026/07/25/lebron-james-philadelphia-76ers-camiseta-agotada/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/25/lebron-james-philadelphia-76ers-camiseta-agotada/</guid>
-      <source url="https://n.com.do/2026/07/25/lebron-james-philadelphia-76ers-camiseta-agotada/">n.com.do</source>
-      <pubDate>Sat, 25 Jul 2026 13:17:04 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/abinader-entrega-centro-de-iniciacion-deportiva-en-el-hogar-escuela-santo-domingo-savio/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/abinader-entrega-centro-de-iniciacion-deportiva-en-el-hogar-escuela-santo-domingo-savio/</guid>
+      <source url="https://elnuevodiario.com.do/abinader-entrega-centro-de-iniciacion-deportiva-en-el-hogar-escuela-santo-domingo-savio/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Abinader-entrega-Centro-de-Iniciacion-Deportiva-en-el-Hogar-Escuela-Santo-Domingo-Savio-7-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 19:59:56 +0000</pubDate>
     </item>
     <item>
-      <title>Autoridades controlan incendio en hotel fuera de operación en Puerto Plata</title>
-      <description>El incendio registrado en las instalaciones del antiguo hotel RIU Mambo, en el distrito municipal de Maimón, fue completamente controlado sin reportar víctimas ni personas lesionadas. El director regional norte del Ministerio de Turismo, Atahualpa Paulino, precisó que el inmueble afectado se encontraba fuera de operación y sin huéspedes, por lo que las operaciones de los hoteles Senator Bachata y Senator Puerto Plata continúan con normalidad. Bomberos, Defensa Civil y Politur participaron en las labores de contención del siniestro.</description>
+      <title>Carolina Mejía destaca la paternidad responsable como cimiento de ciudadanos ejemplares</title>
+      <description>La alcaldesa del Distrito Nacional, Carolina Mejía, sostuvo que los hombres y mujeres de bien se forjan en el hogar gracias al esfuerzo y los valores inculcados por los padres. Durante la jornada "Padres que Protegen" organizada por Dasac, agradeció a Dios por su padre, Hipólito Mejía, y por el padre de sus hijos, y bendijo a todos los progenitores dominicanos. La también aspirante presidencial enfatizó que los buenos hijos no crecen de forma silvestre, sino que son fruto del compromiso familiar.</description>
       <category>Noticias</category>
-      <link>https://n.com.do/2026/07/25/controlan-incendio-en-antiguo-hotel-riu-mambo-operaciones-turisticas-en-maimon-continuan-con-normalidad/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/25/controlan-incendio-en-antiguo-hotel-riu-mambo-operaciones-turisticas-en-maimon-continuan-con-normalidad/</guid>
-      <source url="https://n.com.do/2026/07/25/controlan-incendio-en-antiguo-hotel-riu-mambo-operaciones-turisticas-en-maimon-continuan-con-normalidad/">n.com.do</source>
-      <pubDate>Sat, 25 Jul 2026 13:15:33 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/carolina-mejia-resalta-la-paternidad-responsable-como-base-para-formar-ciudadanos-de-bien/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/carolina-mejia-resalta-la-paternidad-responsable-como-base-para-formar-ciudadanos-de-bien/</guid>
+      <source url="https://elnuevodiario.com.do/carolina-mejia-resalta-la-paternidad-responsable-como-base-para-formar-ciudadanos-de-bien/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Carolina-Mejia-resalta-la-paternidad-responsable-como-base-para-formar-ciudadanos1-de-bien-355x200.gif" type="image/gif" />
+      <pubDate>Sat, 25 Jul 2026 19:43:41 +0000</pubDate>
     </item>
     <item>
-      <title>Ofensivas cruzadas de drones se cobran vidas civiles en la guerra ruso-ucraniana</title>
-      <description>Las fuerzas ucranianas atacaron centros turísticos en la región de Zaporiyia bajo control ruso, causando ocho muertos incluidos dos menores, mientras un dron ruso impactó una instalación civil en Sumy y mató a tres personas. Funcionarios instalados por Moscú reportaron además 14 heridos en Zaporiyia, donde las imágenes mostraron columnas de humo sobre las instalaciones afectadas. Un ataque ruso con drones también alcanzó un centro comercial en la misma región y provocó un incendio que se extendió por 500 metros cuadrados.</description>
-      <category>Mundo</category>
-      <link>https://eldia.com.do/ataque-de-ucrania-genera-incendio-en-otra-refineria-rusa-putin-admite-escasez-de-combustible/</link>
-      <guid isPermaLink="true">https://eldia.com.do/ataque-de-ucrania-genera-incendio-en-otra-refineria-rusa-putin-admite-escasez-de-combustible/</guid>
-      <source url="https://eldia.com.do/ataque-de-ucrania-genera-incendio-en-otra-refineria-rusa-putin-admite-escasez-de-combustible/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/download-2-8-150x150.webp" type="image/webp" />
-      <pubDate>Sat, 25 Jul 2026 13:13:28 +0000</pubDate>
+      <title>DNCD decomisa más de tres kilos de drogas y apresa nueve personas en allanamientos del Este</title>
+      <description>La Dirección Nacional de Control de Drogas, en conjunto con el Ministerio Público, realizó siete allanamientos y 95 operativos de interdicción en San Pedro de Macorís, Hato Mayor, Juan Dolió y Monte Plata. Los procedimientos dejaron nueve personas detenidas y el decomiso de más de tres kilos y medio de sustancias narcóticas, además de dinero en efectivo, teléfonos, un radio de comunicación y dos balanzas. La institución antidrogas reiteró su compromiso de mantener la vigilancia para erradicar la distribución de estupefacientes en el territorio nacional.</description>
+      <category>Noticias</category>
+      <link>https://elnuevodiario.com.do/apresan-varias-personas-y-ocupan-drogas-durante-operativos-en-la-region-este/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/apresan-varias-personas-y-ocupan-drogas-durante-operativos-en-la-region-este/</guid>
+      <source url="https://elnuevodiario.com.do/apresan-varias-personas-y-ocupan-drogas-durante-operativos-en-la-region-este/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Operativo-DNCD-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 19:40:37 +0000</pubDate>
     </item>
     <item>
-      <title>El secretario general de la ONU arriba a Siria en su primera visita desde 2009</title>
-      <description>António Guterres llegó a Damasco para una visita de tres días, la primera que realiza un secretario general de la ONU a Siria desde 2009, antes del estallido de la guerra civil. El jefe de la organización fue recibido por el ministro de Asuntos Exteriores sirio, Asaad al Shaibani, y sostendrá reuniones con el presidente Ahmed al Sharaa y representantes de la sociedad civil. Guterres calificó el viaje como una muestra de solidaridad y pidió a la comunidad internacional sostener el apoyo al pueblo sirio en su proceso de transición.</description>
-      <category>Mundo</category>
-      <link>https://n.com.do/2026/07/25/antonio-guterres-inicia-historica-visita-a-siria-la-primera-de-un-secretario-general-de-la-onu-desde-2009/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/25/antonio-guterres-inicia-historica-visita-a-siria-la-primera-de-un-secretario-general-de-la-onu-desde-2009/</guid>
-      <source url="https://n.com.do/2026/07/25/antonio-guterres-inicia-historica-visita-a-siria-la-primera-de-un-secretario-general-de-la-onu-desde-2009/">n.com.do</source>
-      <pubDate>Sat, 25 Jul 2026 13:08:05 +0000</pubDate>
+      <title>Estados Unidos arancelea productos dominicanos vinculados a presunto trabajo forzoso</title>
+      <description>Un informe del Departamento de Trabajo de Estados Unidos identifica bienes dominicanos como café, arroz, tomates, productos horneados y caña de azúcar como posibles productos de trabajo forzoso o infantil, lo que sustenta la decisión de aplicar nuevos aranceles a las importaciones desde República Dominicana. La caña de azúcar figura en la lista de manera ininterrumpida desde 2009, y el 92.5 por ciento del azúcar dominicana exportada tiene como destino el mercado estadounidense. El documento señala que los trabajadores de origen haitiano son los más vulnerables a estas condiciones en plantaciones de empresas privadas, estatales y pequeños productores.</description>
+      <category>Negocios</category>
+      <link>https://n.com.do/2026/07/25/nuevos-aranceles-ee-uu-senala-productos-dominicanos-por-presunto-trabajo-forzoso-segun-informe/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/25/nuevos-aranceles-ee-uu-senala-productos-dominicanos-por-presunto-trabajo-forzoso-segun-informe/</guid>
+      <source url="https://n.com.do/2026/07/25/nuevos-aranceles-ee-uu-senala-productos-dominicanos-por-presunto-trabajo-forzoso-segun-informe/">n.com.do</source>
+      <pubDate>Sat, 25 Jul 2026 19:35:30 +0000</pubDate>
     </item>
     <item>
-      <title>Venezuela reorganiza la cúpula militar con nuevos jefes operativos y de defensa</title>
-      <description>La presidenta encargada de Venezuela, Delcy Rodríguez, anunció una amplia reestructuración de la Fuerza Armada Nacional Bolivariana que incluye el relevo del jefe del Comando Estratégico Operacional y de seis de las ocho regiones de defensa. El mayor general Rubén Belzares Escobar asume la dirección operativa del cuerpo castrense, mientras Pedro González Ovalles toma el mando del Ejército. Rodríguez destituyó a Rafael Prieto Martínez, nombrado apenas en marzo, y designó nuevos responsables del Comando de Defensa Aeroespacial Integral.</description>
-      <category>Mundo</category>
-      <link>https://eldia.com.do/delcy-rodriguez-cambia-al-jefe-operativo-de-la-fuerza-armada-de-venezuela-y-anuncia-otras-designaciones/</link>
-      <guid isPermaLink="true">https://eldia.com.do/delcy-rodriguez-cambia-al-jefe-operativo-de-la-fuerza-armada-de-venezuela-y-anuncia-otras-designaciones/</guid>
-      <source url="https://eldia.com.do/delcy-rodriguez-cambia-al-jefe-operativo-de-la-fuerza-armada-de-venezuela-y-anuncia-otras-designaciones/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/grggg-150x150.jpg" type="image/jpeg" />
-      <pubDate>Sat, 25 Jul 2026 13:02:33 +0000</pubDate>
+      <title>Dirigente del PRM denuncia demoras en entrega de nuevas cédulas en New Jersey</title>
+      <description>El delegado del Partido Revolucionario Moderno ante la Junta Central Electoral, Ramón de Jesús Mármol, alertó sobre el ritmo lento del proceso de entrega del nuevo documento de identidad y electoral en el estado de New Jersey, donde existe una sola oficina para atender a los dominicanos. Mármol convocó a los delegados de los demás partidos a una reunión para fijar una posición conjunta ante las dificultades que enfrentan los connacionales en el exterior para renovar su cédula. El dirigente perremeísta observó con preocupación que, mientras en el país se han implementado múltiples puntos de distribución, en el exterior las opciones son limitadas.</description>
+      <category>Noticias</category>
+      <link>https://elnuevodiario.com.do/denuncian-supuesta-lentitud-en-entrega-nueva-cedula-en-new-jersey/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/denuncian-supuesta-lentitud-en-entrega-nueva-cedula-en-new-jersey/</guid>
+      <source url="https://elnuevodiario.com.do/denuncian-supuesta-lentitud-en-entrega-nueva-cedula-en-new-jersey/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Ramon-de-Jesus-Marmol-Papito-355x200.png" type="image/png" />
+      <pubDate>Sat, 25 Jul 2026 19:27:54 +0000</pubDate>
     </item>
     <item>
-      <title>Venezuela inicia su salida de la Corte Penal Internacional pese a que la investigación continúa</title>
-      <description>El canciller venezolano Félix Plascencia notificó al secretario general de la ONU la decisión de denunciar el Estatuto de Roma y comenzar el proceso de retiro de la Corte Penal Internacional. La medida ocurre en medio de la investigación que la CPI mantiene abierta sobre presuntos crímenes de lesa humanidad atribuidos a autoridades venezolanas, un proceso impulsado por varios países latinoamericanos. Expertos jurídicos señalaron que la salida del tratado no suspende las indagatorias en curso ni invalida eventuales órdenes de captura, tal como ocurrió con el expresidente filipino Duterte.</description>
-      <category>Mundo</category>
-      <link>https://n.com.do/2026/07/25/venezuela-anuncia-su-retiro-de-la-corte-penal-internacional-pero-investigacion-por-presuntos-crimenes-continuara/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/25/venezuela-anuncia-su-retiro-de-la-corte-penal-internacional-pero-investigacion-por-presuntos-crimenes-continuara/</guid>
-      <source url="https://n.com.do/2026/07/25/venezuela-anuncia-su-retiro-de-la-corte-penal-internacional-pero-investigacion-por-presuntos-crimenes-continuara/">n.com.do</source>
-      <pubDate>Sat, 25 Jul 2026 13:01:51 +0000</pubDate>
+      <title>Especialistas aseguran que la norma NIIF 17 elevará la transparencia del sector asegurador</title>
+      <description>Ejecutivos de Meraki Global Consulting explicaron que la Norma Internacional de Información Financiera 17, emitida por el Consejo de Normas Internacionales de Contabilidad, representará un cambio sustancial para las aseguradoras al transparentar los contratos de seguros y mejorar la gestión de riesgos. Los especialistas señalaron que la implementación facilitará el acceso de las compañías al mercado de capitales y permitirá evaluar con mayor precisión la rentabilidad de los productos, sin afectar las primas que pagan los asegurados. Durante una entrevista en el programa "60 Minutos de Seguros", destacaron que los inversionistas serán los primeros beneficiados al contar con información más clara y confiable.</description>
+      <category>Negocios</category>
+      <link>https://elnuevodiario.com.do/creen-niif-17-fortalecera-transparencia-pero-exige-preparacion-de-las-aseguradoras/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/creen-niif-17-fortalecera-transparencia-pero-exige-preparacion-de-las-aseguradoras/</guid>
+      <source url="https://elnuevodiario.com.do/creen-niif-17-fortalecera-transparencia-pero-exige-preparacion-de-las-aseguradoras/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/image-53-355x200.jpg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 19:21:14 +0000</pubDate>
     </item>
     <item>
-      <title>Rebeldes hutíes reactivan las hostilidades contra Arabia Saudita con ataque a refinería</title>
-      <description>Los rebeldes hutíes reivindicaron un ataque con misiles contra la ciudad de Jizán, en el suroeste de Arabia Saudita, en respuesta a los recientes bombardeos sauditas sobre territorio yemení. La ofensiva rompe una tregua relativa vigente desde 2022 y reabre un frente de conflicto en Oriente Medio, con imágenes que muestran columnas de humo sobre una refinería de Saudi Aramco. La coalición liderada por Riad afirmó haber concluido una respuesta contra instalaciones militares hutíes, aunque los rebeldes prometieron continuar las represalias.</description>
+      <title>Incendios descontrolados en el centro de España devastan 45.000 hectáreas</title>
+      <description>Dos grandes focos ígneos en las provincias de Ávila y Madrid suman más de 200 kilómetros de perímetro y han afectado unas 45.000 hectáreas, con más de 88.500 personas entre evacuadas y confinadas, según el Ministerio para la Transición Ecológica. Expertos clasifican estos incendios como de "sexta generación", capaces de generar su propia meteorología mediante pirocúmulos que complican su extinción y previsión. La energía emitida supera los 10.000 kilovatios por metro, lo que los sitúa fuera de la capacidad convencional de combate.</description>
       <category>Mundo</category>
-      <link>https://n.com.do/2026/07/25/ataque-huti-contra-arabia-saudita-amplia-la-guerra-en-oriente-medio/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/25/ataque-huti-contra-arabia-saudita-amplia-la-guerra-en-oriente-medio/</guid>
-      <source url="https://n.com.do/2026/07/25/ataque-huti-contra-arabia-saudita-amplia-la-guerra-en-oriente-medio/">n.com.do</source>
-      <pubDate>Sat, 25 Jul 2026 14:50:40 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/los-dos-grandes-incendios-forestales-del-centro-de-espana-afectan-a-45-000-hectareas/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/los-dos-grandes-incendios-forestales-del-centro-de-espana-afectan-a-45-000-hectareas/</guid>
+      <source url="https://elnuevodiario.com.do/los-dos-grandes-incendios-forestales-del-centro-de-espana-afectan-a-45-000-hectareas/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/60f51e7e8485fa46100756748b684dcbcfb1e88bw-355x200.jpg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 19:17:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Avería en tubería de 48 pulgadas afecta el suministro de agua en Santo Domingo Este</title>
+      <description>La Corporación del Acueducto y Alcantarillado de Santo Domingo reportó que un contratista de la Empresa de Transmisión Eléctrica Dominicana dañó una de las principales líneas de conducción, lo que redujo la distribución de agua potable en numerosos sectores del municipio Santo Domingo Este. Entre las zonas afectadas figuran Ensanche Ozama, Alma Rosa, Villa Olímpica, Los Trinitarios, Altos de Cancino y varias etapas de Villa Carmen, entre otras. Brigadas técnicas trabajan de forma ininterrumpida para reparar la avería y restablecer el servicio en el menor tiempo posible.</description>
+      <category>Noticias</category>
+      <link>https://elnuevodiario.com.do/caasd-informa-que-averia-afecta-el-suministro-de-agua-en-sectores-de-santo-domingo-este/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/caasd-informa-que-averia-afecta-el-suministro-de-agua-en-sectores-de-santo-domingo-este/</guid>
+      <source url="https://elnuevodiario.com.do/caasd-informa-que-averia-afecta-el-suministro-de-agua-en-sectores-de-santo-domingo-este/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Caasd-informa-que-averia-afecta-el-suministro-de-agua-en-sectores-de-Santo-Domingo-Este-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 19:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fallece el doctor José Plácido Montero, pionero de la ginecología en República Dominicana</title>
+      <description>La Clínica Corazones Unidos confirmó el deceso del doctor José Plácido Montero, fundador y director del Departamento de Obstetricia y Ginecología de esa institución, cuya trayectoria marcó la vida de miles de familias dominicanas. El especialista, nacido en Santiago de los Caballeros y formado en la Universidad Autónoma de Santo Domingo, se especializó en el Flushing Hospital Medical Center de Nueva York y regresó al país en 1984 para continuar su carrera. El centro de salud lo describió como un maestro de generaciones y un pilar de la medicina nacional.</description>
+      <category>Ciencia</category>
+      <link>https://elnuevodiario.com.do/muere-el-destacado-ginecologo-obstetra-jose-placido-montero/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/muere-el-destacado-ginecologo-obstetra-jose-placido-montero/</guid>
+      <source url="https://elnuevodiario.com.do/muere-el-destacado-ginecologo-obstetra-jose-placido-montero/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/La-comunidad-medica-dominicana-esta-de-luto-tras-el-fallecimiento-del-doctor-Jose-Placido-Montero2-355x200.jpg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 18:54:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Juan Orlando Hernández regresa a Honduras para enfrentar cargos de fraude y lavado</title>
+      <description>El expresidente hondureño, indultado por Donald Trump mientras cumplía una condena de 45 años por narcotráfico en Estados Unidos, retornará de manera voluntaria a su país para responder por presuntos delitos de fraude y lavado de activos. Hernández gobernó Honduras entre 2014 y 2022 y fue extraditado en abril de 2022, convirtiéndose en el primer exmandatario hondureño procesado por la justicia estadounidense. El Consejo Nacional Anticorrupción advirtió que su retorno pondrá a prueba el sistema judicial del país centroamericano.</description>
+      <category>Mundo</category>
+      <link>https://n.com.do/2026/07/25/juan-orlando-hernandez-regresa-honduras-enfrentar-justicia/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/25/juan-orlando-hernandez-regresa-honduras-enfrentar-justicia/</guid>
+      <source url="https://n.com.do/2026/07/25/juan-orlando-hernandez-regresa-honduras-enfrentar-justicia/">n.com.do</source>
+      <pubDate>Sat, 25 Jul 2026 18:47:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Milei respalda a Flávio Bolsonaro y arremete contra Lula en convención del Partido Liberal</title>
+      <description>El presidente argentino Javier Milei acudió a São Paulo para participar en la convención del Partido Liberal que oficializó la candidatura presidencial del senador Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, y aprovechó para insultar a Luiz Inácio Lula da Silva llamándolo "basura socialista". Flávio Bolsonaro prometió continuar el proyecto político de su padre, preso por intento de golpe de Estado, y acusó al Gobierno de Lula de secuestrar al país mediante corrupción y restricción de libertades. Milei, por su parte, defendió al exmandatario brasileño y expresó su deseo de que el Partido de los Trabajadores sea derrotado en las elecciones de octubre.</description>
+      <category>Mundo</category>
+      <link>https://n.com.do/2026/07/25/milei-llama-basura-socialista-a-lula-y-respalda-candidatura-de-flavio-bolsonaro-en-brasil/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/25/milei-llama-basura-socialista-a-lula-y-respalda-candidatura-de-flavio-bolsonaro-en-brasil/</guid>
+      <source url="https://n.com.do/2026/07/25/milei-llama-basura-socialista-a-lula-y-respalda-candidatura-de-flavio-bolsonaro-en-brasil/">n.com.do</source>
+      <comments>El Día: https://eldia.com.do/flavio-bolsonaro-reivindica-el-legado-de-su-padre-al-lanzar-su-candidatura/</comments>
+      <pubDate>Sat, 25 Jul 2026 18:38:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tampa Bay Rays exploraría cambio agresivo por el lanzador Tarik Skubal</title>
+      <description>Con el mejor récord de la Liga Americana hasta el sábado, los Rays de Tampa Bay se perfilan como compradores agresivos antes del cierre de cambios y han sido vinculados de forma persistente con el abridor Tarik Skubal, estrella de los Tigres de Detroit. El presidente de operaciones de béisbol, Erik Neander, reconoció que evitar la Serie del Comodín representa un beneficio enorme que justifica adiciones significativas al roster. Analistas de MLB Network y USA Today también mencionaron a bateadores como Luis Arráez y Heliot Ramos como posibles objetivos del club floridiano.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/un-sorpresivo-contendiente-planea-ir-con-todo-por-tarik-skubal/</link>
+      <guid isPermaLink="true">https://eldia.com.do/un-sorpresivo-contendiente-planea-ir-con-todo-por-tarik-skubal/</guid>
+      <source url="https://eldia.com.do/un-sorpresivo-contendiente-planea-ir-con-todo-por-tarik-skubal/">El Día</source>
+      <pubDate>Sat, 25 Jul 2026 18:27:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comité Organizador califica de espectacular la inauguración de los Juegos Centroamericanos</title>
+      <description>El presidente del Comité Organizador de los XXV Juegos Centroamericanos y del Caribe, José P. Monegro, elogió la ceremonia inaugural celebrada en el Estadio Olímpico Félix Sánchez como una muestra del talento dominicano para organizar eventos de gran magnitud. Monegro resaltó el entusiasmo y la energía del pueblo dominicano y aseguró que lo vivido en la apertura garantiza que los catorce días restantes de competencia serán de primer nivel. Los juegos se extenderán hasta el 8 de agosto con la participación de atletas de 37 países.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/monegro-afirma-inauguracion-de-los-centroamericanos-fue-espectacular/</link>
+      <guid isPermaLink="true">https://eldia.com.do/monegro-afirma-inauguracion-de-los-centroamericanos-fue-espectacular/</guid>
+      <source url="https://eldia.com.do/monegro-afirma-inauguracion-de-los-centroamericanos-fue-espectacular/">El Día</source>
+      <pubDate>Sat, 25 Jul 2026 18:24:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carolina Mejía invita al público a respaldar a los atletas dominicanos en los Centroamericanos</title>
+      <description>Durante el primer triunfo del equipo dominicano de voleibol de playa en el Malecón Deportivo, la alcaldesa del Distrito Nacional, Carolina Mejía, llamó a la ciudadanía a asistir a las sedes y apoyar a los deportistas que representan al país en los Juegos Centroamericanos. Mejía felicitó a la dupla Julibeth Payano y Crismil Paniagua por su victoria en dos sets ante Islas Caimán y destacó la importancia de contar con espacios públicos donde el público disfrute con seguridad. La también aspirante presidencial sostuvo que el respaldo del público influye positivamente en el desempeño de los atletas.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/carolina-mejia-tenemos-que-venir-a-darle-esa-fuerza-y-esa-energia-a-nuestros-atletas/</link>
+      <guid isPermaLink="true">https://eldia.com.do/carolina-mejia-tenemos-que-venir-a-darle-esa-fuerza-y-esa-energia-a-nuestros-atletas/</guid>
+      <source url="https://eldia.com.do/carolina-mejia-tenemos-que-venir-a-darle-esa-fuerza-y-esa-energia-a-nuestros-atletas/">El Día</source>
+      <pubDate>Sat, 25 Jul 2026 18:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>República Dominicana se ubica séptima en el medallero de los Centroamericanos; México lidera</title>
+      <description>Tras el primer día de competencia de los Juegos Centroamericanos y del Caribe Santo Domingo 2026, el país anfitrión ocupa la séptima posición del medallero general gracias a la plata obtenida por los remeros Carlos Rodríguez e Ignacio Vásquez. México encabeza la clasificación con amplia ventaja, seguido por Venezuela, Colombia y Guatemala, con un total de 35 preseas distribuidas entre once oros, once platas y trece bronces hasta el mediodía del sábado. La delegación mexicana sumó medallas doradas en tiro con arco, bádminton, natación en aguas abiertas, remo y taekwondo.</description>
+      <category>Deportes</category>
+      <link>https://n.com.do/2026/07/25/republica-dominicana-plata-septimo-medallero-santo-domingo-2026/</link>
+      <guid isPermaLink="true">https://n.com.do/2026/07/25/republica-dominicana-plata-septimo-medallero-santo-domingo-2026/</guid>
+      <source url="https://n.com.do/2026/07/25/republica-dominicana-plata-septimo-medallero-santo-domingo-2026/">n.com.do</source>
+      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/Medallero-1-819x1024.jpg" type="image/jpeg" />
+      <pubDate>Sat, 25 Jul 2026 18:02:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
