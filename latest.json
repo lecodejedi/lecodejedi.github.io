@@ -1,285 +1,292 @@
 {
   "newsArticles": [
     {
-      "title": "Educación distribuye millones de libros y útiles de cara al curso 2026-2027",
-      "summary": "El Ministerio de Educación avanza en los preparativos para el inicio del año lectivo 2026-2027 con la entrega de más de tres millones de libros de texto y cuatro millones de cuadernos en todo el país. El plan incluye también la habilitación de mil nuevas aulas en agosto y la distribución de kits de utilería escolar a través del Inabie, beneficiando a cerca de 1.8 millones de estudiantes. Las autoridades garantizaron que la demanda de cupos estará cubierta para el 24 de agosto.",
+      "title": "La Gran Parada Dominicana del Bronx celebra su edición 37 entre honores y quejas",
+      "summary": "La trigésima séptima versión del desfile dominicano en el Bronx contó con la presencia del alcalde de Nueva York y rindió homenaje al periodista Salvador Holguín como padrino de honor por su trayectoria de más de 25 años. El organizador del evento, Felipe Febles, denunció restricciones policiales que redujeron de 53 a 32 las carrozas participantes y dificultaron el acceso del público al recorrido.",
       "category": "Noticias",
-      "pubDate": "2026-07-26T15:59:13+00:00",
+      "pubDate": "2026-07-26T19:42:47+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Ministerio-de-Educacion-avanza-en-la-preparacion-integral-del-ano-escolar-2026-2027-con-distribucion-de-materiales-utileria-e-infraestructura-3-355x200.jpeg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/IMAGEN-Salvador-Holguin-sera-investido-como-padrino-de-honor-de-la-Gran-Parada-Dominicana-del-Bronx-1-1-355x200.jpeg",
+        "https://resources.diariolibre.com/images/2026/07/26/crop-w1533-h1022-alcalde-de-nueva-york-participa-en-gran-parada-dominicana-bronx-79aec862-focus-min0.17-0.42-400-300.jpg",
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Felipe-Febles-355x200.jpeg"
       ],
       "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/minerd-avanza-en-la-preparacion-integral-del-ano-escolar-2026-2027-con-distribucion-de-materiales-utileria-e-infraestructura/" }
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/salvador-holguin-agradece-homenaje-recibido-en-parada-dominicana-del-bronx/" },
+        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/usa/actualidad/2026/07/26/alcalde-de-nueva-york-participa-en-gran-parada-dominicana-bronx/3611114" },
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/felipe-febles-afirma-supuestamente-quieren-acabar-con-los-dominicanos-en-nueva-york/" }
       ]
     },
     {
-      "title": "Leonel y Omar Fernández intercambian roles por el Día del Padre en video viral",
-      "summary": "El senador Omar Fernández publicó un video en el que intercambia roles por un día con su padre, el expresidente Leonel Fernández, con motivo del Día del Padre. La producción muestra al expresidente asumiendo tareas legislativas mientras Omar simula dirigir la Fuerza del Pueblo, generando momentos de humor familiar. El cierre refuerza un mensaje sobre la responsabilidad paterna y la gratitud filial.",
+      "title": "El 911 dominicano evalúa incorporar robótica de Boston Dynamics para emergencias",
+      "summary": "Una delegación del Sistema Nacional de Atención a Emergencias 911 visitó la sede de Boston Dynamics en Massachusetts para explorar el uso de robots en operaciones de rescate, evaluación estructural y manejo de materiales peligrosos. El encuentro forma parte del proyecto 911 Nueva Generación, que busca modernizar la respuesta ante incidentes con inteligencia artificial y tecnología no tripulada.",
+      "category": "Tecnología",
+      "pubDate": "2026-07-26T17:30:26+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/TRASPLANTE-150x150.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/sistema-911-explora-uso-de-robots-de-boston-dynamics-para-fortalecer-la-atencion-de-emergencias/" },
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/sistema-911-y-boston-dynamics-el-impulsan-el-uso-de-robotica-para-atender-emergencias-en-rd/" }
+      ]
+    },
+    {
+      "title": "Milei señala a Brasil de financiar una campaña hostil contra Argentina durante el Mundial",
+      "summary": "El presidente argentino afirmó que el gobierno brasileño sufragó parte de una ofensiva en redes sociales contra su país durante la Copa del Mundo, tras lo cual Brasil llamó a consultas a su embajador en Buenos Aires. La tensión diplomática se agudizó tras los agravios que el mandatario argentino profirió contra Luiz Inácio Lula da Silva.",
+      "category": "Mundo",
+      "pubDate": "2026-07-26T19:59:16+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/03/milei-355x200.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/milei-acusa-al-gobierno-de-brasil-de-financiar-campana-antiargentina-durante-el-mundial/" }
+      ]
+    },
+    {
+      "title": "Condena por robo de aguacates reaviva el debate sobre la justicia penal en RD",
+      "summary": "Un juez impuso seis meses de prisión a un joven por el hurto de 32 aguacates en una finca de San José de Ocoa, aplicando la pena mínima que contempla el Código Procesal Penal para el robo de cosechas. El caso ha generado reflexión sobre la desigual aplicación de la ley frente a la impunidad que rodea a los delitos de cuello blanco y la corrupción administrativa.",
       "category": "Noticias",
-      "pubDate": "2026-07-26T15:56:45+00:00",
+      "pubDate": "2026-07-26T19:57:01+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/omar-y-leonel2_11058131_20181226181054-355x200.jpg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Juan-Manuel-Ventura-355x200.jpeg"
       ],
       "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/y-si-leonel-fuera-senador-y-omar-presidente-asi-fue-el-curioso-intercambio-por-un-dia-entre-padre-e-hijo/" }
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/el-preso-de-los-aguacates-y-la-sociedad-de-hoy/" }
       ]
     },
     {
-      "title": "Reporteros Sin Fronteras alerta sobre récord de asesinatos de periodistas en México",
-      "summary": "La organización Reporteros Sin Fronteras advirtió que México registra su mayor oleada de homicidios contra comunicadores desde 2011, con siete periodistas asesinados en los primeros siete meses del año. La representante de la ONG calificó la situación de insostenible y evidencia el fracaso de las medidas de protección gubernamentales. El último caso ocurrió en Oaxaca, donde un comunicador fue abaleado en un puesto de comida tras haber denunciado amenazas previas.",
+      "title": "Juan Orlando Hernández regresa a Honduras y pide que no se politice su causa judicial",
+      "summary": "El expresidente hondureño retornó al país tras recibir un indulto total del gobierno de Donald Trump que lo liberó de una condena de 45 años por narcotráfico en Estados Unidos. Hernández deberá comparecer el 3 de agosto ante un tribunal por presunto desvío de fondos estatales vinculado al expediente de corrupción conocido como 'Pandora II'.",
       "category": "Mundo",
-      "pubDate": "2026-07-26T15:52:37+00:00",
+      "pubDate": "2026-07-26T19:52:20+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/asesinato-periodista-oaxaca-mexico-355x200.webp"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/12/indulto-a-juan-orlando-hernandez-genera-rechazo-83f376be-focus-0-0-1200-675-355x200.webp"
       ],
       "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/rsf-confirma-incremento-alarmante-de-asesinatos-de-periodistas-en-mexico-no-visto-desde-2011/" }
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/expresidente-indultado-en-ee-uu-pide-que-su-proceso-penal-en-honduras-no-se-politice/" }
       ]
     },
     {
-      "title": "Mescyt busca alianzas en España para impulsar la transformación educativa dominicana",
-      "summary": "El titular de Educación Superior, Ciencia y Tecnología, Rafael Santos Badía, sostuvo reuniones en España con autoridades gubernamentales y universidades para fortalecer la internacionalización de la educación dominicana. Las gestiones contemplan ampliar becas, facilitar el reconocimiento de títulos y vincular programas académicos con áreas prioritarias para el desarrollo nacional. Santos Badía enfatizó que la transformación educativa debe traducirse en políticas concretas.",
+      "title": "Milei inaugura la Exposición Rural de Palermo y promete seguir reduciendo impuestos al agro",
+      "summary": "El presidente argentino encabezó la apertura de la 138ª edición de la principal feria agropecuaria del país y ratificó su compromiso de continuar bajando los derechos de exportación, aunque evitó anunciar nuevas medidas. El mandatario aseguró que el crecimiento de los sectores minero y energético permitirá financiar la eliminación gradual de los tributos al campo.",
+      "category": "Mundo",
+      "pubDate": "2026-07-26T19:50:58+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/03/milei-355x200.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/milei-reafirma-su-apoyo-al-campo-y-promete-continuar-la-baja-de-derechos-de-exportacion/" }
+      ]
+    },
+    {
+      "title": "Panamá descarta la presencia del Clan del Golfo en su territorio pese a alertas de inteligencia",
+      "summary": "El ministro de Seguridad Pública de Panamá aseguró que no existe evidencia oficial de que integrantes del Clan del Golfo o grupos irregulares colombianos operen en el país, tras una publicación que señalaba lo contrario. El funcionario admitió que podrían existir informaciones de inteligencia en proceso de validación que aún no han llegado a las autoridades panameñas.",
+      "category": "Mundo",
+      "pubDate": "2026-07-26T19:49:12+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/02/18174102/ee8c40bbdecd54c0e289405cf80f9569400b4392w-355x200.jpg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/panama-niega-la-presencia-en-su-territorio-del-clan-del-golfo-o-de-irregulares-colombianos/" }
+      ]
+    },
+    {
+      "title": "Senador Alexis Victoria celebra el Día del Padre con entrega de motores en Nagua",
+      "summary": "El legislador por María Trinidad Sánchez reunió a cientos de familias en el Polideportivo de Nagua para conmemorar el Día del Padre con sorteos de motocicletas y otros obsequios. La actividad buscó reconocer el esfuerzo de los padres de la provincia y fortalecer los vínculos del congresista con las comunidades locales.",
       "category": "Noticias",
-      "pubDate": "2026-07-26T15:47:24+00:00",
+      "pubDate": "2026-07-26T19:45:57+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Mescyt-impulsa-desde-Espana-Tranformacion-educativa-1-1-355x200.jpeg"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Padres-en-motocicletas-junto-a-senador-Alexis-Victoria-1-355x200.jpeg",
+        "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Padres-en-motocicletas-junto-a-senador-Alexis-Victoria-2.jpeg?resize=640%2C479&quality=100&ssl=1"
       ],
       "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/ministro-rafael-santos-badia-impulsa-desde-espana-la-continuidad-de-la-transformacion-educativa-dominicana/" }
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/senador-alexis-victoria-agasaja-a-padres-de-maria-trinidad-sanchez-con-entrega-de-motores-por-su-dia/" }
       ]
     },
     {
-      "title": "Investigan posible homicidio-suicidio tras hallar ocho cuerpos en una casa en Michigan",
-      "summary": "Autoridades de Michigan investigan la muerte de ocho miembros de una familia, incluidos seis menores, hallados en una vivienda incendiada en Grand Haven Township. Algunas víctimas presentaban heridas de bala, lo que orienta la pesquisa hacia un posible homicidio-suicidio. La policía describió la escena como compleja y descartó una amenaza al público en general.",
+      "title": "El nuevo Código Penal podría deteriorar la relación entre médicos y pacientes en RD",
+      "summary": "Un galeno dominicano advierte que la normativa penal próxima a entrar en vigencia podría transformar el vínculo de confianza entre el personal de salud y los pacientes en una relación de desconfianza y confrontación. El autor sostiene que la criminalización de la práctica médica pondría en riesgo la estabilidad laboral de los profesionales y el acceso a la atención sanitaria.",
+      "category": "Ciencia",
+      "pubDate": "2026-07-26T19:44:31+00:00",
+      "imageUrls": [
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/06/CLEMENTE-TERRERO-355x200.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/relacion-medico-paciente-y-el-nuevo-codigo-penal/" }
+      ]
+    },
+    {
+      "title": "Estados Unidos mantiene abiertas todas las opciones ante el conflicto con Irán",
+      "summary": "El embajador estadounidense ante la ONU señaló que Donald Trump evalúa medidas diplomáticas, económicas y militares para determinar el siguiente paso en la guerra contra Irán. Las declaraciones llegan en medio de una pausa temporal en las hostilidades y de un debate interno sobre el costo del conflicto, que ya supera los 37.500 millones de dólares.",
       "category": "Mundo",
-      "pubDate": "2026-07-26T15:42:57+00:00",
+      "pubDate": "2026-07-26T19:40:12+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Tiroteo-Michigan-1-355x200.webp"
+        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/El-presidente-de-Estados-Unidos-Donald-Trump-2-355x200.jpg"
       ],
       "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/ocho-muertos-incluyendo-seis-ninos-en-un-posible-homicidio-suicidio-en-ee-uu/" }
+        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/eeuu-afirma-que-trump-tiene-todas-las-opciones-en-la-mesa-frente-a-iran/" }
       ]
     },
     {
-      "title": "Autoridades dominicanas envían mensajes de reconocimiento por el Día de los Padres",
-      "summary": "El presidente Luis Abinader encabezó los mensajes del Día de los Padres al recordar las enseñanzas de su progenitor y destacar el sacrificio de los padres dominicanos. La vicepresidenta Raquel Peña, la primera dama Raquel Arbaje y el presidente del Senado, Ricardo de los Santos, se sumaron con palabras sobre el papel de la paternidad en la formación de valores. El director de la Policía dirigió un mensaje especial a los agentes que ejercen la paternidad.",
+      "title": "El PRM ratifica a Igor Rodríguez Durán como presidente provincial en Puerto Plata",
+      "summary": "La Asamblea Eleccionaria del Partido Revolucionario Moderno reeligió al ingeniero Igor Rodríguez Durán al frente del comité provincial para el período 2026-2028 con el respaldo del 95,5% de los delegados. La dirección provincial quedó conformada por vicepresidentes y secretarios que continuarán trabajando de cara a los próximos procesos electorales.",
       "category": "Noticias",
-      "pubDate": "2026-07-26T15:42:16+00:00",
+      "pubDate": "2026-07-26T18:36:52+00:00",
       "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/abinader-recuerda-a-su-padre.jpg-355x200.jpeg"
+        "https://eldia.com.do/wp-content/uploads/2026/07/informalidad-laboral-2-150x150.jpg"
       ],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/mensajes-por-el-dia-de-los-padres-autoridades-destacan-el-amor-y-compromiso-de-la-paternidad/" },
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/abinader-recuerda-las-ensenanzas-de-su-padre-y-reconoce-la-entrega-de-los-progenitores-dominicanos/" }
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/igor-rodriguez-duran-es-ratificado-por-dos-anos-como-presidente-provincial-del-prm-en-puerto-plata/" }
       ]
     },
     {
-      "title": "Ingenieros inspeccionan más de 8,000 edificaciones tras terremotos en Venezuela",
-      "summary": "El Colegio de Ingenieros de Venezuela ha revisado más de 8,000 estructuras en Caracas tras los sismos del 24 de junio, clasificando al 70% como habitables y un 25% bajo precaución o no habitable. Un mes después del desastre, el balance oficial registra más de 5,500 fallecidos, 16,740 heridos y casi 18,000 personas sin vivienda. El Banco Mundial estima los daños directos en 19,600 millones de dólares.",
-      "category": "Mundo",
-      "pubDate": "2026-07-26T15:37:41+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/AFP__20260724__C36F6GY__v1__MidRes__VenezuelaEarthquakeAftermath-355x200.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/mas-de-8000-estructuras-han-sido-inspeccionadas-por-ingenieros-tras-sismos-en-venezuela/" }
-      ]
-    },
-    {
-      "title": "Díaz-Canel acusa a Estados Unidos de política genocida y lo compara con regímenes nazis",
-      "summary": "El presidente cubano, Miguel Díaz-Canel, acusó al Gobierno estadounidense de aplicar una política genocida contra la isla y comparó a sus funcionarios con redactores de edictos de la época nazi. Las declaraciones ocurrieron durante el acto del 73 aniversario del asalto al Cuartel Moncada, marcado por la máxima presión de Washington. Díaz-Canel advirtió que Cuba no es la primera ni será la última víctima de estas políticas.",
-      "category": "Mundo",
-      "pubDate": "2026-07-26T15:33:55+00:00",
-      "imageUrls": [
-        "https://eldia.com.do/wp-content/uploads/2026/07/descarga-20-150x150.webp"
-      ],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/miguel-diaz-canel-compara-a-estados-unidos-con-los-nazis/" },
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/diaz-canel-acusa-a-eeuu-de-practicas-nazis-y-de-tratar-de-apropiarse-de-todo-el-pais/" }
-      ]
-    },
-    {
-      "title": "Denuncian al presidente interino de Perú por polémica compra de aviones F-16",
-      "summary": "El presidente interino de Perú, José María Balcázar, enfrenta una denuncia constitucional por la adquisición de 24 aviones F-16 a Lockheed Martin por 3,500 millones de dólares. El expediente lo acusa de abuso de autoridad y negociación incompatible por firmar el decreto de compra bajo secreto militar y luego negar públicamente la operación. La denuncia incluye a varios ministros y exministros involucrados en el proceso.",
-      "category": "Mundo",
-      "pubDate": "2026-07-26T15:23:23+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/06/EE.UU_.-colaboracion-Peru-1-355x200.webp"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/denuncian-constitucionalmente-a-presidente-interino-de-peru-por-compra-de-aviones-a-ee-uu/" }
-      ]
-    },
-    {
-      "title": "Ministerio Público abre centro de atención a víctimas de violencia en Bahoruco",
-      "summary": "La Procuraduría General inauguró en Neyba un centro integral para atender víctimas de violencia de género, intrafamiliar y delitos sexuales en la provincia Bahoruco. La dependencia registró 192 denuncias en los primeros cinco meses del año e integra procuradores, psicólogos, médicos y abogados especializados. En 2025, el Ministerio Público recibió alrededor de 73,000 denuncias por estos delitos a nivel nacional.",
-      "category": "Noticias",
-      "pubDate": "2026-07-26T15:20:23+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/PGR-remoza-Unidad-de-Atencion-a-Victimas-de-Violencia-de-Genero-y-Delitos-Sexuales-y-Servicios-de-RELEVIC-Bahoruco_017-355x200.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/mp-inaugura-en-bahoruco-centro-para-atender-victimas-de-violencia-provincia-registro-192-denuncias-en-5-meses/" }
-      ]
-    },
-    {
-      "title": "Ecuador desarticula red que manipulaba procesos penales por pagos millonarios",
-      "summary": "La Policía ecuatoriana detuvo a tres personas, incluido un funcionario de la Fiscalía, acusadas de cobrar hasta 15,000 dólares para alterar causas penales en Santa Elena. El grupo operaba desde una oficina paralela camuflada como venta de seguros y favorecía a investigados por delitos como extorsión y abuso sexual. Los detenidos serán procesados por delincuencia organizada.",
-      "category": "Mundo",
-      "pubDate": "2026-07-26T15:18:14+00:00",
-      "imageUrls": [
-        "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/04/Ecuador-Los-Lobos-1-355x200.webp"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Nuevo Diario", "articleUrl": "https://elnuevodiario.com.do/capturan-en-ecuador-a-grupo-que-cobraba-hasta-15000-dolares-para-alterar-procesos-penales/" }
-      ]
-    },
-    {
-      "title": "Equipos logran contener parte de los incendios forestales que devastan el centro de España",
-      "summary": "Los equipos de extinción avanzaron en el control de los incendios que han calcinado 77,000 hectáreas en las provincias españolas de Madrid, Ávila y Toledo. El perímetro total suma 280 kilómetros y mantiene evacuadas a cerca de 100,000 personas, aunque las condiciones atmosféricas favorables permitieron contener varios frentes. El valle del río Tiétar concentra la zona más activa del siniestro.",
-      "category": "Mundo",
-      "pubDate": "2026-07-26T15:06:00+00:00",
+      "title": "El comercio dominicano se dinamiza por el Día del Padre con presupuestos de hasta RD$10,000",
+      "summary": "Tiendas y plazas comerciales del Gran Santo Domingo reportaron una fuerte afluencia de compradores que buscan obsequios prácticos para celebrar el Día del Padre, con presupuestos que oscilan entre RD$1,500 y RD$10,000. Los consumidores priorizaron prendas de vestir y artículos de uso diario como camisas, bermudas y medias para agasajar a padres, hermanos y esposos.",
+      "category": "Negocios",
+      "pubDate": "2026-07-26T18:34:46+00:00",
       "imageUrls": [],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/empiezan-a-contener-el-incendio-en-el-centro-de-espana-que-ha-quemado-77-000-hectareas/" }
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/dia-del-padre-dinamiza-el-comercio-con-regalos-practicos-y-presupuestos-de-hasta-rd10000/" }
       ]
     },
     {
-      "title": "Las caricaturas que marcaron la infancia de los dominicanos antes del streaming",
-      "summary": "Un repaso recuerda los dibujos animados que acompañaron a generaciones de dominicanos antes de la era digital, desde Gokú y He-Man hasta Dora la Exploradora y Bob Esponja. Estos programas combinaron entretenimiento con enseñanzas sobre naturaleza, valores y resolución de problemas. La nota destaca su huella imborrable en la memoria colectiva infantil.",
+      "title": "El MINERD se suma a la Alianza por el Bienestar para fomentar hábitos saludables en las escuelas",
+      "summary": "El Ministerio de Educación y la Asociación de Industrias de la República Dominicana firmaron un acuerdo de tres años para impulsar la educación sobre alimentación consciente y actividad física desde las aulas. La iniciativa busca que los estudiantes dominicanos adopten decisiones informadas sobre su bienestar y extiendan esos hábitos hacia sus familias.",
       "category": "Noticias",
-      "pubDate": "2026-07-26T15:00:04+00:00",
+      "pubDate": "2026-07-26T18:28:46+00:00",
       "imageUrls": [
-        "https://n.com.do/wp-content/uploads/2026/07/Diego-300x206.jpeg"
+        "https://eldia.com.do/wp-content/uploads/2026/07/Utileria-escolar-150x150.jpeg"
       ],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/los-recuerdas-algunos-munequitos-que-marcaron-la-niez-de-miles-de-dominicanos/" }
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/educacion-se-integra-a-la-alianza-por-el-bienestar-para-promover-habitos-saludables-desde-las-aulas/" }
       ]
     },
     {
-      "title": "Vladimir Guerrero Jr. pide paciencia ante la mala racha de los Azulejos",
-      "summary": "El primera base dominicano Vladimir Guerrero Jr. reconoció la frustrante temporada de los Azulejos de Toronto, ubicados en el sótano de su división, y pidió comprensión a los aficionados. Con apenas seis jonrones y un OPS de .707, el toletero admitió que debe mejorar pero confía en una remontada con 58 partidos por jugar. Guerrero subrayó que los jugadores son humanos y no máquinas.",
+      "title": "México domina el medallero de los Centroamericanos Santo Domingo 2026; RD marcha séptima",
+      "summary": "La delegación mexicana encabeza con claridad el medallero de los Juegos Centroamericanos y del Caribe con 25 preseas, seguida por Cuba y Colombia en el podio regional. El país anfitrión, República Dominicana, ocupa el séptimo lugar con siete medallas distribuidas entre judo, remo y esquí náutico.",
       "category": "Deportes",
-      "pubDate": "2026-07-26T14:41:26+00:00",
+      "pubDate": "2026-07-26T18:14:44+00:00",
       "imageUrls": [
-        "https://n.com.do/wp-content/uploads/2026/07/Vlad-Savant.jpg"
+        "https://n.com.do/wp-content/uploads/2026/07/Medallero-1-1-1024x758.jpg"
       ],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/vladimir-guerrero-caida-azulejos-toronto/" }
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/rd-septima-mexico-lider-medallero-santo-domingo-2026/" }
       ]
     },
     {
-      "title": "DNCD destaca cooperación con Estados Unidos contra el narcotráfico en el Caribe",
-      "summary": "El presidente de la Dirección Nacional de Control de Drogas, José Cabrera Ulloa, reafirmó que la alianza con Estados Unidos ha sido clave para desmantelar redes criminales en la región. Durante una graduación en Quantico, agradeció a la DEA por formar a profesionales de seis naciones en la Unidad de Investigación Sensitiva. El funcionario destacó que la cooperación construye confianza y liderazgo.",
-      "category": "Noticias",
-      "pubDate": "2026-07-26T14:37:41+00:00",
-      "imageUrls": [
-        "https://eldia.com.do/wp-content/uploads/2025/04/Conferencia-Drogas-sinteticas-150x150.webp"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/presidente-de-la-dncd-destaca-que-la-alianza-con-estados-unidos-ha-sido-clave-para-desmantelar-redes-de-narcotrafico/" },
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/presidente-de-la-dncd-destaca-que-alianza-con-ee-uu-ha-sido-clave-para-desmantelar-redes-de-narcotrafico/" }
-      ]
-    },
-    {
-      "title": "Arcángel llena el Estadio Cibao con un repaso de dos décadas de éxitos",
-      "summary": "El cantante Arcángel ofreció un concierto a casa llena en el Estadio Cibao de Santiago, donde recorrió sus mayores éxitos de 20 años de carrera. El espectáculo contó con invitados como Zion, DJ Adoni y Bulin 47, e incluyó un bloque dedicado al talento dominicano. Uno de los momentos más emotivos fue la aparición de su hijo Austincito para interpretar juntos una canción.",
-      "category": "Noticias",
-      "pubDate": "2026-07-26T14:29:12+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/el-cibao-la-paso-bien-junto-arcangel-en-epico-concierto/" }
-      ]
-    },
-    {
-      "title": "Carlos Rivera cierra su gira por España con el corazón lleno",
-      "summary": "El cantante mexicano Carlos Rivera concluyó doce conciertos en España y regresó a México optimista por el cariño del público español hacia su música. El artista, premiado en una gala benéfica en Marbella, anticipó que será padre por segunda vez de una niña llamada María. Rivera subrayó que el amor es lo que transformará al mundo en medio de la convulsión.",
-      "category": "Noticias",
-      "pubDate": "2026-07-26T14:24:25+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/carlos-rivera-finaliza-su-gira-por-espana-con-el-corazon-lleno/" }
-      ]
-    },
-    {
-      "title": "Arabia Saudí eleva sus exportaciones de crudo un 19,5% pese al bloqueo de Ormuz",
-      "summary": "Las exportaciones saudíes de petróleo crecieron 19,5% en mayo, sorteando el bloqueo iraní al estrecho de Ormuz mediante el oleoducto estratégico Petroline hacia el puerto de Yanbu. El crudo pasó a representar el 75,6% de las exportaciones totales del reino, mientras las no petroleras cayeron 26,1%. China se mantuvo como principal destino de los envíos saudíes.",
-      "category": "Negocios",
-      "pubDate": "2026-07-26T14:13:20+00:00",
-      "imageUrls": [
-        "https://eldia.com.do/wp-content/uploads/2026/04/10_Globales_27_4p01-150x150.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/las-exportaciones-de-crudo-de-arabia-saudi-aumentan-en-195-pese-a-tensiones-en-ormuz/" }
-      ]
-    },
-    {
-      "title": "Romeo Santos y Prince Royce enamoran a Madrid con una noche de bachata",
-      "summary": "Los cantantes Romeo Santos y Prince Royce agotaron entradas en el Riyadh Air Metropolitano de Madrid con un espectáculo que combinó sus éxitos en solitario y duetos. Ambos vecinos del Bronx alternaron grandes temas con interpretaciones conjuntas respaldados por 13 músicos, conectando con una audiencia mayoritariamente latinoamericana. El show recorrió la bachata desde sus raíces hasta lo urbano.",
-      "category": "Noticias",
-      "pubDate": "2026-07-26T14:12:22+00:00",
-      "imageUrls": [
-        "https://resources.diariolibre.com/images/2026/07/26/romeo-santos-y-prince-royce-en-madrid-8ab4875b-focus-min0.05-min0.22-400-300.jpg"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/romeo-santos-y-prince-royce-celebran-en-madrid-una-noche-de-bachata-y-nostalgia/" },
-        { "feedName": "Diario Libre", "articleUrl": "https://www.diariolibre.com/revista/musica/2026/07/26/romeo-santos-y-prince-royce-en-madrid/3610917" }
-      ]
-    },
-    {
-      "title": "El papa León XIV pide orar por las víctimas de los incendios en España y Francia",
-      "summary": "El papa León XIV expresó su cercanía con los afectados por los incendios que devastan Francia y España, e invitó a los fieles a rezar por las víctimas y los socorristas. En España permanecen evacuadas más de 116,000 personas, mientras en Francia la región de Gironda suma más de 200,000 desalojados. El mensaje fue pronunciado tras el rezo del ángelus en Castelgandolfo.",
+      "title": "Alemania persigue al presunto autor del ataque contra el Orgullo de Berlín",
+      "summary": "Las autoridades alemanas emitieron una orden de búsqueda contra un ciudadano de raíces libanesas acusado de arrollar a una multitud con su camioneta y herir a varias personas con un machete cerca del festival del Orgullo de Berlín, dejando un muerto y 29 heridos. El ministro del Interior calificó el hecho como un ataque terrorista de inspiración islámica y reveló que el sospechoso había intentado sumarse al Estado Islámico.",
       "category": "Mundo",
-      "pubDate": "2026-07-26T14:11:45+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/el-papa-pide-rezar-por-las-victimas-y-los-socorristas-que-combaten-los-incendios-en-espana-y-francia/" }
-      ]
-    },
-    {
-      "title": "La vagancia y la mendicidad fueron delitos penados durante más de un siglo en RD",
-      "summary": "Una revisión histórica recuerda que durante más de 140 años el Código Penal dominicano contempló la vagancia y la mendicidad como delitos, herencia del Código Penal francés incorporado tras la Independencia. Las normas sancionaban a quienes vivían o pedían en las calles y penaban las amenazas o la violencia bajo esas condiciones. Varias disposiciones fueron derogadas con el tiempo hasta la Ley 74-25.",
-      "category": "Noticias",
-      "pubDate": "2026-07-26T14:00:06+00:00",
+      "pubDate": "2026-07-26T18:01:18+00:00",
       "imageUrls": [
-        "https://n.com.do/wp-content/uploads/2026/07/indigencia-pedigueno--300x189.jpg"
+        "https://eldia.com.do/wp-content/uploads/2026/07/a7bb1680-8885-11f1-888c-4340a977fe30.jpg-1-150x150.webp"
       ],
       "referenceLinks": [
-        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/durante-decadas-la-vagancia-y-mendicidad-fueron-delitos-en-republica-dominicana/" }
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/alemania-busca-a-responsable-de-ataque-contra-orgullo-de-berlin/" }
       ]
     },
     {
-      "title": "Conep alerta: los altos costos de formalización empujan a las empresas a la informalidad",
-      "summary": "El vicepresidente ejecutivo del Conep, César Dargam, advirtió que el elevado costo de formalizar una empresa alimenta los altos niveles de informalidad en la economía dominicana. El dirigente identificó causas como el desconocimiento de la normativa, la complejidad del sistema y los gastos que implica operar dentro de la legalidad. Dargam señaló que la informalidad genera competencia desleal entre empresas.",
-      "category": "Negocios",
-      "pubDate": "2026-07-26T13:59:38+00:00",
-      "imageUrls": [
-        "https://eldia.com.do/wp-content/uploads/2026/06/Diseno-sin-titulo-40-819x1024.png"
-      ],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/altos-costos-de-formalizacion-impulsan-la-informalidad-empresarial-advierte-conep/" }
-      ]
-    },
-    {
-      "title": "Califican de parches incompletos las modificaciones al nuevo Código Penal dominicano",
-      "summary": "El coordinador de Participación Ciudadana, Francisco Álvarez Valdez, calificó las modificaciones al nuevo Código Penal como parches que no tocan la esencia de la norma, que entra en vigor en agosto. El jurista criticó que los cambios se hicieron a la carrera y que la mayoría son de forma, eludiendo temas como la responsabilidad penal de los partidos. Consideró que muchos asuntos pendientes saldrán a relucir pronto.",
-      "category": "Noticias",
-      "pubDate": "2026-07-26T13:53:05+00:00",
-      "imageUrls": [],
-      "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/francisco-alvarez-valdez-califica-como-parches-incompletos-modificaciones-al-nuevo-codigo-penal/" }
-      ]
-    },
-    {
-      "title": "Netanyahu busca apoyo de EE.UU. para desmantelar la Corte Penal Internacional",
-      "summary": "El primer ministro israelí, Benjamín Netanyahu, conversó con el secretario de Estado Marco Rubio sobre su campaña para desmantelar la Corte Penal Internacional antes de viajar a Washington. Netanyahu se reunirá con Donald Trump y afirmó que la CPI pone en peligro la justicia mundial. El viaje ocurre en medio de una escalada de hostilidades entre Estados Unidos e Irán.",
+      "title": "Tribunal federal frena la orden de Trump para restringir el voto por correo",
+      "summary": "Una corte de apelaciones ratificó la suspensión de una orden ejecutiva del presidente Donald Trump que buscaba imponer nuevas restricciones al sufragio postal en 23 estados antes de los comicios de noviembre. Los jueces consideraron que varias disposiciones de la medida probablemente violan la Constitución y que los estados deben prepararse ya para los procesos electorales.",
       "category": "Mundo",
-      "pubDate": "2026-07-26T13:42:08+00:00",
+      "pubDate": "2026-07-26T17:44:20+00:00",
       "imageUrls": [
-        "https://eldia.com.do/wp-content/uploads/2026/07/eeuu-refuerza-bloqueo-naval-iran-150x150.webp"
+        "https://i0.wp.com/efe.com/wp-content/uploads/2026/07/Elecciones_Estados_Unidos-1.webp?resize=900%2C600&ssl=1"
       ],
       "referenceLinks": [
-        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/netanyahu-habla-con-rubio-sobre-desmantelar-la-cpi-antes-de-su-inminente-viaje-a-ee-uu/" }
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/un-tribunal-de-ee-uu-bloquea-una-orden-de-trump-para-restringir-el-voto-por-correo-antes-de-las-elecciones/" }
+      ]
+    },
+    {
+      "title": "El Gobierno entrega 900 viviendas en el primer semestre y planea 4,000 más",
+      "summary": "El ministro de Vivienda informó que la administración de Luis Abinader ha entregado cerca de 900 apartamentos en lo que va de 2026 y tiene programadas más de 4,000 unidades para los próximos meses, incluyendo 170 en Hato del Yaque el 8 de agosto. El funcionario también anunció que la República Dominicana se encuentra en la fase final de actualización del Código Sísmico Dominicano.",
+      "category": "Noticias",
+      "pubDate": "2026-07-26T17:32:40+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/ito-bisono-informa-que-gobierno-entrego-cerca-de-900-viviendas-en-2026-y-proyecta-otras-4000/" }
+      ]
+    },
+    {
+      "title": "Un vehículo se incendia en el sector Gascue del Distrito Nacional",
+      "summary": "Unidades del Cuerpo de Bomberos del Distrito Nacional acudieron a la calle Henríquez Ureña para sofocar un incendio en una yipeta negra estacionada en el sector Gascue. Hasta el momento se desconocen las causas del siniestro y si hubo personas lesionadas o ocupantes dentro del vehículo al momento del evento.",
+      "category": "Noticias",
+      "pubDate": "2026-07-26T17:10:16+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/Migracion-2-150x150.jpeg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/usuarios-reportan-incendio-de-vehiculo-en-gascue/" }
+      ]
+    },
+    {
+      "title": "Francesca Pigozzi gana bronce en esquí náutico para RD en los Centroamericanos",
+      "summary": "La esquiadora dominicana conquistó la medalla de bronce en esquí náutico durante los Juegos Centroamericanos y del Caribe Santo Domingo 2026, sumando la sexta presea para el país anfitrión. La atleta ya había demostrado su talento al obtener la plata en el Campeonato Latinoamericano júnior celebrado en México en 2025.",
+      "category": "Deportes",
+      "pubDate": "2026-07-26T17:10:00+00:00",
+      "imageUrls": [
+        "https://n.com.do/wp-content/uploads/2026/07/Medalla-Frances.jpg"
+      ],
+      "referenceLinks": [
+        { "feedName": "n.com.do", "articleUrl": "https://n.com.do/2026/07/26/francesca-pigozzi-bronce-esqui-nautico-santo-domingo-2026/" }
+      ]
+    },
+    {
+      "title": "Cuba se impone en el doble scull masculino de remo en los Centroamericanos",
+      "summary": "Los remeros cubanos Eduar Suárez y Reidy Cardona conquistaron el oro en la categoría doble scull masculino con un tiempo de 6:32.80 en la presa de Rincón, Bonao. La dupla dominicana de Ignacio Vásquez y Jancarlos Tineo terminó en cuarta posición, mientras que México y Venezuela completaron el podio con la plata y el bronce respectivamente.",
+      "category": "Deportes",
+      "pubDate": "2026-07-26T17:04:54+00:00",
+      "imageUrls": [],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/cuba-se-queda-con-el-oro-en-m2x-de-remo-masculino/" }
+      ]
+    },
+    {
+      "title": "Una caminata en Santo Domingo busca concientizar sobre la prevención de la diabetes",
+      "summary": "La caminata 'Ganémosle a la Diabetes' reunió a pacientes, profesionales de la salud y empresas en Santo Domingo para promover la prevención y el diagnóstico oportuno de esta enfermedad crónica. La empresa Macrotech respaldó la iniciativa y reiteró su compromiso con el desarrollo de soluciones tecnológicas que mejoren la atención y calidad de vida de quienes viven con la condición.",
+      "category": "Ciencia",
+      "pubDate": "2026-07-26T16:59:14+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/Endocrinologa-Maricela-Ramirez-habla-sobre-problemas-de-salud-que-se-exarceban-con-la-obesidad-150x150.jpg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/macrotech-reafirma-su-compromiso-con-la-prevencion-y-el-cuidado-integral-de-la-diabetes-durante-la-caminata-ganemosle-a-la-diabetes/" }
+      ]
+    },
+    {
+      "title": "Migración detiene a más de mil extranjeros indocumentados en operativos nacionales",
+      "summary": "La Dirección General de Migración realizó operativos de interdicción en siete provincias de la zona norte y en varios sectores del Gran Santo Domingo, resultando en la detención de 1,004 extranjeros en condición irregular y la deportación de otros 1,086. Las intervenciones abarcaron paradas de guaguas, zonas agrícolas y comunidades fronterizas identificadas mediante labores de inteligencia.",
+      "category": "Noticias",
+      "pubDate": "2026-07-26T16:49:51+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/23-haitianos-indocumentados-e1785078831957-150x150.jpeg"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/migracion-detiene-a-102-indocumentados-en-santiago-y-mas-de-mil-a-nivel-nacional/" }
+      ]
+    },
+    {
+      "title": "Indomet pronostica calor matutino y lluvias vespertinas para los Juegos Centroamericanos",
+      "summary": "La directora del Instituto Dominicano de Meteorología recomendó hidratación constante y precaución ante las altas temperaturas durante el segundo día de competencias de los Juegos Centroamericanos y del Caribe. El pronóstico indica cielo despejado y calor en la mañana, seguido de incrementos nubosos con aguaceros aislados y tormentas en provincias del centro y sur del país durante la tarde.",
+      "category": "Ciencia",
+      "pubDate": "2026-07-26T16:31:10+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/ChatGPT-Image-26-jul-2026-09_02_01-a.m-150x150.png",
+        "https://eldia.com.do/wp-content/uploads/2025/05/Gloria-Ceballos-1024x979.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/sabes-cuales-seran-las-condiciones-del-tiempo-para-los-juegos-centroamericanos-este-domingo/" }
+      ]
+    },
+    {
+      "title": "Keiko Fujimori asumirá la presidencia de Perú y afianza el giro derechista en la región",
+      "summary": "La investidura de Keiko Fujimori prevista para el 28 de julio alinea a Perú con el bloque de gobiernos derechistas de América Latina cercanos a la administración de Donald Trump. La nueva presidenta busca integrar al país andino en el 'Escudo de las Américas', una iniciativa estadounidense contra el crimen organizado transnacional, mientras China se consolida como principal socio comercial de la economía peruana.",
+      "category": "Mundo",
+      "pubDate": "2026-07-26T16:25:50+00:00",
+      "imageUrls": [
+        "https://eldia.com.do/wp-content/uploads/2026/07/download-2-8-150x150.webp"
+      ],
+      "referenceLinks": [
+        { "feedName": "El Día", "articleUrl": "https://eldia.com.do/fujimori-profundiza-el-giro-a-la-derecha-en-latinoamerica-y-acerca-a-peru-a-trump/" }
       ]
     }
   ]
