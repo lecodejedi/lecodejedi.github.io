@@ -5,247 +5,234 @@
     <link>https://lecodejedi.github.io/noticiasrd.xml</link>
     <description>Resumen diario de noticias dominicanas de las principales fuentes de prensa nacional.</description>
     <language>es</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:01:53 +0000</lastBuildDate>
     <generator>Noticias.RD RSS Summarizer</generator>
     <item>
-      <title>La Gran Parada Dominicana del Bronx celebra su edición 37 entre honores y quejas</title>
-      <description>La trigésima séptima versión del desfile dominicano en el Bronx contó con la presencia del alcalde de Nueva York y rindió homenaje al periodista Salvador Holguín como padrino de honor por su trayectoria de más de 25 años. El organizador del evento, Felipe Febles, denunció restricciones policiales que redujeron de 53 a 32 las carrozas participantes y dificultaron el acceso del público al recorrido.</description>
+      <title>La JCE fija el 3 de agosto como plazo final para que los partidos actualicen sus registros de afiliados</title>
+      <description>La Junta Central Electoral recordó a partidos, agrupaciones y movimientos políticos que disponen hasta el 3 de agosto para entregar el registro anual actualizado de afiliados, conforme a lo establecido en la Ley 33-18. El organismo electoral enfatizó que el cumplimiento de esta obligación fortalece la transparencia y el orden democrático del sistema de partidos. La normativa exige que los registros incluyan las fichas de afiliación organizadas por circunscripción, municipio, provincia y seccionales del exterior.</description>
       <category>Noticias</category>
-      <link>https://elnuevodiario.com.do/salvador-holguin-agradece-homenaje-recibido-en-parada-dominicana-del-bronx/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/salvador-holguin-agradece-homenaje-recibido-en-parada-dominicana-del-bronx/</guid>
-      <source url="https://elnuevodiario.com.do/salvador-holguin-agradece-homenaje-recibido-en-parada-dominicana-del-bronx/">El Nuevo Diario</source>
-      <comments>Diario Libre: https://www.diariolibre.com/usa/actualidad/2026/07/26/alcalde-de-nueva-york-participa-en-gran-parada-dominicana-bronx/3611114</comments>
-      <comments>El Nuevo Diario: https://elnuevodiario.com.do/felipe-febles-afirma-supuestamente-quieren-acabar-con-los-dominicanos-en-nueva-york/</comments>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/IMAGEN-Salvador-Holguin-sera-investido-como-padrino-de-honor-de-la-Gran-Parada-Dominicana-del-Bronx-1-1-355x200.jpeg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 19:42:47 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/jce-recuerda-a-partidos-que-tienen-hasta-el-3-de-agosto-para-actualizar-y-entregar-su-registro-de-afiliados/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/jce-recuerda-a-partidos-que-tienen-hasta-el-3-de-agosto-para-actualizar-y-entregar-su-registro-de-afiliados/</guid>
+      <source url="https://elnuevodiario.com.do/jce-recuerda-a-partidos-que-tienen-hasta-el-3-de-agosto-para-actualizar-y-entregar-su-registro-de-afiliados/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/04/CEDULA-NEW-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Mon, 27 Jul 2026 00:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>El 911 dominicano evalúa incorporar robótica de Boston Dynamics para emergencias</title>
-      <description>Una delegación del Sistema Nacional de Atención a Emergencias 911 visitó la sede de Boston Dynamics en Massachusetts para explorar el uso de robots en operaciones de rescate, evaluación estructural y manejo de materiales peligrosos. El encuentro forma parte del proyecto 911 Nueva Generación, que busca modernizar la respuesta ante incidentes con inteligencia artificial y tecnología no tripulada.</description>
-      <category>Tecnología</category>
-      <link>https://n.com.do/2026/07/26/sistema-911-explora-uso-de-robots-de-boston-dynamics-para-fortalecer-la-atencion-de-emergencias/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/26/sistema-911-explora-uso-de-robots-de-boston-dynamics-para-fortalecer-la-atencion-de-emergencias/</guid>
-      <source url="https://n.com.do/2026/07/26/sistema-911-explora-uso-de-robots-de-boston-dynamics-para-fortalecer-la-atencion-de-emergencias/">n.com.do</source>
-      <comments>El Día: https://eldia.com.do/sistema-911-y-boston-dynamics-el-impulsan-el-uso-de-robotica-para-atender-emergencias-en-rd/</comments>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/TRASPLANTE-150x150.webp" type="image/webp" />
-      <pubDate>Sun, 26 Jul 2026 17:30:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Milei señala a Brasil de financiar una campaña hostil contra Argentina durante el Mundial</title>
-      <description>El presidente argentino afirmó que el gobierno brasileño sufragó parte de una ofensiva en redes sociales contra su país durante la Copa del Mundo, tras lo cual Brasil llamó a consultas a su embajador en Buenos Aires. La tensión diplomática se agudizó tras los agravios que el mandatario argentino profirió contra Luiz Inácio Lula da Silva.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/milei-acusa-al-gobierno-de-brasil-de-financiar-campana-antiargentina-durante-el-mundial/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/milei-acusa-al-gobierno-de-brasil-de-financiar-campana-antiargentina-durante-el-mundial/</guid>
-      <source url="https://elnuevodiario.com.do/milei-acusa-al-gobierno-de-brasil-de-financiar-campana-antiargentina-durante-el-mundial/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/03/milei-355x200.webp" type="image/webp" />
-      <pubDate>Sun, 26 Jul 2026 19:59:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Condena por robo de aguacates reaviva el debate sobre la justicia penal en RD</title>
-      <description>Un juez impuso seis meses de prisión a un joven por el hurto de 32 aguacates en una finca de San José de Ocoa, aplicando la pena mínima que contempla el Código Procesal Penal para el robo de cosechas. El caso ha generado reflexión sobre la desigual aplicación de la ley frente a la impunidad que rodea a los delitos de cuello blanco y la corrupción administrativa.</description>
+      <title>Una legisladora del PRM subraya la labor formativa de los padres en el Día de los Padres</title>
+      <description>La diputada Elvira Corporán, dirigente del Partido Revolucionario Moderno por la provincia San Juan, destacó la importancia de la figura paterna en la formación de hijos con valores durante la celebración del Día de los Padres. La legisladora sostuvo que la responsabilidad del padre trasciende el sustento económico y abarca la orientación, la educación y el acompañamiento emocional de los hijos. Corporán exhortó a los hombres a ejercer una paternidad cercana y comprometida con la crianza.</description>
       <category>Noticias</category>
-      <link>https://elnuevodiario.com.do/el-preso-de-los-aguacates-y-la-sociedad-de-hoy/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/el-preso-de-los-aguacates-y-la-sociedad-de-hoy/</guid>
-      <source url="https://elnuevodiario.com.do/el-preso-de-los-aguacates-y-la-sociedad-de-hoy/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Juan-Manuel-Ventura-355x200.jpeg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 19:57:01 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/diputada-elvira-corporan-resalta-el-rol-de-los-padres-en-la-formacion-de-hijos-con-valores/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/diputada-elvira-corporan-resalta-el-rol-de-los-padres-en-la-formacion-de-hijos-con-valores/</guid>
+      <source url="https://elnuevodiario.com.do/diputada-elvira-corporan-resalta-el-rol-de-los-padres-en-la-formacion-de-hijos-con-valores/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/9245ffcc-33fa-48dc-a8e9-35178d5eae69-355x200.jpeg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 23:47:31 +0000</pubDate>
     </item>
     <item>
-      <title>Juan Orlando Hernández regresa a Honduras y pide que no se politice su causa judicial</title>
-      <description>El expresidente hondureño retornó al país tras recibir un indulto total del gobierno de Donald Trump que lo liberó de una condena de 45 años por narcotráfico en Estados Unidos. Hernández deberá comparecer el 3 de agosto ante un tribunal por presunto desvío de fondos estatales vinculado al expediente de corrupción conocido como 'Pandora II'.</description>
+      <title>El brote de ébola en el Congo supera los tres mil casos con una letalidad del 44%</title>
+      <description>Las autoridades sanitarias de la República Democrática del Congo elevaron a 3.075 los casos confirmados de ébola, con 1.354 fallecidos, desde que el brote fue declarado el 15 de mayo en la provincia oriental de Ituri. El Ministerio de Comunicación informó que 556 personas se han recuperado y 755 permanecen hospitalizadas, mientras la tasa de rastreo de contactos alcanza el 76,4%. El Instituto Nacional de Salud Pública advirtió que la epidemia mantiene una fase de transmisión continuada con elevada circulación viral en cinco provincias del país.</description>
       <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/expresidente-indultado-en-ee-uu-pide-que-su-proceso-penal-en-honduras-no-se-politice/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/expresidente-indultado-en-ee-uu-pide-que-su-proceso-penal-en-honduras-no-se-politice/</guid>
-      <source url="https://elnuevodiario.com.do/expresidente-indultado-en-ee-uu-pide-que-su-proceso-penal-en-honduras-no-se-politice/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/12/indulto-a-juan-orlando-hernandez-genera-rechazo-83f376be-focus-0-0-1200-675-355x200.webp" type="image/webp" />
-      <pubDate>Sun, 26 Jul 2026 19:52:20 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/la-rd-del-congo-supera-los-3-000-casos-confirmados-de-ebola-incluidos-1-354-muertos/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/la-rd-del-congo-supera-los-3-000-casos-confirmados-de-ebola-incluidos-1-354-muertos/</guid>
+      <source url="https://elnuevodiario.com.do/la-rd-del-congo-supera-los-3-000-casos-confirmados-de-ebola-incluidos-1-354-muertos/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/06/congo-ebola-muertos-355x200.webp" type="image/webp" />
+      <pubDate>Sun, 26 Jul 2026 23:47:06 +0000</pubDate>
     </item>
     <item>
-      <title>Milei inaugura la Exposición Rural de Palermo y promete seguir reduciendo impuestos al agro</title>
-      <description>El presidente argentino encabezó la apertura de la 138ª edición de la principal feria agropecuaria del país y ratificó su compromiso de continuar bajando los derechos de exportación, aunque evitó anunciar nuevas medidas. El mandatario aseguró que el crecimiento de los sectores minero y energético permitirá financiar la eliminación gradual de los tributos al campo.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/milei-reafirma-su-apoyo-al-campo-y-promete-continuar-la-baja-de-derechos-de-exportacion/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/milei-reafirma-su-apoyo-al-campo-y-promete-continuar-la-baja-de-derechos-de-exportacion/</guid>
-      <source url="https://elnuevodiario.com.do/milei-reafirma-su-apoyo-al-campo-y-promete-continuar-la-baja-de-derechos-de-exportacion/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/03/milei-355x200.webp" type="image/webp" />
-      <pubDate>Sun, 26 Jul 2026 19:50:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Panamá descarta la presencia del Clan del Golfo en su territorio pese a alertas de inteligencia</title>
-      <description>El ministro de Seguridad Pública de Panamá aseguró que no existe evidencia oficial de que integrantes del Clan del Golfo o grupos irregulares colombianos operen en el país, tras una publicación que señalaba lo contrario. El funcionario admitió que podrían existir informaciones de inteligencia en proceso de validación que aún no han llegado a las autoridades panameñas.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/panama-niega-la-presencia-en-su-territorio-del-clan-del-golfo-o-de-irregulares-colombianos/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/panama-niega-la-presencia-en-su-territorio-del-clan-del-golfo-o-de-irregulares-colombianos/</guid>
-      <source url="https://elnuevodiario.com.do/panama-niega-la-presencia-en-su-territorio-del-clan-del-golfo-o-de-irregulares-colombianos/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/02/18174102/ee8c40bbdecd54c0e289405cf80f9569400b4392w-355x200.jpg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 19:49:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Senador Alexis Victoria celebra el Día del Padre con entrega de motores en Nagua</title>
-      <description>El legislador por María Trinidad Sánchez reunió a cientos de familias en el Polideportivo de Nagua para conmemorar el Día del Padre con sorteos de motocicletas y otros obsequios. La actividad buscó reconocer el esfuerzo de los padres de la provincia y fortalecer los vínculos del congresista con las comunidades locales.</description>
-      <category>Noticias</category>
-      <link>https://elnuevodiario.com.do/senador-alexis-victoria-agasaja-a-padres-de-maria-trinidad-sanchez-con-entrega-de-motores-por-su-dia/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/senador-alexis-victoria-agasaja-a-padres-de-maria-trinidad-sanchez-con-entrega-de-motores-por-su-dia/</guid>
-      <source url="https://elnuevodiario.com.do/senador-alexis-victoria-agasaja-a-padres-de-maria-trinidad-sanchez-con-entrega-de-motores-por-su-dia/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Padres-en-motocicletas-junto-a-senador-Alexis-Victoria-1-355x200.jpeg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 19:45:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>El nuevo Código Penal podría deteriorar la relación entre médicos y pacientes en RD</title>
-      <description>Un galeno dominicano advierte que la normativa penal próxima a entrar en vigencia podría transformar el vínculo de confianza entre el personal de salud y los pacientes en una relación de desconfianza y confrontación. El autor sostiene que la criminalización de la práctica médica pondría en riesgo la estabilidad laboral de los profesionales y el acceso a la atención sanitaria.</description>
-      <category>Ciencia</category>
-      <link>https://elnuevodiario.com.do/relacion-medico-paciente-y-el-nuevo-codigo-penal/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/relacion-medico-paciente-y-el-nuevo-codigo-penal/</guid>
-      <source url="https://elnuevodiario.com.do/relacion-medico-paciente-y-el-nuevo-codigo-penal/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/06/CLEMENTE-TERRERO-355x200.webp" type="image/webp" />
-      <pubDate>Sun, 26 Jul 2026 19:44:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Estados Unidos mantiene abiertas todas las opciones ante el conflicto con Irán</title>
-      <description>El embajador estadounidense ante la ONU señaló que Donald Trump evalúa medidas diplomáticas, económicas y militares para determinar el siguiente paso en la guerra contra Irán. Las declaraciones llegan en medio de una pausa temporal en las hostilidades y de un debate interno sobre el costo del conflicto, que ya supera los 37.500 millones de dólares.</description>
-      <category>Mundo</category>
-      <link>https://elnuevodiario.com.do/eeuu-afirma-que-trump-tiene-todas-las-opciones-en-la-mesa-frente-a-iran/</link>
-      <guid isPermaLink="true">https://elnuevodiario.com.do/eeuu-afirma-que-trump-tiene-todas-las-opciones-en-la-mesa-frente-a-iran/</guid>
-      <source url="https://elnuevodiario.com.do/eeuu-afirma-que-trump-tiene-todas-las-opciones-en-la-mesa-frente-a-iran/">El Nuevo Diario</source>
-      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/El-presidente-de-Estados-Unidos-Donald-Trump-2-355x200.jpg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 19:40:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>El PRM ratifica a Igor Rodríguez Durán como presidente provincial en Puerto Plata</title>
-      <description>La Asamblea Eleccionaria del Partido Revolucionario Moderno reeligió al ingeniero Igor Rodríguez Durán al frente del comité provincial para el período 2026-2028 con el respaldo del 95,5% de los delegados. La dirección provincial quedó conformada por vicepresidentes y secretarios que continuarán trabajando de cara a los próximos procesos electorales.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/igor-rodriguez-duran-es-ratificado-por-dos-anos-como-presidente-provincial-del-prm-en-puerto-plata/</link>
-      <guid isPermaLink="true">https://eldia.com.do/igor-rodriguez-duran-es-ratificado-por-dos-anos-como-presidente-provincial-del-prm-en-puerto-plata/</guid>
-      <source url="https://eldia.com.do/igor-rodriguez-duran-es-ratificado-por-dos-anos-como-presidente-provincial-del-prm-en-puerto-plata/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/informalidad-laboral-2-150x150.jpg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 18:36:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>El comercio dominicano se dinamiza por el Día del Padre con presupuestos de hasta RD$10,000</title>
-      <description>Tiendas y plazas comerciales del Gran Santo Domingo reportaron una fuerte afluencia de compradores que buscan obsequios prácticos para celebrar el Día del Padre, con presupuestos que oscilan entre RD$1,500 y RD$10,000. Los consumidores priorizaron prendas de vestir y artículos de uso diario como camisas, bermudas y medias para agasajar a padres, hermanos y esposos.</description>
-      <category>Negocios</category>
-      <link>https://eldia.com.do/dia-del-padre-dinamiza-el-comercio-con-regalos-practicos-y-presupuestos-de-hasta-rd10000/</link>
-      <guid isPermaLink="true">https://eldia.com.do/dia-del-padre-dinamiza-el-comercio-con-regalos-practicos-y-presupuestos-de-hasta-rd10000/</guid>
-      <source url="https://eldia.com.do/dia-del-padre-dinamiza-el-comercio-con-regalos-practicos-y-presupuestos-de-hasta-rd10000/">El Día</source>
-      <pubDate>Sun, 26 Jul 2026 18:34:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>El MINERD se suma a la Alianza por el Bienestar para fomentar hábitos saludables en las escuelas</title>
-      <description>El Ministerio de Educación y la Asociación de Industrias de la República Dominicana firmaron un acuerdo de tres años para impulsar la educación sobre alimentación consciente y actividad física desde las aulas. La iniciativa busca que los estudiantes dominicanos adopten decisiones informadas sobre su bienestar y extiendan esos hábitos hacia sus familias.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/educacion-se-integra-a-la-alianza-por-el-bienestar-para-promover-habitos-saludables-desde-las-aulas/</link>
-      <guid isPermaLink="true">https://eldia.com.do/educacion-se-integra-a-la-alianza-por-el-bienestar-para-promover-habitos-saludables-desde-las-aulas/</guid>
-      <source url="https://eldia.com.do/educacion-se-integra-a-la-alianza-por-el-bienestar-para-promover-habitos-saludables-desde-las-aulas/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/Utileria-escolar-150x150.jpeg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 18:28:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>México domina el medallero de los Centroamericanos Santo Domingo 2026; RD marcha séptima</title>
-      <description>La delegación mexicana encabeza con claridad el medallero de los Juegos Centroamericanos y del Caribe con 25 preseas, seguida por Cuba y Colombia en el podio regional. El país anfitrión, República Dominicana, ocupa el séptimo lugar con siete medallas distribuidas entre judo, remo y esquí náutico.</description>
+      <title>Judocas dominicanas brillan en Santo Domingo 2026 con oro de Damiano y dos bronces</title>
+      <description>La delegación dominicana de judo sumó tres preseas en la jornada dominical de los Juegos Centroamericanos y del Caribe, destacándose el oro de Esmeralda Damiano en la división de menos de 70 kilogramos tras imponerse a la venezolana Eliana Aguiar. Maikor Louis y Creymarlin Valdez aportaron sendos bronces en las categorías de menos de 73 y menos de 63 kilogramos, respectivamente. Damiano, visiblemente emocionada, declaró que su mayor desafío ha sido mental y dedicó la medalla a Dios, su familia y el pueblo dominicano.</description>
       <category>Deportes</category>
-      <link>https://n.com.do/2026/07/26/rd-septima-mexico-lider-medallero-santo-domingo-2026/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/26/rd-septima-mexico-lider-medallero-santo-domingo-2026/</guid>
-      <source url="https://n.com.do/2026/07/26/rd-septima-mexico-lider-medallero-santo-domingo-2026/">n.com.do</source>
-      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/Medallero-1-1-1024x758.jpg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 18:14:44 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/rd-conquista-tres-medallas-en-la-jornada-de-judo-de-santo-domingo-2026/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/rd-conquista-tres-medallas-en-la-jornada-de-judo-de-santo-domingo-2026/</guid>
+      <source url="https://elnuevodiario.com.do/rd-conquista-tres-medallas-en-la-jornada-de-judo-de-santo-domingo-2026/">El Nuevo Diario</source>
+      <comments>El Nuevo Diario: https://elnuevodiario.com.do/tercer-dia-de-los-juegos-santo-domingo-2026-repartira-medallas-en-nueve-deportes/</comments>
+      <comments>n.com.do: https://www.n.com.do/2026/07/26/esmeralda-damiano-oro-judo-segunda-medalla-rd/</comments>
+      <comments>n.com.do: https://www.n.com.do/2026/07/26/esmeralda-damiano-llora-oro-juegos-centroamericanos-2026/</comments>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/JUDOCAS-6D-355x200.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 23:46:22 +0000</pubDate>
     </item>
     <item>
-      <title>Alemania persigue al presunto autor del ataque contra el Orgullo de Berlín</title>
-      <description>Las autoridades alemanas emitieron una orden de búsqueda contra un ciudadano de raíces libanesas acusado de arrollar a una multitud con su camioneta y herir a varias personas con un machete cerca del festival del Orgullo de Berlín, dejando un muerto y 29 heridos. El ministro del Interior calificó el hecho como un ataque terrorista de inspiración islámica y reveló que el sospechoso había intentado sumarse al Estado Islámico.</description>
-      <category>Mundo</category>
-      <link>https://eldia.com.do/alemania-busca-a-responsable-de-ataque-contra-orgullo-de-berlin/</link>
-      <guid isPermaLink="true">https://eldia.com.do/alemania-busca-a-responsable-de-ataque-contra-orgullo-de-berlin/</guid>
-      <source url="https://eldia.com.do/alemania-busca-a-responsable-de-ataque-contra-orgullo-de-berlin/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/a7bb1680-8885-11f1-888c-4340a977fe30.jpg-1-150x150.webp" type="image/webp" />
-      <pubDate>Sun, 26 Jul 2026 18:01:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tribunal federal frena la orden de Trump para restringir el voto por correo</title>
-      <description>Una corte de apelaciones ratificó la suspensión de una orden ejecutiva del presidente Donald Trump que buscaba imponer nuevas restricciones al sufragio postal en 23 estados antes de los comicios de noviembre. Los jueces consideraron que varias disposiciones de la medida probablemente violan la Constitución y que los estados deben prepararse ya para los procesos electorales.</description>
-      <category>Mundo</category>
-      <link>https://eldia.com.do/un-tribunal-de-ee-uu-bloquea-una-orden-de-trump-para-restringir-el-voto-por-correo-antes-de-las-elecciones/</link>
-      <guid isPermaLink="true">https://eldia.com.do/un-tribunal-de-ee-uu-bloquea-una-orden-de-trump-para-restringir-el-voto-por-correo-antes-de-las-elecciones/</guid>
-      <source url="https://eldia.com.do/un-tribunal-de-ee-uu-bloquea-una-orden-de-trump-para-restringir-el-voto-por-correo-antes-de-las-elecciones/">El Día</source>
-      <enclosure url="https://i0.wp.com/efe.com/wp-content/uploads/2026/07/Elecciones_Estados_Unidos-1.webp?resize=900%2C600&amp;ssl=1" type="image/webp" />
-      <pubDate>Sun, 26 Jul 2026 17:44:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>El Gobierno entrega 900 viviendas en el primer semestre y planea 4,000 más</title>
-      <description>El ministro de Vivienda informó que la administración de Luis Abinader ha entregado cerca de 900 apartamentos en lo que va de 2026 y tiene programadas más de 4,000 unidades para los próximos meses, incluyendo 170 en Hato del Yaque el 8 de agosto. El funcionario también anunció que la República Dominicana se encuentra en la fase final de actualización del Código Sísmico Dominicano.</description>
-      <category>Noticias</category>
-      <link>https://n.com.do/2026/07/26/ito-bisono-informa-que-gobierno-entrego-cerca-de-900-viviendas-en-2026-y-proyecta-otras-4000/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/26/ito-bisono-informa-que-gobierno-entrego-cerca-de-900-viviendas-en-2026-y-proyecta-otras-4000/</guid>
-      <source url="https://n.com.do/2026/07/26/ito-bisono-informa-que-gobierno-entrego-cerca-de-900-viviendas-en-2026-y-proyecta-otras-4000/">n.com.do</source>
-      <pubDate>Sun, 26 Jul 2026 17:32:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Un vehículo se incendia en el sector Gascue del Distrito Nacional</title>
-      <description>Unidades del Cuerpo de Bomberos del Distrito Nacional acudieron a la calle Henríquez Ureña para sofocar un incendio en una yipeta negra estacionada en el sector Gascue. Hasta el momento se desconocen las causas del siniestro y si hubo personas lesionadas o ocupantes dentro del vehículo al momento del evento.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/usuarios-reportan-incendio-de-vehiculo-en-gascue/</link>
-      <guid isPermaLink="true">https://eldia.com.do/usuarios-reportan-incendio-de-vehiculo-en-gascue/</guid>
-      <source url="https://eldia.com.do/usuarios-reportan-incendio-de-vehiculo-en-gascue/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/Migracion-2-150x150.jpeg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 17:10:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Francesca Pigozzi gana bronce en esquí náutico para RD en los Centroamericanos</title>
-      <description>La esquiadora dominicana conquistó la medalla de bronce en esquí náutico durante los Juegos Centroamericanos y del Caribe Santo Domingo 2026, sumando la sexta presea para el país anfitrión. La atleta ya había demostrado su talento al obtener la plata en el Campeonato Latinoamericano júnior celebrado en México en 2025.</description>
+      <title>Bateo de Valdez y O'Hearn detiene la mala racha de los Piratas ante los Cachorros</title>
+      <description>Los Piratas de Pittsburgh cortaron una racha de tres derrotas seguidas al imponerse 8-7 a los Cachorros de Chicago en el PNC Park, gracias a una producción ofensiva que los perfila como compradores de cara a la fecha límite de cambios del 3 de agosto. El gerente general Ben Cherington señaló que el equipo tiene una base sólida y que no espera que los resultados diarios alteren sus planes. La victoria mantiene a Pittsburgh en la pelea por un comodín de la Liga Nacional.</description>
       <category>Deportes</category>
-      <link>https://n.com.do/2026/07/26/francesca-pigozzi-bronce-esqui-nautico-santo-domingo-2026/</link>
-      <guid isPermaLink="true">https://n.com.do/2026/07/26/francesca-pigozzi-bronce-esqui-nautico-santo-domingo-2026/</guid>
-      <source url="https://n.com.do/2026/07/26/francesca-pigozzi-bronce-esqui-nautico-santo-domingo-2026/">n.com.do</source>
-      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/Medalla-Frances.jpg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 17:10:00 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/poder-de-valdez-y-ohearn-ayuda-a-frenar-mala-racha-de-piratas/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/poder-de-valdez-y-ohearn-ayuda-a-frenar-mala-racha-de-piratas/</guid>
+      <source url="https://elnuevodiario.com.do/poder-de-valdez-y-ohearn-ayuda-a-frenar-mala-racha-de-piratas/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/ug8gvx3z50ssovjkbv70d-355x200.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 23:38:09 +0000</pubDate>
     </item>
     <item>
-      <title>Cuba se impone en el doble scull masculino de remo en los Centroamericanos</title>
-      <description>Los remeros cubanos Eduar Suárez y Reidy Cardona conquistaron el oro en la categoría doble scull masculino con un tiempo de 6:32.80 en la presa de Rincón, Bonao. La dupla dominicana de Ignacio Vásquez y Jancarlos Tineo terminó en cuarta posición, mientras que México y Venezuela completaron el podio con la plata y el bronce respectivamente.</description>
-      <category>Deportes</category>
-      <link>https://eldia.com.do/cuba-se-queda-con-el-oro-en-m2x-de-remo-masculino/</link>
-      <guid isPermaLink="true">https://eldia.com.do/cuba-se-queda-con-el-oro-en-m2x-de-remo-masculino/</guid>
-      <source url="https://eldia.com.do/cuba-se-queda-con-el-oro-en-m2x-de-remo-masculino/">El Día</source>
-      <pubDate>Sun, 26 Jul 2026 17:04:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Una caminata en Santo Domingo busca concientizar sobre la prevención de la diabetes</title>
-      <description>La caminata 'Ganémosle a la Diabetes' reunió a pacientes, profesionales de la salud y empresas en Santo Domingo para promover la prevención y el diagnóstico oportuno de esta enfermedad crónica. La empresa Macrotech respaldó la iniciativa y reiteró su compromiso con el desarrollo de soluciones tecnológicas que mejoren la atención y calidad de vida de quienes viven con la condición.</description>
-      <category>Ciencia</category>
-      <link>https://eldia.com.do/macrotech-reafirma-su-compromiso-con-la-prevencion-y-el-cuidado-integral-de-la-diabetes-durante-la-caminata-ganemosle-a-la-diabetes/</link>
-      <guid isPermaLink="true">https://eldia.com.do/macrotech-reafirma-su-compromiso-con-la-prevencion-y-el-cuidado-integral-de-la-diabetes-durante-la-caminata-ganemosle-a-la-diabetes/</guid>
-      <source url="https://eldia.com.do/macrotech-reafirma-su-compromiso-con-la-prevencion-y-el-cuidado-integral-de-la-diabetes-durante-la-caminata-ganemosle-a-la-diabetes/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/Endocrinologa-Maricela-Ramirez-habla-sobre-problemas-de-salud-que-se-exarceban-con-la-obesidad-150x150.jpg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 16:59:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Migración detiene a más de mil extranjeros indocumentados en operativos nacionales</title>
-      <description>La Dirección General de Migración realizó operativos de interdicción en siete provincias de la zona norte y en varios sectores del Gran Santo Domingo, resultando en la detención de 1,004 extranjeros en condición irregular y la deportación de otros 1,086. Las intervenciones abarcaron paradas de guaguas, zonas agrícolas y comunidades fronterizas identificadas mediante labores de inteligencia.</description>
-      <category>Noticias</category>
-      <link>https://eldia.com.do/migracion-detiene-a-102-indocumentados-en-santiago-y-mas-de-mil-a-nivel-nacional/</link>
-      <guid isPermaLink="true">https://eldia.com.do/migracion-detiene-a-102-indocumentados-en-santiago-y-mas-de-mil-a-nivel-nacional/</guid>
-      <source url="https://eldia.com.do/migracion-detiene-a-102-indocumentados-en-santiago-y-mas-de-mil-a-nivel-nacional/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/23-haitianos-indocumentados-e1785078831957-150x150.jpeg" type="image/jpeg" />
-      <pubDate>Sun, 26 Jul 2026 16:49:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indomet pronostica calor matutino y lluvias vespertinas para los Juegos Centroamericanos</title>
-      <description>La directora del Instituto Dominicano de Meteorología recomendó hidratación constante y precaución ante las altas temperaturas durante el segundo día de competencias de los Juegos Centroamericanos y del Caribe. El pronóstico indica cielo despejado y calor en la mañana, seguido de incrementos nubosos con aguaceros aislados y tormentas en provincias del centro y sur del país durante la tarde.</description>
-      <category>Ciencia</category>
-      <link>https://eldia.com.do/sabes-cuales-seran-las-condiciones-del-tiempo-para-los-juegos-centroamericanos-este-domingo/</link>
-      <guid isPermaLink="true">https://eldia.com.do/sabes-cuales-seran-las-condiciones-del-tiempo-para-los-juegos-centroamericanos-este-domingo/</guid>
-      <source url="https://eldia.com.do/sabes-cuales-seran-las-condiciones-del-tiempo-para-los-juegos-centroamericanos-este-domingo/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/ChatGPT-Image-26-jul-2026-09_02_01-a.m-150x150.png" type="image/png" />
-      <pubDate>Sun, 26 Jul 2026 16:31:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keiko Fujimori asumirá la presidencia de Perú y afianza el giro derechista en la región</title>
-      <description>La investidura de Keiko Fujimori prevista para el 28 de julio alinea a Perú con el bloque de gobiernos derechistas de América Latina cercanos a la administración de Donald Trump. La nueva presidenta busca integrar al país andino en el 'Escudo de las Américas', una iniciativa estadounidense contra el crimen organizado transnacional, mientras China se consolida como principal socio comercial de la economía peruana.</description>
+      <title>Un ataque con drones ucranianos deja cuatro civiles muertos en la región de Donetsk</title>
+      <description>Cuatro civiles perdieron la vida y siete resultaron heridos tras un ataque con drones atribuido a fuerzas ucranianas en el distrito de Nikitovski, en la ciudad de Górlovka, dentro de la región de Donetsk anexionada por Rusia. El alcalde local, Iván Prijodko, informó los hechos a través de redes sociales. La localidad, situada a unos 50 kilómetros de la capital regional, alberga a más de 200.000 residentes.</description>
       <category>Mundo</category>
-      <link>https://eldia.com.do/fujimori-profundiza-el-giro-a-la-derecha-en-latinoamerica-y-acerca-a-peru-a-trump/</link>
-      <guid isPermaLink="true">https://eldia.com.do/fujimori-profundiza-el-giro-a-la-derecha-en-latinoamerica-y-acerca-a-peru-a-trump/</guid>
-      <source url="https://eldia.com.do/fujimori-profundiza-el-giro-a-la-derecha-en-latinoamerica-y-acerca-a-peru-a-trump/">El Día</source>
-      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/download-2-8-150x150.webp" type="image/webp" />
-      <pubDate>Sun, 26 Jul 2026 16:25:50 +0000</pubDate>
+      <link>https://elnuevodiario.com.do/cuatro-muertos-en-donetsk-por-un-ataque-ucraniano/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/cuatro-muertos-en-donetsk-por-un-ataque-ucraniano/</guid>
+      <source url="https://elnuevodiario.com.do/cuatro-muertos-en-donetsk-por-un-ataque-ucraniano/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Cuatro-muertos-en-Donetsk-por-un-ataque-ucraniano-355x200.webp" type="image/webp" />
+      <pubDate>Sun, 26 Jul 2026 23:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una docente de Higüey denuncia haber sido agredida a golpes junto a su esposo y su hijo adolescente</title>
+      <description>La maestra Rosa Adela Tejeda denunció públicamente que ella, su esposo y su hijo de 15 años fueron presuntamente agredidos con bates por una pareja de esposos en un edificio del sector Lotificación Altagracia, en Higüey. La docente afirmó que los presuntos agresores fueron liberados la misma noche del incidente, mientras que ella y su familia permanecieron detenidos, y denunció que el adolescente fue trasladado por la ciudad como si fuera un delincuente. Tejada sostuvo que su hijo recuperó la libertad tras la intervención de un obispo en el destacamento policial.</description>
+      <category>Noticias</category>
+      <link>https://elnuevodiario.com.do/maestra-denuncia-agresion-a-batazos-contra-ella-su-esposo-e-hijo-de-15-anos-en-higuey/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/maestra-denuncia-agresion-a-batazos-contra-ella-su-esposo-e-hijo-de-15-anos-en-higuey/</guid>
+      <source url="https://elnuevodiario.com.do/maestra-denuncia-agresion-a-batazos-contra-ella-su-esposo-e-hijo-de-15-anos-en-higuey/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/Maestra-denuncia-agresion-a-batazos-contra-ella-su-esposo-e-hijo-de-15-anos-en-Higuey-355x200.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 23:32:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manny Machado dispara jonrón clave en la remontada de los Padres sobre los Marlins</title>
+      <description>El dominicano Manny Machado conectó un vuelacercas de dos carreras en el octavo inning para empatar el partido y, dos bateadores después, Jackson Merrill dio el bambinazo que definió la victoria 5-3 de San Diego sobre Miami. La barrida completó una gira extensa de los Padres, cuyo ataque ha repuntado desde mediados de junio tras un inicio de temporada decepcionante. Jake Cronenworth aportó tres imparables en el encuentro que mantuvo a la ofensiva entre las más productivas de las Grandes Ligas en ese tramo.</description>
+      <category>Deportes</category>
+      <link>https://elnuevodiario.com.do/manny-machado-pega-jonron-y-padres-completan-la-barrida-sobre-marlins/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/manny-machado-pega-jonron-y-padres-completan-la-barrida-sobre-marlins/</guid>
+      <source url="https://elnuevodiario.com.do/manny-machado-pega-jonron-y-padres-completan-la-barrida-sobre-marlins/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/pkzbcilwbtfr3avisnmtd-355x200.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 23:26:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Javier Milei viajará a Lima para la toma de posesión de Keiko Fujimori en Perú</title>
+      <description>El presidente argentino confirmó su asistencia a la ceremonia de investidura de Keiko Fujimori, quien asumirá el mandato presidencial de cinco años tras imponerse por estrecho margen en la segunda vuelta electoral. El canciller peruano anunció que también asistirán los mandatarios de Bolivia, Chile, Ecuador, Panamá, Paraguay y Uruguay, junto al rey de España. Fujimori regresa al poder casi 26 años después de que su padre, Alberto Fujimori, dejara la presidencia peruana.</description>
+      <category>Mundo</category>
+      <link>https://elnuevodiario.com.do/milei-asistira-a-la-investidura-de-la-presidenta-electa-de-peru-keiko-fujimori/</link>
+      <guid isPermaLink="true">https://elnuevodiario.com.do/milei-asistira-a-la-investidura-de-la-presidenta-electa-de-peru-keiko-fujimori/</guid>
+      <source url="https://elnuevodiario.com.do/milei-asistira-a-la-investidura-de-la-presidenta-electa-de-peru-keiko-fujimori/">El Nuevo Diario</source>
+      <enclosure url="https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/El-presidente-argentino-Javier-Milei-y-la-investidura-de-la-presidenta-electa-de-Peru-Keiko-Fujimori-355x200.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 23:23:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>La delegación dominicana alcanza 13 medallas en los Centroamericanos con el bronce de Nahomy Víctor</title>
+      <description>La taekwondista Nahomy Víctor conquistó la medalla de bronce en la categoría de 53 kilogramos, con lo que la República Dominicana sumó 13 preseas en los Juegos Centroamericanos y del Caribe Santo Domingo 2026. El medallero nacional se distribuye en tres oros, dos platas y ocho bronces repartidos entre judo, remo, taekwondo y esquí náutico. El país ocupa el quinto lugar del medallero general de la competencia que reúne a 37 naciones.</description>
+      <category>Deportes</category>
+      <link>https://www.n.com.do/2026/07/26/nahomy-victor-bronce-rd-13-medallas-santo-domingo-2026/</link>
+      <guid isPermaLink="true">https://www.n.com.do/2026/07/26/nahomy-victor-bronce-rd-13-medallas-santo-domingo-2026/</guid>
+      <source url="https://www.n.com.do/2026/07/26/nahomy-victor-bronce-rd-13-medallas-santo-domingo-2026/">n.com.do</source>
+      <enclosure url="https://n.com.do/wp-content/uploads/2026/07/1-medallas.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 22:56:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carlos Beltrán, Andruw Jones y Jeff Kent ingresan al Salón de la Fama del Béisbol</title>
+      <description>Los jardineros centrales Carlos Beltrán y Andruw Jones, junto al segunda base Jeff Kent, fueron exaltados al Salón de la Fama de Cooperstown en una ceremonia que reunió a 60 inmortales del béisbol. Beltrán se convirtió en el sexto puertorriqueño en alcanzar la inmortalidad, mientras que Jones y Kent ingresaron en posiciones que escasean en las votaciones de las últimas décadas. El evento contó con la presencia de figuras legendarias desde Sandy Koufax hasta los exaltados del año anterior.</description>
+      <category>Deportes</category>
+      <link>https://www.n.com.do/2026/07/26/beltran-andruw-jones-jeff-kent-inmortalidad-cooperstown/</link>
+      <guid isPermaLink="true">https://www.n.com.do/2026/07/26/beltran-andruw-jones-jeff-kent-inmortalidad-cooperstown/</guid>
+      <source url="https://www.n.com.do/2026/07/26/beltran-andruw-jones-jeff-kent-inmortalidad-cooperstown/">n.com.do</source>
+      <pubDate>Sun, 26 Jul 2026 22:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>La policía de Berlín abate al autor del ataque contra la Marcha del Orgullo que dejó una muerta</title>
+      <description>El presunto perpetrador del atentado contra la Marcha del Orgullo de Berlín, identificado como Abdul Ballout, de 21 años, fue abatido a tiros por un comando de operaciones especiales en el distrito de Spandau. El joven, ciudadano alemán de ascendencia libanesa que intentó unirse al Estado Islámico en 2025, arremetió contra la multitud con un vehículo y presuntamente con armas blancas, causando la muerte de una mujer y 29 heridos. El canciller Friedrich Merz calificó el hecho como un acto horrendo y prometió una investigación exhaustiva.</description>
+      <category>Mundo</category>
+      <link>https://eldia.com.do/policia-alemana-mata-al-sospechoso-del-ataque-contra-la-marcha-del-orgullo-en-berlin-que-dejo-una-mujer-muerta-y-29-heridos/</link>
+      <guid isPermaLink="true">https://eldia.com.do/policia-alemana-mata-al-sospechoso-del-ataque-contra-la-marcha-del-orgullo-en-berlin-que-dejo-una-mujer-muerta-y-29-heridos/</guid>
+      <source url="https://eldia.com.do/policia-alemana-mata-al-sospechoso-del-ataque-contra-la-marcha-del-orgullo-en-berlin-que-dejo-una-mujer-muerta-y-29-heridos/">El Día</source>
+      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/descarga-21-150x150.webp" type="image/webp" />
+      <pubDate>Sun, 26 Jul 2026 22:31:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>El Gabinete de Políticas Sociales retransmitirá los Juegos Centroamericanos por canales comunitarios</title>
+      <description>La Presidencia de la República autorizó al Gabinete de Políticas Sociales a retransmitir los Juegos Centroamericanos y del Caribe Santo Domingo 2026 a través de su canal de streaming y de la Red de Emisoras de los Centros Tecnológicos Comunitarios. La iniciativa busca llevar las competencias a comunidades con acceso limitado a otras señales y ampliar la cobertura del certamen regional. La coordinadora del Gabinete, Geanilda Vásquez, destacó que la medida responde al compromiso institucional con la promoción del deporte y la inclusión social.</description>
+      <category>Noticias</category>
+      <link>https://eldia.com.do/gabinete-politicas-sociales-llevara-incidencias-jcc/</link>
+      <guid isPermaLink="true">https://eldia.com.do/gabinete-politicas-sociales-llevara-incidencias-jcc/</guid>
+      <source url="https://eldia.com.do/gabinete-politicas-sociales-llevara-incidencias-jcc/">El Día</source>
+      <pubDate>Sun, 26 Jul 2026 22:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Milei culpa al gobierno brasileño de financiar una campaña hostil contra Argentina durante el Mundial</title>
+      <description>El presidente argentino Javier Milei afirmó que el gobierno de Brasil financió parte de una ofensiva en redes sociales contra su país durante la Copa del Mundo, tras lo cual Brasil llamó a consultas a su embajador en Buenos Aires. La tensión diplomática se agudizó tras los agravios que el mandatario argentino profirió contra Luiz Inácio Lula da Silva. Milei sostuvo que Argentina se ha convertido en un emblema de la libertad y atribuyó los ataques mediáticos a su postura frente a las políticas de la región.</description>
+      <category>Mundo</category>
+      <link>https://www.n.com.do/2026/07/26/javier-milei-acusa-al-gobierno-de-brasil-de-financiar-campana-contra-argentina-durante-el-mundial/</link>
+      <guid isPermaLink="true">https://www.n.com.do/2026/07/26/javier-milei-acusa-al-gobierno-de-brasil-de-financiar-campana-contra-argentina-durante-el-mundial/</guid>
+      <source url="https://www.n.com.do/2026/07/26/javier-milei-acusa-al-gobierno-de-brasil-de-financiar-campana-contra-argentina-durante-el-mundial/">n.com.do</source>
+      <pubDate>Sun, 26 Jul 2026 22:03:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>El polvo sahariano mantiene cielos nublados y calor intenso durante los Juegos Centroamericanos</title>
+      <description>El Instituto Dominicano de Meteorología informó que las partículas de polvo del Sahara seguirán incidiendo sobre el territorio nacional, manteniendo cielos opacos y temperaturas elevadas durante el desarrollo de los Juegos Centroamericanos y del Caribe. El boletín indicó que podrían registrarse aguaceros pasajeros en Monseñor Nouel, La Vega y el sur de Santiago, mientras que para la noche se prevé un ambiente sin precipitaciones significativas. Las autoridades recomiendan hidratación constante a atletas, personal técnico y espectadores.</description>
+      <category>Noticias</category>
+      <link>https://www.n.com.do/2026/07/26/polvo-sahara-cielo-opaco-calor-juegos-centroamericanos-2026/</link>
+      <guid isPermaLink="true">https://www.n.com.do/2026/07/26/polvo-sahara-cielo-opaco-calor-juegos-centroamericanos-2026/</guid>
+      <source url="https://www.n.com.do/2026/07/26/polvo-sahara-cielo-opaco-calor-juegos-centroamericanos-2026/">n.com.do</source>
+      <pubDate>Sun, 26 Jul 2026 21:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Belice domina a Nicaragua en el estreno del baloncesto masculino de los Centroamericanos</title>
+      <description>La selección de Belice superó a Nicaragua 99-85 en el partido inaugural de la ronda preliminar del baloncesto masculino de los Juegos Centroamericanos y del Caribe, disputado en la Arena BanReservas del Centro Olímpico Juan Pablo Duarte. Josiah Moseley lideró a los ganadores con 32 puntos y 10 rebotes, seguido por Douglas Langford con un doble-doble de 19 tantos y 15 capturas. La ventaja de 19 puntos construida por Belice en la primera mitad resultó determinante para el desenlace.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/belice-consigue-victoria-basket-masculino/</link>
+      <guid isPermaLink="true">https://eldia.com.do/belice-consigue-victoria-basket-masculino/</guid>
+      <source url="https://eldia.com.do/belice-consigue-victoria-basket-masculino/">El Día</source>
+      <pubDate>Sun, 26 Jul 2026 21:54:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wilfrido de la Cruz conquista el oro taekwondístico para RD en los Centroamericanos</title>
+      <description>El taekwondista dominicano Wilfrido de la Cruz se colgó la medalla de oro en la categoría de menos de 54 kilogramos de los Juegos Centroamericanos y del Caribe Santo Domingo 2026, tras vencer al hondureño Derek Midence en la final. El nativo de Monte Plata aseguró su clasificación a los Juegos Panamericanos de Lima 2027 y mencionó que dedicó dos meses de preparación fuera del país para alcanzar este resultado. El triunfo representa el tercer oro dominicano en el certamen regional.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/wilfrido-de-la-cruz-logra-medalla-de-oro-en-taekwondo-centroamericanos/</link>
+      <guid isPermaLink="true">https://eldia.com.do/wilfrido-de-la-cruz-logra-medalla-de-oro-en-taekwondo-centroamericanos/</guid>
+      <source url="https://eldia.com.do/wilfrido-de-la-cruz-logra-medalla-de-oro-en-taekwondo-centroamericanos/">El Día</source>
+      <comments>Diario Libre: https://www.diariolibre.com/deportes/olimpismo/2026/07/26/wilfrido-de-la-cruz-capturo-el-tercer-oro-dominicano-en-los-jcc/3611271</comments>
+      <comments>n.com.do: https://www.n.com.do/2026/07/26/wilfrido-de-la-cruz-oro-taekwondo-rd-santo-domingo-2026/</comments>
+      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/IMG_20260726_160600-150x150.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 21:53:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>La película 'La Odisea' de Christopher Nolan lidera la taquilla norteamericana por segunda semana</title>
+      <description>La cinta 'La Odisea' mantuvo el primer lugar de la taquilla en Norteamérica durante su segundo fin de semana con 87 millones de dólares, una caída de apenas 30% respecto a su estreno. El filme del director Christopher Nolan acumula 639,6 millones de dólares a nivel mundial, impulsado en gran medida por las pantallas de formato IMAX. El responsable de tendencias de Rentrak calificó el resultado como una prueba del entusiasmo del público por la última epopeya del cineasta británico.</description>
+      <category>Mundo</category>
+      <link>https://eldia.com.do/la-odisea-sigue-imparable-y-encabeza-la-taquilla-en-cines-de-norteamerica/</link>
+      <guid isPermaLink="true">https://eldia.com.do/la-odisea-sigue-imparable-y-encabeza-la-taquilla-en-cines-de-norteamerica/</guid>
+      <source url="https://eldia.com.do/la-odisea-sigue-imparable-y-encabeza-la-taquilla-en-cines-de-norteamerica/">El Día</source>
+      <pubDate>Sun, 26 Jul 2026 21:52:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tito Swing estrena 'Mi cuarto no son pa' ti' con distribución internacional</title>
+      <description>El merenguero de calle Tito Swing presentó su nuevo sencillo 'Mi cuarto no son pa' ti', un tema que aborda con humor la decisión de no gastar en complacer caprichos ajenos y que ya rota en radio y plataformas digitales. La producción llega bajo el sello Sueños Records, presidido por Wilda Díaz, y combina la tambora, la güira y los metales con códigos urbanos modernos. El artista describió la canción como merengue de calle puro con el sazón dominicano característico.</description>
+      <category>Noticias</category>
+      <link>https://eldia.com.do/tito-swing-regresa-con-el-estreno-de-mi-cuarto-no-son-pa-ti/</link>
+      <guid isPermaLink="true">https://eldia.com.do/tito-swing-regresa-con-el-estreno-de-mi-cuarto-no-son-pa-ti/</guid>
+      <source url="https://eldia.com.do/tito-swing-regresa-con-el-estreno-de-mi-cuarto-no-son-pa-ti/">El Día</source>
+      <pubDate>Sun, 26 Jul 2026 21:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>El mexicano William Arroyo se corona en poomsae de los Juegos Centroamericanos</title>
+      <description>El taekwondista mexicano William Arroyo conquistó la medalla de oro en la rama masculina individual del torneo de Poomsae de los Juegos Centroamericanos y del Caribe Santo Domingo 2026 con una puntuación de 8.820. El podio lo completaron el costarricense Víctor Cantillano con la plata y los bronces del puertorriqueño Luis Colón y el guatemalteco Cristian Aguilar. El dominicano Joel Vilorio se ubicó quinto con 7.900 puntos en una jornada de alto nivel técnico.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/mexicano-william-se-corona-en-el-poomsae/</link>
+      <guid isPermaLink="true">https://eldia.com.do/mexicano-william-se-corona-en-el-poomsae/</guid>
+      <source url="https://eldia.com.do/mexicano-william-se-corona-en-el-poomsae/">El Día</source>
+      <pubDate>Sun, 26 Jul 2026 21:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>México barre en aguas abiertas con dos oros en los Juegos Centroamericanos</title>
+      <description>Los nadadores mexicanos Dalia Moreno y Paulo Strehlke conquistaron sendas medallas de oro en la prueba de tres kilómetros de velocidad de aguas abiertas de los Juegos Centroamericanos y del Caribe Santo Domingo 2026. Moreno completó el recorrido femenino en 7:00.9, seguida por su compatriota Yuritzi Salgado y la venezolana Paola Pérez. En la rama masculina, Strehlke cronometró 6:53.8, por delante de los venezolanos Ronaldo Zambrano y Diego Vera.</description>
+      <category>Deportes</category>
+      <link>https://eldia.com.do/mexico-se-lleva-dos-preseas-doradas-aguas-abiertas/</link>
+      <guid isPermaLink="true">https://eldia.com.do/mexico-se-lleva-dos-preseas-doradas-aguas-abiertas/</guid>
+      <source url="https://eldia.com.do/mexico-se-lleva-dos-preseas-doradas-aguas-abiertas/">El Día</source>
+      <enclosure url="https://eldia.com.do/wp-content/uploads/2026/07/Dalia-Moreno-.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 21:14:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Omar Fernández y su padre Leonel intercambian roles en un video cargado de simbolismo político</title>
+      <description>El senador Omar Fernández y su padre, el expresidente Leonel Fernández, protagonizaron un intercambio de roles en un video publicado el Día del Padre, en el que el joven legislador asumió el papel del Líder y el dirigente de Fuerza del Pueblo se puso en los zapatos del congresista. La dinámica, difundida en Instagram, fue percibida como un guiño a las aspiraciones presidenciales del senador, quien cerró la escena con la frase 'uno como que se acostumbra a esto'. Ambos acostumbran a publicar contenidos que reflejan la relación política y familiar entre ellos.</description>
+      <category>Noticias</category>
+      <link>https://www.diariolibre.com/politica/partidos/2026/07/26/uno-se-acostumbra-el-guino-politico-de-omar-al-asumir-rol-de-leonel/3611083</link>
+      <guid isPermaLink="true">https://www.diariolibre.com/politica/partidos/2026/07/26/uno-se-acostumbra-el-guino-politico-de-omar-al-asumir-rol-de-leonel/3611083</guid>
+      <source url="https://www.diariolibre.com/politica/partidos/2026/07/26/uno-se-acostumbra-el-guino-politico-de-omar-al-asumir-rol-de-leonel/3611083">Diario Libre</source>
+      <enclosure url="https://resources.diariolibre.com/images/2026/07/26/crop-w2559-h1706-uno-como-que-se-acostumbra-el-guino-politico-de-omar-al-asumir-pape-537e0886-focus-0.09-0.58-400-300.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 12:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Washington suspende por segunda jornada los bombardeos sobre territorio iraní</title>
+      <description>El gobierno de Donald Trump mantuvo la pausa en los ataques militares contra Irán por segundo día consecutivo, tras casi dos semanas de ofensivas sobre zonas costeras e infraestructuras del país persa. El director de comunicaciones de la Casa Blanca señaló que el presidente prefiere una salida diplomática pero advirtió que mantiene todas las opciones sobre la mesa. Por su parte, el mando militar iraní anunció que sus tropas también se abstendrán de ejecutar ataques, en medio del periodo de 60 días pactado para negociar un acuerdo definitivo sobre el programa nuclear.</description>
+      <category>Mundo</category>
+      <link>https://www.diariolibre.com/mundo/resto-del-mundo/2026/07/26/por-que-trump-pauso-ataques-contra-iran-por-segundo-dia-consecutivo/3611200</link>
+      <guid isPermaLink="true">https://www.diariolibre.com/mundo/resto-del-mundo/2026/07/26/por-que-trump-pauso-ataques-contra-iran-por-segundo-dia-consecutivo/3611200</guid>
+      <source url="https://www.diariolibre.com/mundo/resto-del-mundo/2026/07/26/por-que-trump-pauso-ataques-contra-iran-por-segundo-dia-consecutivo/3611200">Diario Libre</source>
+      <enclosure url="https://resources.diariolibre.com/images/2026/07/22/trump-amenaza-con-destruir-puentes-y-plantas-electricas-en-iran-15a8a25e-focus-0-0-400-300.jpg" type="image/jpeg" />
+      <pubDate>Sun, 26 Jul 2026 13:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
